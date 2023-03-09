@@ -1,0 +1,147 @@
+,ID,Category,Question,Answer,Source
+,1,General,What document should I read first before asking a question?,Please read the Last to market planetary-scale human resources infrastructure document.,bld.ai FAQ
+,2,Guild,What is the `Global max mid bill rate`?,"For every level, for every guild, and for every geography we define a range of hourly rates. For instance, a level 1 Engineer in EG should normally charge between $18 and $27 per hour, and will have a `Bill rate mid` of $23. This is the default number that gets loaded in flow.bld.ai when this person is added to a project. It is always possible for a PM to suggest a different rate, however, the minimum is the `Bill rate low` and there is no maximum. PMs will have conversations with clients to adjust rates for specific individuals, and (most of the time) this is significantly faster than inflation. The `Global max mid bill rate` is the maximum value that this middle range can take for an individual at that level across all guilds and geographies. This level of control allows us to very quickly and easily adjust everything globally in a way that it is globally fair, transparent, and efficient.""",bld.ai FAQ
+,3,Houses,Can individuals transfer houses?,"Currently we are not allowing house transfers as managing this process in flow will be difficult. However, in the near future we do want to allow people to do so via flow.",bld.ai FAQ
+,4,Houses,How does a housemaster (whether house of one or house of many) do house expenses?,"Every Brex card has to be tied to an individual. Whether the housemaster spends on a laptop for themselves or pays for a big team dinner for his house, it is the same Brex card. The advantage of using an expense card is that these are before tax dollars. ",2022 05 05 all hands Q1
+,5,Houses,Can a house of one expand to 2/3 etc..?,Yes. Every house starts as a house of one.,2023 05 05 all hands Q2
+,6,Houses,"How hard would be the process of switching houses, giving that the comp engine is now involved?","There is no process, instead we are building a software. It's your decision to switch house as long as you are in good standing with your current house. Per vision document: ""Houses can decide whether to accept or remove someone and can set up a membership agreement."" However, please wait until the house budgetting engine is implemented in flow.bld.ai. We don't have the administrative overhead to handle this manually. ",2024 05 05 all hands Q3
+,7,Houses,How does the brex expense process work? ,"There is no process. You use the card and follow the Brex software. We will be setting a policy but for the time being, please apply reason. You can expense work related items such as office equipment, cell phone, laptop, flights, hotels, and team events. ",2025 05 05 all hands Q4
+,8,Houses,Thoughts on company/continent-wide retreats?,"It is up to the houses to decide how much budget to allocate to this. For instance, House Mahusai are both organizing events in Q2 2022 in the Philippines and Europe respectively. We encourage houses to be welcoming of other houses during in their events. ",2026 05 05 all hands Q5
+,9,flow.bld.ai / work,"What is the ""plan"" sheet on bld.ai worker flow used for?","It enables PMs to find, onboard, and manage their team members for their client/projects. It enables housemasters to plan and allocate their workers' capacities.",2027 05 05 all hands Q6
+,10,Equity,Could you share with us any updates on our Oct target IPO? ,This has moved into 2023.,2022 04 21 Americas Q1
+,11,Equity,How is IPO planned to interact with equity compensation?,It is a mechanism to establish the fair market value of the stocks workers of bld.ai own. It is a market for buying/selling these stocks.,2023 04 21 Americas Q2
+,12,House,Could you breakdown what each column in the Housemaster Flow represents?,,2024 04 21 Americas Q3
+,13,Houses,What's our bottleneck in terms of recruiting right now? Are we looking to hire more PMs?,We are looking to hire more PM. We prefer PM with 3-5 years of experience as we could benefit from their experience. ,2025 04 21 Americas Q4
+,14,flow.bld.ai / recruit,How many jr. and sr. engineers have we hired recently? How many can we anticipate coming in after training in the upcoming weeks?,The worker flow should give information like this. ,2026 04 21 Americas Q5
+,15,Admin,Are we establishing a company in Egpyt? I like the current structure and I think establishing one will get us into lots of headache of more taxes. If so we could have a voting on that for Egypt team? or can it be optional to join this one?,"While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less. ",2022 04 21 EMEA Q2
+,16,flow.bld.ai / recruit,What is exactly the role of the closer in the recruitment process?How can there be 2 closers? Does it have include at least one housemaster?,The closer is the person who convinces another one to join. There does not need to be 2 closers. Housemasters may or may not the be closers. ,2022 04 21 EMEA Q3
+,17,New employees,"Can a new hire be a house of 1? (If he needs no training, or can train individually)",Yes.,2022 04 21 EMEA Q4
+,18,Houses,As a house of one. Will I still be receiving my recruiting cost if I joined another company or will I be removed from bld system?,"As a worker, regardless of whether you are a house of one or part of a larger house, as long as you remain in good standing with bld.ai, you will continue to receive commissions. Good standing is not properly defined yet, but starter ideas include: charge at least 4hr of work per month, contribute to a succesfull sell, contribute to a succesful hire. ",2022 04 21 EMEA Q5
+,19,Expenses,How Brex is different from having a payroll account?,"Brex is for expensing (= before tax). Payroll you are taxed on. In other words, if you want to pay for your cellphone plan and you use $50/month for that, using Brex is cheaper for you. If this money when through payroll, you would have to pay income on the $50 (effectively costing you $60-70 of ""gross compensation"". ",2022 04 21 Asia Q1
+,20,Expenses,I'm not really familiar with Brex but will there be an onboarding on how to use it eventually?,https://www.youtube.com/watch?v=14rv96SY1ys,2022 04 21 Asia Q2
+,21,Expenses,"Just to clarify, do we have full discretion on when can we spend the money on our BREX account?","Full discretion within reason. You can buy equipment (laptop, cellphone, etc.) that you use for work. You can expense a meal with your colleagues once a month.  But you cannot use it for buying a gift for your mother.",2022 04 21 Asia Q3
+,22,Delete,What else do you want to do by the time you're 90?,Finish my PhD - Danny,2022 04 21 Asia Q4
+,23,Delete,What is Danny doing in Sg?,"Trying to setup bld.ai in a country with one of the best country for doing business (low corruption, low tax, highly educated workforce, etc.)",2022 04 21 Asia Q5
+,24,Delete,What makes you so passionate about bld.ai?,"It is very meaningful to me to create an infrastructure that incentivises training and job creation without prejudice for nationality, gender, race, religion, etc.",2022 04 21 Asia Q6
+,25,Equity,Why is an IPO important at this stage in the company?,So that we can have a fair market value for share buy back. ,2022 04 21 Asia Q7
+,26,Meetup,Will there be a meetup in Manila?,Hopefully soon. Perhaps in late May or early June.,2022 04 21 Asia Q8
+,27,Meetup,Will we organize a company-wide meetup?,Hopefully soon. Perhaps in early December in Sharm El-Sheikh in Egypt for ACPC?,2022 04 21 Asia Q9
+,28,Equity,Is it possible to allocate more than 10% of total compensation as equity? (20%),"There is currently no slider to change the equity, but this is a feature we want to build. ",2022 04 14 Q&A Q1
+,29,Admin,when can we expect to receive the submitted gross comp ,In the next few days. Wise has lowered daily limits and I was waiting for House of 1 updates,2022 04 14 Q&A Q2
+,30,Admin,Are we switching to brex cash?,"We are moving away from using Wise Business account to send payments, and using Brex Cash for international wire transfers  or ACH (US bank account to a US bank account which you can have with a Wise Personal account).",2022 04 14 Q&A Q3
+,31,Admin,"For the Egyptians, should we ignore the taxes and benefits cost column in the sheet?",No. Egyptians also need to pay their taxes.,2022 04 14 Q&A Q4
+,32,Houses,Can I keep my budget fully and receive no cash compensation for a month?,Yes.,2022 04 14 Q&A Q5
+,33,Houses,Can house of one expand to be a big house?,Yes.,2022 04 14 Q&A Q6
+,34,flow.bld.ai / earn,"In the comp engine, what does the column ""actual cash cost to bld balance"" (under balances tab) mean ?","It is the sum of the cash outflows (in USD) from bld.ai that are associated with the person. It includes things suchs as: wire transfers, health care insurance, government taxes, and expenses.",Housemaster Q&A Q1
+,35,Houses,"How can we calculate the current house balance, for Jan and Feb ? Perhaps  Danny could record a video on how to do that","We will compte this for you. As of April 7, 2022, we are still missing complete work logs for March so we can't do it just yet.",Housemaster Q&A Q3
+,36,Houses,Any agreed upon formula for the house deficit allowance yet ?,"Per vision document, ""The maximum deficit that a house can run (e.g., the greater of $500 or 2% of the last three months' weighted average house budget)."" The board has not voted on anymore specific. We are collected ideas - please send them in.",Housemaster Q&A Q4
+,37,,"If an employee's 'total cost balance' is higher than their 'actual cash cost to bld balance' is it possible to receive that difference as monetary compensation? If so, what is the proper way to receive that?","Per vision document, ""The minimum percentage equity is 10% of total compensation, but employees can use Flow to set a greater percentage of their compensation to be paid as equity."" We will retroactively go back to Jan 1st 2020 and pay the difference as equity. We will retroactively go back to Jan 1st 2022 and let you pick cash (or expense for pre-tax spend you need) or equity. ",Housemaster Q&A Q5
+,38,,"As per the above question: ""We will retroactively go back to Jan 1st 2022 and let you pick cash (or expense for pre-tax spend you need) or equity. "" It sounds like we will have the option to receive the difference as cash or equity. When will employees have the option to select between this compensation being cash or equity and when will that be paid out? And what would be the proper procedure for doing that?",,Housemaster Q&A Q6
+,39,Admin,Will we need to sign new contracts? (Post compensation engine),"We are going to establish employers of record in every country, so yes.",2022 03 19 Muqattam Q5
+,40,Guild,Is there any need for the salary re-evaluation that was initialy agreed on after applying the engine? (I assume there is no need),"Evaluations (per your guild) will continue to occur, but more systematically and frequently. But your salary will be determined by the house you join.",2022 03 19 Muqattam Q6
+,41,Houses,Will there be special working hours for ramadan?,"Yes, we want to follow local legal and customs.",2022 03 19 Muqattam Q7
+,42,Houses,Do we take national holidays off?,"Yes, we want to follow local legal and customs.",2022 03 19 Muqattam Q8
+,43,Admin,When and how salary is delivered?,"As soon as possible after the end of the month. The challenge is that work logs can affect the budget of each house, and work logs historically have not been accurate on the 1st of the month. Target date would be the 10th of every month.",2022 03 19 Muqattam Q9
+,44,,"In reference to this question - salaried persons are currently paid before the end of the month. What will the transition look like from someone who is paid monthly at a predictable time (currently on salary/fixed comp) to someone who is paid based on variable comp, which may not be on a predictable day? This is important because people's bills are due at the beginning of the month, etc. Would this end up being essentially two pay cycles for the transition month? (the standard pay schedule, and then a second payroll with the variable-comp persons for any remaining amount not paid on the salary amount)","In the US and Canada, we have to comply with laws for salaried, full time employees. In the US, we have been paying current (paid on the 28th for work period of the current month, 1st to the end of the month). Because of the parameters of comp engine, we will transition to within the 10th of the following month (work period 1st to the end of the previous month), dependent on each state's laws. When we move to paying for the previous month, this will be on a fixed date and we will have to do a transition payroll as needed to allow for people to plan. Because different states have different laws, this is not as easy to do so I'm waiting for the process (worklogs download, etc.) to be more predictable and stable. In any case, I will let you know in advance before doing this. ",2022 03 19 Muqattam Q10
+,45,flow.bld.ai / earn,When will we be able to access a new version of the comp engine sheet to review the formulas + our current individual standing?,"We cannot widely release the engine because the work logs may contain client confidential information. However, we can release an engine with fictitious information. On the other hand, we can release enough information that you should be able to cross validate. The team in charge of implementing Flow just got started and will be releasing pieces of the engine every week starting early April.",2022 03 19 Muqattam Q11
+,46,Existing employees,how to get a raise and get higher in level? and can we have more visibility on our perfomance and how to get to the next level,"Raise is handled by the house you belong to, which could be a house of one. Level depends on the tribe(s) you belong to. ",2022 03 03 Q&A Q1
+,47,Houses,Can we expect a different salary in March after rolling out the engine?,"Depends on your housemaster. If you are a house of one, then that depends on you.",2023 03 03 Q&A Q2
+,48,Houses,when to expect the brex ,As soon as housemaster gives us this information. The Brex script is ready.,2025 03 03 Q&A Q4
+,49,Houses,do I have to be in a house,Yes.,2026 03 03 Q&A Q5
+,50,Houses,when to expect the houses to rollout,Before the end of March. @janis is faciliating the process.,2027 03 03 Q&A Q6
+,51,Houses,how does being a solo house member affect my rate and compensation?,"As a house of one, you are the house master. Your rate and your compensation is at your discretion. ",2028 03 03 Q&A Q7
+,52,New employees,Would it be the standard to receive the salary after the first week of the month after the engine working?,"Yes. Our objective is to pay as soon as possible. If the work logs were perfect, we would pay salaries on the 1st. Realistically, it will probably take until the 10th until flow.bld.ai is built and tested.",2029 03 03 Q&A Q8
+,53,Houses,who will be responsible for performance monitoring and coaching? tribe leader or mentor?,The tribe sets your level.,2030 03 03 Q&A Q9
+,54,Houses,what is the responsibility of a housemaster ?,"Recruit, train, assign, pay, and ensure wellbeing of house members.",2031 03 03 Q&A Q11
+,55,Houses,what are some disadvantages of a house of one person?,"Mainly not getting the benefits of being in a larger house (training, stability and resource pooling)",2031 03 03 Q&A Q12
+,56,Houses,what will happen to the mentor signup from before?,This feature is going away. ,2031 03 03 Q&A Q13
+,57,Guilds,is being part of a guild required?,No.,2031 03 03 Q&A Q14
+,58,Equity,Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?  ,Equity compensastion is not tax inefficient as far as we are aware.,2031 03 03 Q&A Q15
+,59,Houses,Where can we access the House survey (I can only see the old survey for sourcing House ideas in my inbox),Survey link.,2031 03 03 Q&A Q16
+,60,Houses,Can a house opt out of resource/compensation pooling or does that effectively just make it a guild?,The housemaster can decide passthrough the contributions of the members. A guild does not have a budget.,2031 03 03 Q&A Q17
+,61,Houses,"If I am a house of one, do i get the full 70%? If not, how many members does a house have to have?","Houses collectively have 70% of the budget of bld.ai. Individual houses will get 50% of their housemember's work, plus 10% of their members recruiting contributions globally, plus 10% of their members selling contributions globally.  A house must have at least 1 member.",2031 03 03 Q&A Q18
+,62,Houses,can we expect February salary as a house of one for each one or we should wait for next month ?,The compensation is retroactive since Jan 2020. Equity will be paid until Dec 2021. Jan 2022 is TBD. Feb 2022 will use this new engine (V9.0).,2031 03 03 Q&A Q19
+,63,Houses,Will houses of one have bld.ai listed as their direct employer?,"Houses are departments of bld.ai, they are not tax paying corporations. If ""listed"" refers to LinkedIn, then yes we expect that everyone with a bld.ai email will list bld.ai on their LinkedIn. If ""listed"" refers to employer of record for tax purposes, then it depends on the country in which you reside. But for every country, bld.ai will select one and only one employer of record. ",2031 03 03 Q&A Q20
+,64,Houses,Will being in a house affect what projects I get assigned to?,"Potentially. Your housemaster has discretion on this. However, you may leave your house if you are in good standing. ",2031 03 03 Q&A Q21
+,65,Delete,What is the main reason behind killing mentoring? Houses? ,Too complicated (for now) and we wanted to ship something quickly.,2031 03 03 Q&A Q22
+,66,flow.bld.ai / earn,is 10% rsu cut from my 50% or the total 100%?,Equity compensation is ≥10% of total compensation (which is determined by the housemaster of your house). ,2031 03 03 Q&A Q23
+,67,Houses,will the people who are in the same house be equal in their salaries ?,No. It is up to the housemaster(s) of the house you belong to.,2031 03 03 Q&A Q24
+,68,Houses,are people in the same house will be the same for salaries? ,No. It is up to the housemaster(s) of the house you belong to.,2031 03 03 Q&A Q25
+,69,Houses,How are local holidays managed?,We respect local laws. Housemasters can add more on top at their discretion.,2031 03 03 Q&A Q26
+,70,Houses,"What is the process to request an increase or decrease (i.e., increment) in my Brex account limit as a member of a large house?","As a member of a large house, you must inform your housemaster of the amount you wish to increment your Brex account limit by. For example, if your current account limit is $50USD and you wish to have a limit of $150USD you must request your housemaster to increment your Brex account by $100 USD. ",bld.ai FAQ
+,71,Existing employees,For what reasons can someone get let go from bld.ai?,"We will fire people for reasons like racism, sexism, fraud, bullying, cybersecurity breaches, etc. We do not ""fire"" workers for poor performance. The guilds handle levels and the houses handle market forces to ensure hourly rates and budget are efficiently in line with supply and demand. Housemasters can remove individuals from their houses.",bld.ai FAQ
+,72,Work logs,What increments do we bill at?,"The engine works on floating point numbers, so you can go as small as you deem practical. ",bld.ai FAQ
+,73,Existing employees,What is the financial impact to a houseofone or a houseofmany if a client does not pay their invoice? ,"Houses will receive budget associated with the work logs, recruiting, and selling that they their members as long as the work log falls within the bld.ai knowledge work standards as defined by the guilds. To date, we have seen some isolated instances of workers who charged excessive work logs and those work logs have not been billed to the client nor have the houses received budget for this. If a client is late on payment, we stop the work automatically and the XCo has to vote to approve exceptions. ",bld.ai FAQ
+,74,Projects,How do I leave my project?,"To leave a project for any reason, you must get the approval of both the PM and the Client (via the PM) to allow the team to find a replacement and perform the transition if necessary. You may be required by the PM to turnover your work to your replacement before approving your request. If either PM or Client denies the request, you may escalate the matter to your housemaster. Should the PM and Housemaster be unable to settle the request, it must be escalated to the XCo.",bld.ai FAQ
+,75,Houses,Can I be a house-of-one at my level?,You must be at least a level 3 in any guild to become a house of one.,bld.ai FAQ
+,76,Houses / Recruitment,Can I recruit a new candidate at bld.ia to be a house-of-one?,That recruit must be coming in at level 3 or higher in any guild to qualify to be a house of one.,bld.ai FAQ
+,77,Houses / Recruitment,What does it mean that housemasters do not have direct control over workers in their house?,"Houses determine the gross total compensation and the expense account contributions of their workers. Workers can choose the exact percentage they wish to receive as vesting equity. 
+
+On a given month, a worker may charge a client $8,000 USD, which would give their house $4,000.  In addition, the worker may have contributed to a proposal and recruiting, earning an extra $1,600 that month. Total house contribution by this worker: $6,600. 
+
+The housemaster may have set the gross total compensation cost and the expense contribution of this worker to be $5,200 and $300 (office, travel, and cellphone plan) respectively. Total cost to the house  of that worker: $5,500 (leaving $1,100 for rainy days or other house expenses like training).
+
+The worker may have decided to take 20% of this $5,200 as vesting equity, which would be 104 units (assuming $10/unit). In addition, the worker may have health insurance converate (e.g., $100), tax deductions (e.g., $320), bank fees (e.g., $40) and foreign exchange (assuming final amount is not in USD). Net, the worker may see in their bank account 5,200*(1-0.2)-(100+320+40) = $3,700.
+
+If this hypothetical scenario happens after IPO, then the worker may also opt to sell 200 vested shares (that they would have previously accumulated at a cost of $2, or $400 in the past), adding an additional $2,000 compensation (less applicable capital gains taxes).",2022 06 16 all hands asia
+,78,General,What is the bld.ai engine?,"The compensation engine is at the core of bld.ai innovation. Per vision document, it handles the following:
+Maintains the canonical source of truth for all past and present workers and their associated
+1. House 
+2. Guild (level)
+3. Recruits
+4. Sales
+5. Expense
+6. Compensation (plan and actual)
+7. Units of equity
+8. Work logs
+9. Skills
+10. Clients and projects
+
+The engine mainly processes 6 main inputs, discussed concisely below.",
+,79,General,What are work logs?,"Work logs are the largest (in terms of quantity) input to the engine, they are inputted by the individual workers for the work they do for different clients. Each individual work log contains the following information:
+The project this worklogs is billed against.
+The worker who accomplished the task.
+A description of the task accomplished.
+The date of that work log.
+How many hours were spent on the task.
+The hourly rate of the worker in the project.
+
+Worklogs are heavily audited, they are checked by the PM of the project, the QA team and then once again once we bill the client.
+",
+,80,General,What is the recruiter flow?,"This is where we keep data about the workers that bld.ai has as well as data about who were involved in the recruitment process for each worker.
+For each worker, we store the following information:
+Worker’s email address.
+The hire date of the worker.
+The house that recruited the worker.
+Emails of the sourcers of the worker.
+Emails of the interviewers of the worker.
+Emails of the closers with the worker.
+This is used later to calculate the commission of the recruiters.",
+,81,General,What is the seller flow?,"This is where we keep data about the projects that bld.ai are currently involved in, this includes the different workers involved in closing the deal with the client.
+For each project, we store the following information:
+Project name.
+Project’s start date
+Emails of the project sourcers.
+Emails of the project proposal writers.
+Emails of the project closers.
+This is used later to calculate the commission of the sellers.",
+,82,General,What is the house in flow?,"House inflow is an input entered by the house masters for each of their respective house members to determine the compensation the worker should receive. 
+The house master defines the following for each worker for each period (month):
+The worker’s email.
+The gross compensation of the worker.
+How much of that compensation should go as cash to the worker.
+How much should be added to the worker’s expenses credit card.
+",
+,83,General,What are the engine parameters?,"Engine parameters are responsible for determining how the revenue from each individual worklog is distributed.
+As of 16th Jul 2022, the parameters are:
+
+Worker, 50% =>  Percentage that the worker’s house gets from the worklog they submit.
+Recruiter, 10% => Commission for the recruiters of the worker who submitted the worklog. The recruiter’s house gets this.
+Seller, 10% => Commission for the sellers of the project that the worker submitted the worklogs for. The seller’s house gets this.
+Overhead, 10% => This goes to cover the internal functions of the company (accounting, legal, etc…) as well as building software to be used by the company itself (ex. Flow)
+Margin profit, 20% => Profit for the stakeholders of the company
+
+",
+,84,General,What are the actuals?,"Actuals are the gross cash numbers sent to each worker after the different components like taxes and benefits have been added. This is then used to calculate how much the worker was really paid in each period, which then determines how much equity the worker will get in bld.ai.
+Actuals come from different sources by nature, since bld.ai is a global company, multiple payment methods are used depending on the country of the worker. These numbers are then aggregated in place to be uniform and easily referenceable. 
+",
