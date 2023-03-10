@@ -1,1 +1,22 @@
-"Here are 5 examples of prompts and completions in JSON format:\n\n1. Prompt: \"Can you explain the process for submitting expenses with Brex?\" \nCompletion: \"To submit expenses with Brex, simply use your Brex card and follow the steps in the Brex software. Currently, we don't have a specific process or policy in place, so please use your best judgement when expensing work-related items like office equipment, cell phones, laptops, flights, hotels, and team events.\"\n\n2. Prompt: \"What's the best way to expense a team event with Brex?\" \nCompletion: \"To expense a team event with Brex, simply use your Brex card and follow the steps in the Brex software. Since there is no specific process or policy in place at the moment, we rely on each employee's judgement to expense work-related events like team outings.\"\n\n3. Prompt: \"How do I get reimbursed for work expenses with Brex?\" \nCompletion: \"Currently, there is no process in place for getting reimbursed for work expenses with Brex. Instead, employees are encouraged to use their Brex card and submit expenses through the Brex software. Please apply reason when expensing work items like office equipment, cell phones, laptops, flights, hotels, and team events.\"\n\n4. Prompt: \"Is there a formal policy in place for expensing work-related items with Brex?\" \nCompletion: \"At the moment, we don't have a formal policy in place for expensing work-related items with Brex. However, we recommend using your best judgement and applying reason when you need to expense items like office equipment, cell phones, laptops, flights, hotels, and team events.\"\n\n5. Prompt: \"What's the process for expensing a flight with Brex?\" \nCompletion: \"To expense a flight with Brex, simply use your Brex card and follow the steps in the Brex software. While there is currently no specific process or policy in place, we ask that you apply reason when expensing work-related items like flights, and ensure that your purchases align with your job duties.\""
+[
+    {
+    "prompt": "Can you explain the process for submitting expenses with Brex?",
+    "completion": "To submit expenses with Brex, simply use your Brex card and follow the steps in the Brex software. Currently, we don't have a specific process or policy in place, so please use your best judgement when expensing work-related items like office equipment, cell phones, laptops, flights, hotels, and team events."
+    },
+    {
+    "prompt": "What's the best way to expense a team event with Brex?",
+    "completion": "To expense a team event with Brex, simply use your Brex card and follow the steps in the Brex software. Since there is no specific process or policy in place at the moment, we rely on each employee's judgement to expense work-related events like team outings."
+    },
+    {
+    "prompt": "How do I get reimbursed for work expenses with Brex?",
+    "completion": "Currently, there is no process in place for getting reimbursed for work expenses with Brex. Instead, employees are encouraged to use their Brex card and submit expenses through the Brex software. Please apply reason when expensing work items like office equipment, cell phones, laptops, flights, hotels, and team events."
+    },
+    {
+    "prompt": "Is there a formal policy in place for expensing work-related items with Brex?",
+    "completion": "At the moment, we don't have a formal policy in place for expensing work-related items with Brex. However, we recommend using your best judgement and applying reason when you need to expense items like office equipment, cell phones, laptops, flights, hotels, and team events."
+    },
+    {
+    "prompt": "What's the process for expensing a flight with Brex?",
+    "completion": "To expense a flight with Brex, simply use your Brex card and follow the steps in the Brex software. While there is currently no specific process or policy in place, we ask that you apply reason when expensing work-related items like flights, and ensure that your purchases align with your job duties."
+    }
+    ]

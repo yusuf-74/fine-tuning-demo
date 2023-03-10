@@ -1,1 +1,22 @@
-"\n\nHere are 5 examples of JSON prompts and completions that match your request:\n\n1. {\n  \"prompt\": \"Why is it important for our company to consider an IPO at this stage?\",\n  \"completion\": \"So that we can have a fair market value for share buy back.\"\n}\n\n2. {\n  \"prompt\": \"What is the significance of an IPO for our company right now?\",\n  \"completion\": \"It would help us determine a fair value for stock buy backs.\"\n}\n\n3. {\n  \"prompt\": \"What are some reasons we should pursue an IPO at this point in time?\",\n  \"completion\": \"To have an accurate market value for when we want to buy back shares.\"\n}\n\n4. {\n  \"prompt\": \"How would going public benefit our company in terms of share buybacks?\",\n  \"completion\": \"It would allow us to determine a fair value for these transactions.\"\n}\n\n5. {\n  \"prompt\": \"What are some potential benefits of pursuing an IPO at this stage in our company's development?\",\n  \"completion\": \"One important benefit would be having a fair market value for share buybacks.\"\n}"
+[
+    {
+        "prompt": "Why is it important for our company to consider an IPO at this stage?",
+        "completion": "So that we can have a fair market value for share buy back."
+    },
+    {
+        "prompt": "What is the significance of an IPO for our company right now?",
+        "completion": "It would help us determine a fair value for stock buy backs."
+    },
+    {
+        "prompt": "What are some reasons we should pursue an IPO at this point in time?",
+        "completion": "To have an accurate market value for when we want to buy back shares."
+    },
+    {
+        "prompt": "How would going public benefit our company in terms of share buybacks?",
+        "completion": "It would allow us to determine a fair value for these transactions."
+    },
+    {
+        "prompt": "What are some potential benefits of pursuing an IPO at this stage in our company's development?",
+        "completion": "One important benefit would be having a fair market value for share buybacks."
+    }
+]

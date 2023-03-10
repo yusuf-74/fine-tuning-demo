@@ -1,1 +1,22 @@
-"Here is an example of how you can structure your prompts and completions in JSON format for your request:\n\n```json\n{\n  \"prompt\": \"Is being part of a guild required?\",\n  \"completions\": [\n    \"No, being part of a guild is not required.\",\n    \"Guild membership is optional.\",\n    \"No, you can still participate without joining a guild.\",\n    \"It's not necessary to be part of a guild to participate.\",\n    \"You can participate in activities without being a member of a guild.\"\n  ]\n}\n```\n\nYou can then use this JSON format to generate your prompts and completions programmatically. Let me know if you have any further questions or if you need help generating these prompts and completions."
+[
+    {
+        "prompt": "Is being part of a guild required?",
+        "completion": "No, being part of a guild is not required."
+    },
+    {
+        "prompt": "Guild membership mandatory?",
+        "completion": "No, being part of a guild is optional."
+    },
+    {
+        "prompt": "Can I participate without joining a guild?",
+        "completion": "Yes, you can still participate without joining a guild."
+    },
+    {
+        "prompt": "Do I have to be in a guild to participate?",
+        "completion": "No, it's not necessary to be part of a guild to participate."
+    },
+    {
+        "prompt": "Is guild membership required for activities?",
+        "completion": "No, you can participate in activities without being a member of a guild."
+    }
+]

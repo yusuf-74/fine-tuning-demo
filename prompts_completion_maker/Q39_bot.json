@@ -1,1 +1,22 @@
-"Here are five examples in JSON format:\n\n```\n{\n  \"prompt\": \"Is it necessary to re-evaluate the previously agreed-upon salary after using the engine? (Answer 'No')\",\n  \"completion\": \"Salary evaluations will continue according to your guild's guidelines, but they will be performed more regularly and systematically. Your salary will be based on the house you are assigned to.\"\n}\n\n{\n  \"prompt\": \"Do you think a salary re-evaluation is needed after applying the engine? (Answer 'No')\",\n  \"completion\": \"Your salary will be determined by the house you are assigned to, and evaluations will occur more frequently and in a more structured manner, as per your guild's guidelines.\"\n}\n\n{\n  \"prompt\": \"After using the engine, is it necessary to re-examine the agreed-upon salary? (Answer 'No')\",\n  \"completion\": \"Your salary will be based on the house you join, and evaluations will be conducted more systematically and frequently in accordance with your guild's procedures.\"\n}\n\n{\n  \"prompt\": \"Do you believe there is a need to reassess the previously agreed-upon salary after implementing the engine? (Answer 'No')\",\n  \"completion\": \"Your salary will be decided by the house you are assigned to, and evaluations will be carried out more consistently and frequently according to your guild's guidelines.\"\n}\n\n{\n  \"prompt\": \"Is a salary re-evaluation required after applying the engine? (Answer 'No')\",\n  \"completion\": \"Your salary will be based on the house you join, and evaluations will be performed more systematically and frequently in accordance with your guild's procedures.\"\n}\n```"
+[
+    {
+        "prompt": "Is it necessary to re-evaluate the previously agreed-upon salary after using the engine? (Answer 'No')",
+        "completion": "Salary evaluations will continue according to your guild's guidelines, but they will be performed more regularly and systematically. Your salary will be based on the house you are assigned to."
+    },
+    {
+        "prompt": "Do you think a salary re-evaluation is needed after applying the engine? (Answer 'No')",
+        "completion": "Your salary will be determined by the house you are assigned to, and evaluations will occur more frequently and in a more structured manner, as per your guild's guidelines."
+    },
+    {
+        "prompt": "After using the engine, is it necessary to re-examine the agreed-upon salary? (Answer 'No')",
+        "completion": "Your salary will be based on the house you join, and evaluations will be conducted more systematically and frequently in accordance with your guild's procedures."
+    },
+    {
+        "prompt": "Do you believe there is a need to reassess the previously agreed-upon salary after implementing the engine? (Answer 'No')",
+        "completion": "Your salary will be decided by the house you are assigned to, and evaluations will be carried out more consistently and frequently according to your guild's guidelines."
+    },
+    {
+        "prompt": "Is a salary re-evaluation required after applying the engine? (Answer 'No')",
+        "completion": "Your salary will be based on the house you join, and evaluations will be performed more systematically and frequently in accordance with your guild's procedures."
+    }
+]

@@ -1,1 +1,22 @@
-"Here are the five prompts and completions in JSON format:\n\n1. Prompt: \"Are we considering establishing a company in Egypt?\"\n   Completion: \"While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less.\"\n\n   ```\n   {\n      \"prompt\": \"Are we considering establishing a company in Egypt?\",\n      \"completion\": \"While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less.\"\n   }\n   ```\n\n2. Prompt: \"Do you think establishing a company in Egypt will cause more taxes and headaches?\"\n   Completion: \"If so, we could have a voting on that for Egypt team. Or can it be optional to join this one?\"\n\n   ```\n   {\n      \"prompt\": \"Do you think establishing a company in Egypt will cause more taxes and headaches?\",\n      \"completion\": \"If so, we could have a voting on that for Egypt team. Or can it be optional to join this one?\"\n   }\n   ```\n\n3. Prompt: \"Should we establish a company in Egypt?\"\n   Completion: \"While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less.\"\n\n   ```\n   {\n      \"prompt\": \"Should we establish a company in Egypt?\",\n      \"completion\": \"While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less.\"\n   }\n   ```\n\n4. Prompt: \"What are the potential risks of establishing a company in Egypt?\"\n   Completion: \"If so, we could have a voting on that for Egypt team. Or can it be optional to join this one?\"\n\n   ```\n   {\n      \"prompt\": \"What are the potential risks of establishing a company in Egypt?\",\n      \"completion\": \"If so, we could have a voting on that for Egypt team. Or can it be optional to join this one?\"\n   }\n   ```\n\n5. Prompt: \"Do you believe establishing a company in Egypt aligns with our company's goals?\"\n   Completion: \"While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less.\"\n\n   ```\n   {\n      \"prompt\": \"Do you believe establishing a company in Egypt aligns with our company's goals?\",\n      \"completion\": \"While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less.\"\n   }\n   ```"
+[
+    {
+        "prompt": "Are we considering establishing a company in Egypt?",
+        "completion": "While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less."
+    },
+    {
+        "prompt": "Do you think establishing a company in Egypt will cause more taxes and headaches?",
+        "completion": "If so, we could have a voting on that for Egypt team. Or can it be optional to join this one?"
+    },
+    {
+        "prompt": "Should we establish a company in Egypt?",
+        "completion": "While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less."
+    },
+    {
+        "prompt": "What are the potential risks of establishing a company in Egypt?",
+        "completion": "If so, we could have a voting on that for Egypt team. Or can it be optional to join this one?"
+    },
+    {
+        "prompt": "Do you believe establishing a company in Egypt aligns with our company's goals?",
+        "completion": "While your opinion is welcomed, we trust in the attorneys that we will select more. Ultimately, if we establish a corp in Egypt, it is because it makes creates more value for everyone, not less."
+    }
+]

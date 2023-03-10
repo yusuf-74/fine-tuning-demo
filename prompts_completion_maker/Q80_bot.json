@@ -1,1 +1,80 @@
-"Sure, here are the prompts and completions with their meanings:\n\nPrompt: What is the seller flow?\nCompletion: This is the process that bld.ai uses to close deals with clients. It involves multiple workers who contribute to different stages of the process. This flow is used to calculate the commission of the sellers.\n\nPrompt: Complete this - \"This is where we keep data about the projects that bld.ai are currently involved in, this includes the different workers involved in closing the deal with the client.\"\nCompletion: For each project, we store the following information: Project name, Project's start date, Emails of project sourcers, Emails of project proposal writers, and Emails of project closers.\n\nAnd here are five examples of JSON data that could represent projects and their associated information:\n\n1. {\"project_name\": \"Project A\", \"start_date\": \"2021-01-01\", \"sourcer_emails\": [\"jane@example.com\", \"john@example.com\"], \"proposal_writer_emails\": [\"susan@example.com\"], \"closer_emails\": [\"bob@example.com\", \"alice@example.com\"]}\n\n2. {\"project_name\": \"Project B\", \"start_date\": \"2021-02-15\", \"sourcer_emails\": [\"jim@example.com\"], \"proposal_writer_emails\": [\"kim@example.com\", \"tina@example.com\"], \"closer_emails\": [\"jon@example.com\"]}\n\n3. {\"project_name\": \"Project C\", \"start_date\": \"2021-03-30\", \"sourcer_emails\": [\"anne@example.com\"], \"proposal_writer_emails\": [\"matt@example.com\", \"melissa@example.com\"], \"closer_emails\": [\"sam@example.com\", \"gabe@example.com\"]}\n\n4. {\"project_name\": \"Project D\", \"start_date\": \"2021-04-22\", \"sourcer_emails\": [\"dave@example.com\", \"emily@example.com\"], \"proposal_writer_emails\": [\"daniel@example.com\"], \"closer_emails\": [\"sara@example.com\"]}\n\n5. {\"project_name\": \"Project E\", \"start_date\": \"2021-05-10\", \"sourcer_emails\": [\"rachel@example.com\"], \"proposal_writer_emails\": [\"peter@example.com\", \"jessica@example.com\"], \"closer_emails\": [\"tony@example.com\"]}"
+[
+    {
+        "prompt": "What is the seller flow?",
+        "completion": "This is the process that bld.ai uses to close deals with clients. It involves multiple workers who contribute to different stages of the process. This flow is used to calculate the commission of the sellers."
+    },
+    {
+        "prompt": "what data does bld.ai keep about its projects?",
+        "completion": "For each project, we store the following information: Project name, Project's start date, Emails of project sourcers, Emails of project proposal writers, and Emails of project closers."
+    },
+    {
+        "prompt": "give me an example about data bld.ai keeps about its projects",
+        "completion": {
+            "project_name": "Project A",
+            "start_date": "2021-01-01",
+            "sourcer_emails": [
+                "jane@example.com",
+                "john@example.com"
+            ],
+            "proposal_writer_emails": [
+                "susan@example.com"
+            ],
+            "closer_emails": [
+                "bob@example.com",
+                "alice@example.com"
+            ]
+        }
+    },
+    {
+        "prompt": "give me an example about data bld.ai keeps about its projects",
+        "completion": {
+            "project_name": "Project B",
+            "start_date": "2021-02-15",
+            "sourcer_emails": [
+                "jim@example.com"
+            ],
+            "proposal_writer_emails": [
+                "kim@example.com",
+                "tina@example.com"
+            ],
+            "closer_emails": [
+                "jon@example.com"
+            ]
+        }
+    },
+    {
+        "prompt": "give me an example about data bld.ai keeps about its projects",
+        "completion": {
+            "project_name": "Project C",
+            "start_date": "2021-03-30",
+            "sourcer_emails": [
+                "anne@example.com"
+            ],
+            "proposal_writer_emails": [
+                "matt@example.com",
+                "melissa@example.com"
+            ],
+            "closer_emails": [
+                "sam@example.com",
+                "gabe@example.com"
+            ]
+        }
+    },
+    {
+        "prompt": "give me an example about data bld.ai keeps about its projects",
+        "completion": {
+            "project_name": "Project D",
+            "start_date": "2021-04-22",
+            "sourcer_emails": [
+                "dave@example.com",
+                "emily@example.com"
+            ],
+            "proposal_writer_emails": [
+                "daniel@example.com"
+            ],
+            "closer_emails": [
+                "sara@example.com"
+            ]
+        }
+    }
+]

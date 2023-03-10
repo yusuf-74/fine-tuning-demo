@@ -1,1 +1,22 @@
-"Here are 5 example prompts with their respective completions in JSON format:\n\n1. Prompt: \"Can a small cottage be turned into a large house?\" - Completion: {\"completion\": \"Yes, it is possible to expand a small cottage into a larger house by adding more rooms or extending its walls and roof.\"}\n\n2. Prompt: \"Is it possible to build an addition onto a bungalow?\" - Completion: {\"completion\": \"Yes, you can build an addition onto a bungalow to expand its living space and increase its value.\"}\n\n3. Prompt: \"Can a single-story ranch house be transformed into a two-story house?\" - Completion: {\"completion\": \"Yes, it is possible to transform a single-story ranch house into a two-story house by adding a second floor or a partial second story.\"}\n\n4. Prompt: \"Can a small apartment be combined with the neighboring unit to create a larger one?\" - Completion: {\"completion\": \"Yes, it is possible to combine two adjacent apartments into a larger one by removing the common walls and reconfiguring the interior layout.\"}\n\n5. Prompt: \"Is it feasible to add more floors to a skyscraper?\" - Completion: {\"completion\": \"Yes, it is feasible to add more floors to a skyscraper by carefully planning the structural modifications and adhering to the local building regulations.\"}"
+[
+    {
+        "prompt": "Can a small cottage be turned into a large house?",
+        "completion": "Yes, it is possible to expand a small cottage into a larger house by adding more rooms or extending its walls and roof."
+    },
+    {
+        "prompt": "Is it possible to build an addition onto a bungalow?",
+        "completion": "Yes, you can build an addition onto a bungalow to expand its living space and increase its value."
+    },
+    {
+        "prompt": "Can a single-story ranch house be transformed into a two-story house?",
+        "completion": "Yes, it is possible to transform a single-story ranch house into a two-story house by adding a second floor or a partial second story."
+    },
+    {
+        "prompt": "Can a small apartment be combined with the neighboring unit to create a larger one?",
+        "completion": "Yes, it is possible to combine two adjacent apartments into a larger one by removing the common walls and reconfiguring the interior layout."
+    },
+    {
+        "prompt": "Is it feasible to add more floors to a skyscraper?",
+        "completion": "Yes, it is feasible to add more floors to a skyscraper by carefully planning the structural modifications and adhering to the local building regulations."
+    }
+]

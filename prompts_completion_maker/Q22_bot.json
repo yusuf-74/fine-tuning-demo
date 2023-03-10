@@ -1,1 +1,22 @@
-"Sure, here are the prompts and completions in JSON format:\n\n```\n[\n    {\n        \"prompt\": \"What is Danny doing in SG?\",\n        \"completion\": \"Trying to setup bld.ai in a country with one of the best country for doing business (low corruption, low tax, highly educated workforce, etc.)\"\n    },\n    {\n        \"prompt\": \"What is the purpose of Danny's visit to SG?\",\n        \"completion\": \"Danny is trying to set up bld.ai in a country with one of the best business environments (low corruption, low tax, highly educated workforce, etc.)\"\n    },\n    {\n        \"prompt\": \"Why did Danny choose to go to SG?\",\n        \"completion\": \"Danny went to SG because it has one of the best business environments (low corruption, low tax, highly educated workforce, etc.) and he wants to set up bld.ai there.\"\n    },\n    {\n        \"prompt\": \"What is Danny's objective in SG?\",\n        \"completion\": \"Danny's objective is to set up bld.ai in a country with one of the best business environments (low corruption, low tax, highly educated workforce, etc.) and SG fits the criteria.\"\n    },\n    {\n        \"prompt\": \"What is the reason for Danny's trip to SG?\",\n        \"completion\": \"Danny went to SG to set up bld.ai in a country with one of the best business environments (low corruption, low tax, highly educated workforce, etc.) and he believes it will be beneficial.\"\n    }\n]\n```\n\nI hope this helps! Let me know if you need any further assistance."
+[
+    {
+        "prompt": "What is Danny doing in SG?",
+        "completion": "Trying to setup bld.ai in a country with one of the best country for doing business (low corruption, low tax, highly educated workforce, etc.)"
+    },
+    {
+        "prompt": "What is the purpose of Danny's visit to SG?",
+        "completion": "Danny is trying to set up bld.ai in a country with one of the best business environments (low corruption, low tax, highly educated workforce, etc.)"
+    },
+    {
+        "prompt": "Why did Danny choose to go to SG?",
+        "completion": "Danny went to SG because it has one of the best business environments (low corruption, low tax, highly educated workforce, etc.) and he wants to set up bld.ai there."
+    },
+    {
+        "prompt": "What is Danny's objective in SG?",
+        "completion": "Danny's objective is to set up bld.ai in a country with one of the best business environments (low corruption, low tax, highly educated workforce, etc.) and SG fits the criteria."
+    },
+    {
+        "prompt": "What is the reason for Danny's trip to SG?",
+        "completion": "Danny went to SG to set up bld.ai in a country with one of the best business environments (low corruption, low tax, highly educated workforce, etc.) and he believes it will be beneficial."
+    }
+]

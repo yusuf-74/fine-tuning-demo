@@ -1,1 +1,22 @@
-"Sure, here are 5 examples in JSON format:\n\nExample 1:\n```\n{\n  \"prompt\": \"What is the 'plan' sheet on bld.ai worker flow used for?\",\n  \"completion\": \"It enables PMs to find, onboard, and manage their team members for their client/projects.\"\n}\n```\n\nExample 2:\n```\n{\n  \"prompt\": \"What is the purpose of the 'plan' sheet on bld.ai worker flow?\",\n  \"completion\": \"It enables housemasters to plan and allocate their workers' capacities.\"\n}\n```\n\nExample 3:\n```\n{\n  \"prompt\": \"What can you do with the 'plan' sheet on bld.ai worker flow?\",\n  \"completion\": \"It allows PMs to manage their team members and for housemasters to allocate worker capacities.\"\n}\n```\n\nExample 4:\n```\n{\n  \"prompt\": \"What kind of information can be found on the 'plan' sheet on bld.ai worker flow?\",\n  \"completion\": \"It provides information on team member availability and worker capacity allocation.\"\n}\n```\n\nExample 5:\n```\n{\n  \"prompt\": \"How does the 'plan' sheet on bld.ai worker flow help with project management?\",\n  \"completion\": \"It enables PMs to manage their team members and allocate worker capacities for their projects.\"\n}\n```"
+[
+    {
+        "prompt": "What is the 'plan' sheet on bld.ai worker flow used for?",
+        "completion": "It enables PMs to find, onboard, and manage their team members for their client/projects."
+    },
+    {
+        "prompt": "What is the purpose of the 'plan' sheet on bld.ai worker flow?",
+        "completion": "It enables housemasters to plan and allocate their workers' capacities."
+    },
+    {
+        "prompt": "What can you do with the 'plan' sheet on bld.ai worker flow?",
+        "completion": "It allows PMs to manage their team members and for housemasters to allocate worker capacities."
+    },
+    {
+        "prompt": "What kind of information can be found on the 'plan' sheet on bld.ai worker flow?",
+        "completion": "It provides information on team member availability and worker capacity allocation."
+    },
+    {
+        "prompt": "How does the 'plan' sheet on bld.ai worker flow help with project management?",
+        "completion": "It enables PMs to manage their team members and allocate worker capacities for their projects."
+    }
+]

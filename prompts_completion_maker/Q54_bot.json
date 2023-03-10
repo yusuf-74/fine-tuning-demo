@@ -1,1 +1,22 @@
-"Sure, here are the prompts and completions in JSON format:\n\nPrompts:\n```\n[\n  \"What are some disadvantages of living in a house alone?\",\n  \"What are the drawbacks of having a house to yourself?\",\n  \"In what ways can living in a house of one person be disadvantageous?\",\n  \"What are some negative aspects of living alone in a house?\",\n  \"What are some downsides of having a house all to yourself?\"\n]\n```\n\nCompletions:\n```\n[\n  \"Mainly not getting the benefits of being in a larger house (training, stability and resource pooling). For example, if you're living alone, you may not have the opportunity to learn new skills or share resources with others.\",\n  \"You may experience feelings of loneliness or isolation, especially if you're used to living with other people. This can have negative effects on your mental health and well-being.\",\n  \"If you live in a big house by yourself, you may feel like it's too big for your needs. This can result in higher costs for utilities and maintenance.\",\n  \"There's a lack of opportunities for socializing and building connections with others. You may miss out on the benefits that come with having roommates or housemates, such as building close relationships or having someone to talk to when you need it.\",\n  \"You may feel less secure in your home if you live alone. This can be especially true if you live in a high-crime area or are vulnerable to break-ins.\"\n]\n```\nI hope this helps! Let me know if you have any other questions."
+[
+    {
+        "prompt": "What are some disadvantages of living in a house alone?",
+        "completion": "Mainly not getting the benefits of being in a larger house (training, stability and resource pooling). For example, if you're living alone, you may not have the opportunity to learn new skills or share resources with others."
+    },
+    {
+        "prompt": "What are the drawbacks of having a house to yourself?",
+        "completion": "You may experience feelings of loneliness or isolation, especially if you're used to living with other people. This can have negative effects on your mental health and well-being."
+    },
+    {
+        "prompt": "In what ways can living in a house of one person be disadvantageous?",
+        "completion": "If you live in a big house by yourself, you may feel like it's too big for your needs. This can result in higher costs for utilities and maintenance."
+    },
+    {
+        "prompt": "What are some negative aspects of living alone in a house?",
+        "completion": "There's a lack of opportunities for socializing and building connections with others. You may miss out on the benefits that come with having roommates or housemates, such as building close relationships or having someone to talk to when you need it."
+    },
+    {
+        "prompt": "What are some downsides of having a house all to yourself?",
+        "completion": "You may feel less secure in your home if you live alone. This can be especially true if you live in a high-crime area or are vulnerable to break-ins."
+    }
+]

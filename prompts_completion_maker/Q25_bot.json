@@ -1,1 +1,22 @@
-"\n\nHere are 5 examples in JSON:\n\n```\n[\n  {\n    \"prompt\": \"Will there be a meetup in Manila?\",\n    \"completion\": \"Hopefully soon. Perhaps in late May or early June.\"\n  },\n  {\n    \"prompt\": \"Are there any plans for a meetup in Manila?\",\n    \"completion\": \"Yes, we're hoping to have one in late May or early June.\"\n  },\n  {\n    \"prompt\": \"Can you tell me when the next meetup in Manila will be?\",\n    \"completion\": \"We're planning for late May or early June. Stay tuned for more details!\"\n  },\n  {\n    \"prompt\": \"Is there a chance for a meetup in Manila this year?\",\n    \"completion\": \"Absolutely! We're aiming for late May or early June.\"\n  },\n  {\n    \"prompt\": \"Do you think there will be a meetup in Manila anytime soon?\",\n    \"completion\": \"Yes, we're hoping to have one in late May or early June. Keep an eye out for updates!\"\n  }\n]\n``` \n\nI hope this helps! Let me know if you need any further assistance."
+[
+    {
+        "prompt": "What inspired you to become a software engineer?",
+        "completion": "I became interested in software engineering because I enjoyed solving problems and creating things with technology. It's a constantly evolving field that always presents new challenges."
+    },
+    {
+        "prompt": "What made you decide to pursue a career in software engineering?",
+        "completion": "I decided to pursue a career in software engineering because I have always been fascinated by technology and enjoy the process of creating something new. It's a challenging and rewarding field."
+    },
+    {
+        "prompt": "How did you get started in software engineering?",
+        "completion": "I got started in software engineering by teaching myself how to code and taking online courses. I then worked on personal projects to build up my skills and eventually landed my first job in the field."
+    },
+    {
+        "prompt": "What do you think are the most important qualities for a software engineer?",
+        "completion": "I think some of the most important qualities for a software engineer include strong problem-solving skills, attention to detail, and the ability to work well in a team. It's also important to be constantly learning and staying up-to-date with new technologies."
+    },
+    {
+        "prompt": "What advice do you have for someone starting out in software engineering?",
+        "completion": "My advice for someone starting out in software engineering would be to focus on building a strong foundation in programming fundamentals, keep practicing and working on personal projects to build up your skills, and stay up-to-date with new technologies and industry trends."
+    }
+]

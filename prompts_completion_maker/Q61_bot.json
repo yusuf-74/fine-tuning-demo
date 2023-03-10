@@ -1,1 +1,22 @@
-"Here are 5 examples in JSON format:\n\n1. Prompt: \"Will we receive our February salary as usual or should we wait for next month?\"\n   Completion: \"Your February salary will be paid on time, as usual. There are no delays or changes to the payment schedule.\"\n\n2. Prompt: \"Can we expect to receive a house of one for each employee this month or will it be delayed?\"\n   Completion: \"There are no plans to distribute houses to employees this month. If there are any changes or updates to this, you will be informed.\"\n\n3. Prompt: \"Is the compensation package retroactive since January 2020?\"\n   Completion: \"Yes, the compensation package is retroactive since January 2020, meaning that any missed or delayed payments will be included in future payments.\"\n\n4. Prompt: \"Until when will you be paying equity and bonuses?\"\n   Completion: \"Equity will be paid until December 2021. There is currently no information on whether bonuses will be paid in January 2022.\"\n\n5. Prompt: \"Will the new engine (V9.0) be implemented in February 2022?\"\n   Completion: \"Yes, the new engine (V9.0) will be implemented in February 2022, and any changes or updates will be communicated to all employees beforehand.\""
+[
+    {
+        "prompt": "Will we receive our February salary as usual or should we wait for next month?",
+        "completion": "Your February salary will be paid on time, as usual. There are no delays or changes to the payment schedule."
+    },
+    {
+        "prompt": "Can we expect to receive a house of one for each employee this month or will it be delayed?",
+        "completion": "There are no plans to distribute houses to employees this month. If there are any changes or updates to this, you will be informed."
+    },
+    {
+        "prompt": "Is the compensation package retroactive since January 2020?",
+        "completion": "Yes, the compensation package is retroactive since January 2020, meaning that any missed or delayed payments will be included in future payments."
+    },
+    {
+        "prompt": "Until when will you be paying equity and bonuses?",
+        "completion": "Equity will be paid until December 2021. There is currently no information on whether bonuses will be paid in January 2022."
+    },
+    {
+        "prompt": "Will the new engine (V9.0) be implemented in February 2022?",
+        "completion": "Yes, the new engine (V9.0) will be implemented in February 2022, and any changes or updates will be communicated to all employees beforehand."
+    }
+]

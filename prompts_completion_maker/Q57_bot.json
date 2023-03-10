@@ -1,1 +1,22 @@
-"Here are five examples in JSON format:\n\nExample 1:\n```\n{\n    \"prompt\": \"Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?\",\n    \"completion\": \"bld.ai will work with tax experts to provide guidance and resources for our contractors to navigate the tax implications of equity compensation.\"\n}\n```\n\nExample 2:\n```\n{\n    \"prompt\": \"Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?\",\n    \"completion\": \"bld.ai may explore alternative compensation options for contractors in non-US countries to ensure they receive fair compensation that aligns with their contributions.\"\n}\n```\n\nExample 3:\n```\n{\n    \"prompt\": \"Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?\",\n    \"completion\": \"bld.ai will provide transparent and clear information on the tax implications of equity compensation for our contractors in non-US countries.\"\n}\n```\n\nExample 4:\n```\n{\n    \"prompt\": \"Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?\",\n    \"completion\": \"bld.ai will explore partnerships with local tax experts in non-US countries to provide our contractors with the best resources and support possible.\"\n}\n```\n\nExample 5:\n```\n{\n    \"prompt\": \"Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?\",\n    \"completion\": \"bld.ai is committed to ensuring that all of our contractors receive fair and equitable compensation, and will actively seek out solutions to any tax inefficiencies that may arise.\"\n}\n```"
+[
+    {
+        "prompt": "Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?",
+        "completion": "bld.ai will work with tax experts to provide guidance and resources for our contractors to navigate the tax implications of equity compensation."
+    },
+    {
+        "prompt": "Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?",
+        "completion": "bld.ai may explore alternative compensation options for contractors in non-US countries to ensure they receive fair compensation that aligns with their contributions."
+    },
+    {
+        "prompt": "Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?",
+        "completion": "bld.ai will provide transparent and clear information on the tax implications of equity compensation for our contractors in non-US countries."
+    },
+    {
+        "prompt": "Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?",
+        "completion": "bld.ai will explore partnerships with local tax experts in non-US countries to provide our contractors with the best resources and support possible."
+    },
+    {
+        "prompt": "Equity compensation is tax inefficient for independent contractors of non-US countries. What is bld.ai's plan to support contractors receiving equity?",
+        "completion": "bld.ai is committed to ensuring that all of our contractors receive fair and equitable compensation, and will actively seek out solutions to any tax inefficiencies that may arise."
+    }
+]

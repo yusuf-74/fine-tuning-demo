@@ -1,1 +1,19 @@
-"Prompts: \n1. Can you explain what the bld.ai engine is?\n2. What is the main purpose of the bld.ai engine?\n\nCompletions:\n1. { \"description\": \"The compensation engine is at the core of bld.ai innovation. It maintains the canonical source of truth for all past and present workers and their associated data such as house, guild (level), recruits, sales, expense, compensation (plan and actual), units of equity, work logs, skills, clients, and projects.\" }\n2. { \"inputs\": [\"worker data\", \"compensation plans\", \"equity units\", \"work logs\", \"skills data\", \"client/project data\"], \"description\": \"The bld.ai engine processes and manages the following inputs to maintain the canonical source of truth for all workers: worker data, compensation plans, equity units, work logs, skills data, and client/project data.\" }\n3. { \"inputs\": [\"data\"], \"description\": \"bld.ai's compensation engine processes and stores important data related to workers, such as house, guild (level), recruits, sales, expense, compensation (plan and actual), units of equity, work logs, skills, clients, and projects.\" }\n4. { \"inputs\": [\"worker information\", \"compensation data\", \"work logs\", \"skills data\", \"client/project data\"], \"description\": \"The bld.ai engine processes and organizes key aspects of worker information, including compensation, equity, work logs, skills, and client/project data to maintain a single source of truth for all workers.\" }\n5. { \"inputs\": [\"worker metadata\", \"compensation data\", \"equity data\", \"work logs\", \"skills data\", \"client/project data\"], \"description\": \"At the core of bld.ai's innovation is the compensation engine, which stores and processes crucial worker metadata such as guild, recruits, sales, expense, compensation (plan and actual), equity, work logs, skills, clients, and projects.\" }"
+[
+    {
+        "prompt": "Can you explain what the bld.ai engine is?",
+        "completion":  "The compensation engine is at the core of bld.ai innovation. It maintains the canonical source of truth for all past and present workers and their associated data such as house, guild (level), recruits, sales, expense, compensation (plan and actual), units of equity, work logs, skills, clients, and projects."
+        
+    },
+    {
+        "prompt": "What is the main purpose of the bld.ai engine?",
+        "completion": 
+                "worker data\n compensation plans \n equity units \nwork logs\n skills data \nclient/project data \n The bld.ai engine processes and manages the following inputs to maintain the canonical source of truth for all workers: worker data, compensation plans, equity units, work logs, skills data, and client/project data."
+        
+    },
+    {
+        "prompt": "What is the main purpose of the bld.ai engine?",
+        "completion": "bld.ai's compensation engine processes and stores important data related to workers, such as house, guild (level), recruits, sales, expense, compensation (plan and actual), units of equity, work logs, skills, clients, and projects."
+        
+    }
+    
+]

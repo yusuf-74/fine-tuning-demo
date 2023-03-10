@@ -1,1 +1,42 @@
-"Here are 5 JSON prompt-completion pairs:\n\n1. {\n   \"prompt\": \"Are people in the same house guaranteed to have the same salary?\",\n   \"completion\": \"No, it is up to the housemaster(s) of the house you belong to.\"\n   }\n2. {\n   \"prompt\": \"Is it true that everyone living in the same house makes the same amount of money?\",\n   \"completion\": \"No, the salary of individuals within the house can vary depending on the housemaster's decisions.\"\n   }\n3. {\n   \"prompt\": \"Do all housemates receive the same salary?\",\n   \"completion\": \"No, the salaries are determined by the housemaster(s) and can differ among individuals.\"\n   }\n4. {\n   \"prompt\": \"Is there a standard salary for all residents in a shared house?\",\n   \"completion\": \"No, the salary structure is at the housemaster(s)'s discretion and may not be the same for everyone.\"\n   }\n5. {\n   \"prompt\": \"Can we assume that everyone in the same house earns an equal salary?\",\n   \"completion\": \"No, the housemaster(s) are responsible for setting individual salaries, so they may vary.\"   \n   }"
+[
+    {
+        "prompt": "Are people in the same house guaranteed to have the same salary?",
+        "completion": "No, it is up to the housemaster(s) of the house you belong to."
+    },
+    {
+        "prompt": "Is it true that everyone living in the same house makes the same amount of money?",
+        "completion": "No, the salary of individuals within the house can vary depending on the housemaster's decisions."
+    },
+    {
+        "prompt": "Do all housemates receive the same salary?",
+        "completion": "No, the salaries are determined by the housemaster(s) and can differ among individuals."
+    },
+    {
+        "prompt": "Is there a standard salary for all residents in a shared house?",
+        "completion": "No, the salary structure is at the housemaster(s)'s discretion and may not be the same for everyone."
+    },
+    {
+        "prompt": "Can we assume that everyone in the same house earns an equal salary?",
+        "completion": "No, the housemaster(s) are responsible for setting individual salaries, so they may vary."
+    },
+    {
+        "prompt": "Will the people who are in the same house be equal in their salaries?",
+        "completion": "No. It is up to the housemaster(s) of the house you belong to."
+    },
+    {
+        "prompt": "Is it guaranteed that all roommates will have the same rent?",
+        "completion": "No. It depends on the agreement made among the roommates or the decision of the landlord."
+    },
+    {
+        "prompt": "Will everyone in a family has equal say in decision-making?",
+        "completion": "No. It may depend on factors such as age, position, or experience within the family."
+    },
+    {
+        "prompt": "Are all employees in a company paid the same salary?",
+        "completion": "No. Salaries may vary based on job position, experience, qualifications, and other factors."
+    },
+    {
+        "prompt": "Are all students in a class graded based on the same criteria?",
+        "completion": "No. Grading may depend on factors such as class participation, homework, exams, projects, and individual performance."
+    }
+]

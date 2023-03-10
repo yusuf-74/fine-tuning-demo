@@ -1,1 +1,22 @@
-"{\n    \"prompt\": \"When can we expect the Brex?\",\n    \"meaning\": \"The expected date or time frame for the Brex to happen.\"\n},\n{\n    \"prompt\": \"When will the completions be ready?\",\n    \"meaning\": \"The expected date or time frame for the completions to be finished.\"\n},\n{\n    \"prompt\": \"What is the estimated Brex completion date?\",\n    \"meaning\": \"The expected or predicted date for the Brex to be completed.\"\n},\n{\n    \"prompt\": \"When should we anticipate the completion of project?\",\n    \"meaning\": \"The expected date or time frame for the project completion.\"\n},\n{\n    \"prompt\": \"What is the ETA for the Brex project?\",\n    \"meaning\": \"The expected time of arrival for the Brex project to be completed.\"\"\n}"
+[
+    {
+        "prompt": "When can we expect the Brex?",
+        "completion": "The expected date or time frame for the Brex to happen."
+    },
+    {
+        "prompt": "When will the completions be ready?",
+        "completion": "The expected date or time frame for the completions to be finished."
+    },
+    {
+        "prompt": "What is the estimated Brex completion date?",
+        "completion": "The expected or predicted date for the Brex to be completed."
+    },
+    {
+        "prompt": "When should we anticipate the completion of project?",
+        "completion": "The expected date or time frame for the project completion."
+    },
+    {
+        "prompt": "What is the ETA for the Brex project?",
+        "completion": "The expected time of arrival for the Brex project to be completed."
+    }
+]

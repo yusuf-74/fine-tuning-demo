@@ -1,1 +1,22 @@
-"As per your request, here are the prompts and completions with the meaning of 5 examples in JSON:\n\n1. Prompt: \"When will employees have the option to select between cash or equity?\"\n   Completion: \"Employees will have the option to select between cash or equity at the beginning of the retroactive period, starting from Jan 1st 2022.\"\n\n2. Prompt: \"When will the compensation be paid out?\"\n   Completion: \"The compensation will be paid out at the end of the retroactive period, once the employee has made their choice between cash or equity.\"\n\n3. Prompt: \"What is the proper procedure for selecting between cash or equity?\"\n   Completion: \"The proper procedure for selecting between cash or equity will depend on the specific process and guidelines set by the company. Employees should consult their HR representative for more information.\"\n\n4. Prompt: \"How will the difference between cash and equity be calculated?\"\n   Completion: \"The difference between cash and equity will be calculated based on the current value of the equity, minus any applicable taxes and fees.\"\n\n5. Prompt: \"Will employees be able to change their selection between cash or equity?\"\n   Completion: \"Once an employee has made their selection between cash or equity, they will not be able to change it. However, the company may allow for certain exceptions or special circumstances, which should be communicated to employees in advance.\" \n\nHere are the examples in JSON format:\n\n1. {\"Prompt\": \"When will employees have the option to select between cash or equity?\", \"Completion\": \"Employees will have the option to select between cash or equity at the beginning of the retroactive period, starting from Jan 1st 2022.\"}\n\n2. {\"Prompt\": \"When will the compensation be paid out?\", \"Completion\": \"The compensation will be paid out at the end of the retroactive period, once the employee has made their choice between cash or equity.\"}\n\n3. {\"Prompt\": \"What is the proper procedure for selecting between cash or equity?\", \"Completion\": \"The proper procedure for selecting between cash or equity will depend on the specific process and guidelines set by the company. Employees should consult their HR representative for more information.\"}\n\n4. {\"Prompt\": \"How will the difference between cash and equity be calculated?\", \"Completion\": \"The difference between cash and equity will be calculated based on the current value of the equity, minus any applicable taxes and fees.\"}\n\n5. {\"Prompt\": \"Will employees be able to change their selection between cash or equity?\", \"Completion\": \"Once an employee has made their selection between cash or equity, they will not be able to change it. However, the company may allow for certain exceptions or special circumstances, which should be communicated to employees in advance.\"}"
+[
+    {
+        "prompt": "When will employees have the option to select between cash or equity?",
+        "completion": "Employees will have the option to select between cash or equity at the beginning of the retroactive period, starting from Jan 1st 2022."
+    },
+    {
+        "prompt": "When will the compensation be paid out?",
+        "completion": "The compensation will be paid out at the end of the retroactive period, once the employee has made their choice between cash or equity."
+    },
+    {
+        "prompt": "What is the proper procedure for selecting between cash or equity?",
+        "completion": "The proper procedure for selecting between cash or equity will depend on the specific process and guidelines set by the company. Employees should consult their HR representative for more information."
+    },
+    {
+        "prompt": "How will the difference between cash and equity be calculated?",
+        "completion": "The difference between cash and equity will be calculated based on the current value of the equity, minus any applicable taxes and fees."
+    },
+    {
+        "prompt": "Will employees be able to change their selection between cash or equity?",
+        "completion": "Once an employee has made their selection between cash or equity, they will not be able to change it. However, the company may allow for certain exceptions or special circumstances, which should be communicated to employees in advance."
+    }
+]

@@ -1,1 +1,22 @@
-"Here are five examples in JSON format with the requested prompts and completions:\n\n1. \n\n```\n{\n   \"prompt\": \"What is the main reason behind killing mentoring?\",\n   \"completion\": \"Too complicated (for now)\"\n}\n```\n\n2. \n\n```\n{\n   \"prompt\": \"Houses?\",\n   \"completion\": \"Too complicated (for now)\"\n}\n```\n\n3. \n\n```\n{\n   \"prompt\": \"What is the main reason behind killing mentoring?\",\n   \"completion\": \"We wanted to ship something quickly.\"\n}\n```\n\n4. \n\n```\n{\n   \"prompt\": \"Houses?\",\n   \"completion\": \"We wanted to ship something quickly.\"\n}\n```\n\n5. \n\n```\n{\n   \"prompt\": \"What is the main reason behind killing mentoring?\",\n   \"completion\": \"Too complicated (for now) and we wanted to ship something quickly.\"\n}\n```"
+[
+    {
+        "prompt": "What is the main reason behind killing mentoring?",
+        "completion": "Too complicated (for now)"
+    },
+    {
+        "prompt": "Houses?",
+        "completion": "Too complicated (for now)"
+    },
+    {
+        "prompt": "What is the main reason behind killing mentoring?",
+        "completion": "We wanted to ship something quickly."
+    },
+    {
+        "prompt": "Houses?",
+        "completion": "We wanted to ship something quickly."
+    },
+    {
+        "prompt": "What is the main reason behind killing mentoring?",
+        "completion": "Too complicated (for now) and we wanted to ship something quickly."
+    }
+]

@@ -1,1 +1,14 @@
-"Here are three examples of prompts and completions in JSON format based on your instructions:\n\n1. Prompt: \"Could you share with us any updates on our Oct target IPO?\" \n   Completion: \"We have decided to delay the IPO until the second quarter of 2023 due to market conditions.\"\n\n```\n{\n    \"prompt\": \"Could you share with us any updates on our Oct target IPO?\",\n    \"completion\": \"We have decided to delay the IPO until the second quarter of 2023 due to market conditions.\"\n}\n```\n\n2. Prompt: \"Could you provide an update on the status of the Oct target IPO?\" \n   Completion: \"The IPO has been postponed until 2023 as we continue to evaluate market conditions.\"\n\n```\n{\n    \"prompt\": \"Could you provide an update on the status of the Oct target IPO?\",\n    \"completion\": \"The IPO has been postponed until 2023 as we continue to evaluate market conditions.\"\n}\n```\n\n3. Prompt: \"What is the latest news on our Oct target IPO?\" \n   Completion: \"Unfortunately, we have had to push back the IPO until mid-2023 due to economic uncertainties.\"\n\n```\n{\n    \"prompt\": \"What is the latest news on our Oct target IPO?\",\n    \"completion\": \"Unfortunately, we have had to push back the IPO until mid-2023 due to economic uncertainties.\"\n}\n```"
+[
+    {
+        "prompt": "Could you share with us any updates on our Oct target IPO?",
+        "completion": "We have decided to delay the IPO until the second quarter of 2023 due to market conditions."
+    },
+    {
+        "prompt": "Could you provide an update on the status of the Oct target IPO?",
+        "completion": "The IPO has been postponed until 2023 as we continue to evaluate market conditions."
+    },
+    {
+        "prompt": "What is the latest news on our Oct target IPO?",
+        "completion": "Unfortunately, we have had to push back the IPO until mid-2023 due to economic uncertainties."
+    }
+]

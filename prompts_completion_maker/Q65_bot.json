@@ -1,1 +1,22 @@
-"Here are the prompts and completions with the requested meanings and examples in JSON format:\n\n**Prompts:**\n\n```\n{\n  \"prompt\": \"Is the 10% RSU cut from my 50% or the total 100%?\",\n  \"meaning\": \"Asking if the 10% reduction in RSUs applies to just the 50% of equity compensation or to the entire 100%. \"\n},\n{\n  \"prompt\": \"\",\n  \"meaning\": \"\"\n},\n{\n  \"prompt\": \"\",\n  \"meaning\": \"\"\n},\n{\n  \"prompt\": \"\",\n  \"meaning\": \"\"\n},\n{\n  \"prompt\": \"\",\n  \"meaning\": \"\"\n}\n```\n\n**Completions:**\n\n```\n{\n  \"prompt\": \"Equity compensation is \u226510% of total compensation (which is determined by the housemaster of your house).\",\n  \"meaning\": \"Explaining that equity compensation makes up at least 10% of total compensation, as determined by the housemaster of one's house. \"\n},\n{\n  \"prompt\": \"\",\n  \"meaning\": \"\"\n},\n{\n  \"prompt\": \"\",\n  \"meaning\": \"\"\n},\n{\n  \"prompt\": \"\",\n  \"meaning\": \"\"\n},\n{\n  \"prompt\": \"\",\n  \"meaning\": \"\"\n}\n```\n\nNote: I have left the additional prompts and completions blank for you to fill in, as I didn't have enough context to know what other examples you might want. Additionally, because the prompts and completions are related to a specific company, you would need to customize them to fit your own context."
+[
+    {
+        "prompt": "Is the 10% RSU cut from my 50% or the total 100%?",
+        "completion": "Equity compensation is ≥10% of total compensation (which is determined by the housemaster of your house)."
+    },
+    {
+        "prompt": "Can you provide more information about the company's compensation structure?",
+        "completion": "We have a comprehensive compensation package that includes a mix of salary, equity, and benefits. The specifics of your compensation will depend on factors such as your role, experience level, and location."
+    },
+    {
+        "prompt": "How is the equity compensation calculated?",
+        "completion": "The amount of equity compensation you receive is determined by the housemaster of your house and is based on factors such as your role, experience level, and performance."
+    },
+    {
+        "prompt": "Can I negotiate my compensation package?",
+        "completion": "We strive to offer competitive compensation packages to all of our employees and do not typically negotiate on an individual basis. However, we encourage you to discuss any concerns or questions you have with your manager or HR representative."
+    },
+    {
+        "prompt": "Are there opportunities for performance-based bonuses or other incentives?",
+        "completion": "Yes, we offer a range of performance-based bonuses and incentives to recognize and reward top performers. These may include equity grants, cash bonuses, and other perks."
+    }
+]

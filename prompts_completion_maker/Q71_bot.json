@@ -1,1 +1,22 @@
-"{\n  \"prompts\": [\n    {\n      \"id\": 1,\n      \"text\": \"What is the billing increment?\",\n      \"meaning\": \"Asking about the amount of time or work required to bill for a project or service.\"\n    },\n    {\n      \"id\": 2,\n      \"text\": \"How do we measure the billing increments?\",\n      \"meaning\": \"Asking for the method or criteria used to determine the amount of time or work required to bill for a project or service.\"\n    },\n    {\n      \"id\": 3,\n      \"text\": \"At what intervals do we bill for our services?\",\n      \"meaning\": \"Asking about the frequency or timing of billing for a project or service.\"\n    },\n    {\n      \"id\": 4,\n      \"text\": \"What is the minimum unit of billing?\",\n      \"meaning\": \"Asking for the smallest amount of time or work that can be billed for a project or service.\"\n    },\n    {\n      \"id\": 5,\n      \"text\": \"How is the billing amount calculated?\",\n      \"meaning\": \"Asking for the formula or method used to determine the total billing amount for a project or service.\"\n    }\n  ],\n  \"completions\": [\n    {\n      \"id\": 1,\n      \"text\": \"The engine works on floating point numbers, so you can go as small as you deem practical.\",\n      \"meaning\": \"Informing that the engine can work with floating point numbers to achieve precision to any desired level.\"\n    },\n    {\n      \"id\": 2,\n      \"text\": \"There is no limit to how precise you can make the calculations.\",\n      \"meaning\": \"Assuring that the engine is capable of handling very precise calculations, without any limitations.\"\n    },\n    {\n      \"id\": 3,\n      \"text\": \"The engine can handle any decimal place you need.\",\n      \"meaning\": \"Reassuring that the engine is capable of handling any number of decimal places required for the project or calculation.\"\n    },\n    {\n      \"id\": 4,\n      \"text\": \"The engine can work with any number of decimal places, depending on the desired level of precision.\",\n      \"meaning\": \"Informing that the engine can handle any number of decimal places required for the project, based on the desired level of accuracy or precision.\"\n    },\n    {\n      \"id\": 5,\n      \"text\": \"You can use as many decimal places as you need to achieve the desired accuracy.\",\n      \"meaning\": \"Encouraging the use of any number of decimal places needed to achieve the desired level of accuracy or precision for the project.\" \n    }\n  ]\n}"
+[
+    {
+        "prompt": "What is the billing increment?",
+        "completion": "The engine works on floating point numbers, so you can go as small as you deem practical."
+    },
+    {
+        "prompt": "How do we measure the billing increments?",
+        "completion": "There is no limit to how precise you can make the calculations."
+    },
+    {
+        "prompt": "At what intervals do we bill for our services?",
+        "completion": "The engine can handle any decimal place you need."
+    },
+    {
+        "prompt": "What is the minimum unit of billing?",
+        "completion": "The engine can work with any number of decimal places, depending on the desired level of precision."
+    },
+    {
+        "prompt": "How is the billing amount calculated?",
+        "completion": "You can use as many decimal places as you need to achieve the desired accuracy."
+    }
+]

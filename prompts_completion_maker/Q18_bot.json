@@ -1,1 +1,22 @@
-"\n\nPrompts:\n1. In what way is Brex unique from payroll accounts?\n2. What advantages does Brex have over using a payroll account?\n3. How does using Brex save you money compared to a payroll account?\n4. What is the main difference between using Brex and a traditional payroll account?\n5. What benefits do you get from using Brex that you wouldn't get from a payroll account?\n\nCompletions:\n1. \"Brex is different from having a payroll account because it allows you to expense your purchases before taxes. With a payroll account, you are taxed on your expenses.\"\n2. \"Brex has several advantages over using a payroll account. For one, it's cheaper since you can expense purchases before taxes. Additionally, Brex offers rewards and benefits that payroll accounts don't.\"\n3. \"Using Brex can save you money because you can expense purchases before taxes. With payroll, you would have to pay income taxes on your expenses, effectively costing you more in the long run.\"\n4. \"The main difference between using Brex and a traditional payroll account is that Brex allows you to expense purchases before taxes. Payroll accounts, on the other hand, tax your expenses.\"\n5. \"Using Brex offers several benefits that you wouldn't get from a payroll account. For example, you can expense purchases before taxes and earn rewards and benefits for using Brex.\" \n\nJSON Examples:\n{\n    \"prompt\": \"In what way is Brex unique from payroll accounts?\",\n    \"completion\": \"Brex is different from having a payroll account because it allows you to expense your purchases before taxes. With a payroll account, you are taxed on your expenses.\"\n}\n\n{\n    \"prompt\": \"What advantages does Brex have over using a payroll account?\",\n    \"completion\": \"Brex has several advantages over using a payroll account. For one, it's cheaper since you can expense purchases before taxes. Additionally, Brex offers rewards and benefits that payroll accounts don't.\"\n}\n\n{\n    \"prompt\": \"How does using Brex save you money compared to a payroll account?\",\n    \"completion\": \"Using Brex can save you money because you can expense purchases before taxes. With payroll, you would have to pay income taxes on your expenses, effectively costing you more in the long run.\"\n}\n\n{\n    \"prompt\": \"What is the main difference between using Brex and a traditional payroll account?\",\n    \"completion\": \"The main difference between using Brex and a traditional payroll account is that Brex allows you to expense purchases before taxes. Payroll accounts, on the other hand, tax your expenses.\"\n}\n\n{\n    \"prompt\": \"What benefits do you get from using Brex that you wouldn't get from a payroll account?\",\n    \"completion\": \"Using Brex offers several benefits that you wouldn't get from a payroll account. For example, you can expense purchases before taxes and earn rewards and benefits for using Brex.\"\n}"
+[
+    {
+        "prompt": "In what way is Brex unique from payroll accounts?",
+        "completion": "Brex is different from having a payroll account because it allows you to expense your purchases before taxes. With a payroll account, you are taxed on your expenses."
+    },
+    {
+        "prompt": "What advantages does Brex have over using a payroll account?",
+        "completion": "Brex has several advantages over using a payroll account. For one, it's cheaper since you can expense purchases before taxes. Additionally, Brex offers rewards and benefits that payroll accounts don't."
+    },
+    {
+        "prompt": "How does using Brex save you money compared to a payroll account?",
+        "completion": "Using Brex can save you money because you can expense purchases before taxes. With payroll, you would have to pay income taxes on your expenses, effectively costing you more in the long run."
+    },
+    {
+        "prompt": "What is the main difference between using Brex and a traditional payroll account?",
+        "completion": "The main difference between using Brex and a traditional payroll account is that Brex allows you to expense purchases before taxes. Payroll accounts, on the other hand, tax your expenses."
+    },
+    {
+        "prompt": "What benefits do you get from using Brex that you wouldn't get from a payroll account?",
+        "completion": "Using Brex offers several benefits that you wouldn't get from a payroll account. For example, you can expense purchases before taxes and earn rewards and benefits for using Brex."
+    }
+]

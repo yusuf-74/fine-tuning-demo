@@ -1,1 +1,22 @@
-"Sure, here are the prompts and completions in JSON format with the meanings you requested:\n\n```\n{\n    \"prompt\": \"How does being a solo house member affect my rate and compensation?\",\n    \"completion\": \"As a house of one, you are the house master. Your rate and your compensation is at your discretion.\"\n},\n{\n    \"prompt\": \"What are the benefits of being a solo house member?\",\n    \"completion\": \"As the only member of your household, you have complete control over your living space and can set your own rules and schedule.\"\n},\n{\n    \"prompt\": \"Is it more expensive to be a solo house member?\",\n    \"completion\": \"As the only person in your household, you don't have to split expenses with anyone else. However, you are also solely responsible for paying all of the bills and maintaining your home.\"\n},\n{\n    \"prompt\": \"What are some challenges of being a solo house member?\",\n    \"completion\": \"Living alone can be lonely and isolating. You also have to take care of all the chores and errands on your own, which can be time-consuming.\"\n},\n{\n    \"prompt\": \"How can I make the most of being a solo house member?\",\n    \"completion\": \"Use your independence to pursue hobbies and interests that you might not have had time for before. Take advantage of the flexibility to create a lifestyle that suits you perfectly.\"\n}\n```"
+[
+    {
+        "prompt": "How does being a solo house member affect my rate and compensation?",
+        "completion": "As a house of one, you are the house master. Your rate and your compensation is at your discretion."
+    },
+    {
+        "prompt": "What are the benefits of being a solo house member?",
+        "completion": "As the only member of your household, you have complete control over your living space and can set your own rules and schedule."
+    },
+    {
+        "prompt": "Is it more expensive to be a solo house member?",
+        "completion": "As the only person in your household, you don't have to split expenses with anyone else. However, you are also solely responsible for paying all of the bills and maintaining your home."
+    },
+    {
+        "prompt": "What are some challenges of being a solo house member?",
+        "completion": "Living alone can be lonely and isolating. You also have to take care of all the chores and errands on your own, which can be time-consuming."
+    },
+    {
+        "prompt": "How can I make the most of being a solo house member?",
+        "completion": "Use your independence to pursue hobbies and interests that you might not have had time for before. Take advantage of the flexibility to create a lifestyle that suits you perfectly."
+    }
+]

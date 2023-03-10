@@ -1,1 +1,103 @@
-"\n\nCertainly! Here are some example prompts and completions with the provided meanings:\n\nPrompt: What is the recruiter flow?\nCompletion: The recruiter flow refers to the process of sourcing, interviewing, and closing candidates to fill open positions within a company.\n\nPrompt: What data does bld.ai keep about its workers?\nCompletion: This is where we keep data about the workers that bld.ai has as well as data about who were involved in the recruitment process for each worker.\nFor each worker, we store the following information:\n- Worker\u2019s email address.\n- The hire date of the worker.\n- The house that recruited the worker.\n- Emails of the sourcers of the worker.\n- Emails of the interviewers of the worker.\n- Emails of the closers with the worker.\nThis is used later to calculate the commission of the recruiters.\n\nHere are some example JSON objects that include this information:\n\n{\n    \"worker_email\": \"jane.doe@example.com\",\n    \"hire_date\": \"2021-06-01\",\n    \"recruiting_house\": \"New York\",\n    \"sourcer_emails\": [\"john.smith@example.com\", \"amy.jones@example.com\"],\n    \"interviewer_emails\": [\"bob.johnson@example.com\"],\n    \"closer_emails\": [\"kim.nguyen@example.com\"]\n}\n\n{\n    \"worker_email\": \"john.smith@example.com\",\n    \"hire_date\": \"2021-05-15\",\n    \"recruiting_house\": \"San Francisco\",\n    \"sourcer_emails\": [\"jane.doe@example.com\"],\n    \"interviewer_emails\": [\"amy.jones@example.com\", \"bob.johnson@example.com\"],\n    \"closer_emails\": [\"kim.nguyen@example.com\", \"juan.perez@example.com\"]\n}\n\n{\n    \"worker_email\": \"amy.jones@example.com\",\n    \"hire_date\": \"2021-04-01\",\n    \"recruiting_house\": \"Chicago\",\n    \"sourcer_emails\": [\"john.smith@example.com\"],\n    \"interviewer_emails\": [\"bob.johnson@example.com\"],\n    \"closer_emails\": [\"kim.nguyen@example.com\", \"juan.perez@example.com\", \"sophie.le@example.com\"]\n}\n\n{\n    \"worker_email\": \"bob.johnson@example.com\",\n    \"hire_date\": \"2021-03-15\",\n    \"recruiting_house\": \"Los Angeles\",\n    \"sourcer_emails\": [\"jane.doe@example.com\", \"john.smith@example.com\"],\n    \"interviewer_emails\": [\"amy.jones@example.com\"],\n    \"closer_emails\": [\"kim.nguyen@example.com\"]\n}\n\n{\n    \"worker_email\": \"juan.perez@example.com\",\n    \"hire_date\": \"2021-02-01\",\n    \"recruiting_house\": \"Seattle\",\n    \"sourcer_emails\": [\"jane.doe@example.com\", \"john.smith@example.com\"],\n    \"interviewer_emails\": [\"amy.jones@example.com\"],\n    \"closer_emails\": [\"kim.nguyen@example.com\", \"sophie.le@example.com\"]\n}"
+[
+    {
+        "prompt": "What is the recruiter flow?",
+        "completion": "The recruiter flow refers to the process of sourcing, interviewing, and closing candidates to fill open positions within a company."
+    },
+    {
+        "prompt": "What data does bld.ai keep about its workers?",
+        "completion": "This is where we keep data about the workers that bld.ai has as well as data about who were involved in the recruitment process for each worker. For each worker, we store the following information:\n- Worker\u2019s email address.\n- The hire date of the worker.\n- The house that recruited the worker.\n- Emails of the sourcers of the worker.\n- Emails of the interviewers of the worker.\n- Emails of the closers with the worker.\nThis is used later to calculate the commission of the recruiters."
+    },
+    {
+        "prompt": "give me an example of data bld.ai keeps about its workers",
+        "completion": {
+            "worker_email": "jane.doe@example.com",
+            "hire_date": "2021-06-01",
+            "recruiting_house": "New York",
+            "sourcer_emails": [
+                "john.smith@example.com",
+                "amy.jones@example.com"
+            ],
+            "interviewer_emails": [
+                "bob.johnson@example.com"
+            ],
+            "closer_emails": [
+                "kim.nguyen@example.com"
+            ]
+        }
+    },
+    {
+        "prompt": "give me an example of data bld.ai keeps about its workers",
+        "completion": {
+            "worker_email": "john.smith@example.com",
+            "hire_date": "2021-05-15",
+            "recruiting_house": "San Francisco",
+            "sourcer_emails": [
+                "jane.doe@example.com"
+            ],
+            "interviewer_emails": [
+                "amy.jones@example.com",
+                "bob.johnson@example.com"
+            ],
+            "closer_emails": [
+                "kim.nguyen@example.com",
+                "juan.perez@example.com"
+            ]
+        }
+    },
+    {
+        "prompt": "give me an example of data bld.ai keeps about its workers",
+        "completion": {
+            "worker_email": "amy.jones@example.com",
+            "hire_date": "2021-04-01",
+            "recruiting_house": "Chicago",
+            "sourcer_emails": [
+                "john.smith@example.com"
+            ],
+            "interviewer_emails": [
+                "bob.johnson@example.com"
+            ],
+            "closer_emails": [
+                "kim.nguyen@example.com",
+                "juan.perez@example.com",
+                "sophie.le@example.com"
+            ]
+        }
+    },
+    {
+        "prompt": "give me an example of data bld.ai keeps about its workers",
+        "completion": {
+            "worker_email": "bob.johnson@example.com",
+            "hire_date": "2021-03-15",
+            "recruiting_house": "Los Angeles",
+            "sourcer_emails": [
+                "jane.doe@example.com",
+                "john.smith@example.com"
+            ],
+            "interviewer_emails": [
+                "amy.jones@example.com"
+            ],
+            "closer_emails": [
+                "kim.nguyen@example.com"
+            ]
+        }
+    },
+    {
+        "prompt": "give me an example of data bld.ai keeps about its workers",
+        "completion": {
+            "worker_email": "juan.perez@example.com",
+            "hire_date": "2021-02-01",
+            "recruiting_house": "Seattle",
+            "sourcer_emails": [
+                "jane.doe@example.com",
+                "john.smith@example.com"
+            ],
+            "interviewer_emails": [
+                "amy.jones@example.com"
+            ],
+            "closer_emails": [
+                "kim.nguyen@example.com",
+                "sophie.le@example.com"
+            ]
+        }
+    }
+]

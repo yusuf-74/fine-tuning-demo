@@ -1,1 +1,18 @@
-"Prompts:\n- \"Can you provide a detailed explanation for each column in the Housemaster Flow table?\"\n- \"I need some clarification on what each column in the Housemaster Flow table represents.\"\n- \"Could you break down the meaning of each column in the Housemaster Flow table?\"\n\nCompletions:\n- {\n    \"column_name\": \"Step_Name\",\n    \"description\": \"The name of the step in the Housemaster Flow.\"\n  },\n  {\n    \"column_name\": \"User_Action\",\n    \"description\": \"The action that the user needs to take in order to complete the step.\"\n  },\n  {\n    \"column_name\": \"Housemaster_Action\",\n    \"description\": \"The action that the Housemaster (virtual assistant) takes after the user completes their action.\"\n  },\n  {\n    \"column_name\": \"Wait_Time\",\n    \"description\": \"The amount of time that the user must wait before proceeding to the next step.\"\n  },\n  {\n    \"column_name\": \"Status\",\n    \"description\": \"The current status of the step (e.g. pending, completed, skipped).\"\n  }"
+[
+    {
+      "prompt": "Can you provide a detailed explanation for each column in the Housemaster Flow table?",
+      "completion": "Step_Name : The name of the step in the Housemaster Flow.\nUser_Action : The action that the user needs to take in order to complete the step. \nHousemaster_Action : The action that the Housemaster (virtual assistant) takes after the user completes their action.\nWait_Time : The amount of time that the user must wait before proceeding to the next step. \nStatus : The current status of the step (e.g. pending, completed, skipped)."
+
+      }
+    ,
+    {
+      "prompt": "I need some clarification on what each column in the Housemaster Flow table represents.",
+      "completion": "Step_Name : The name of the step in the Housemaster Flow.\nUser_Action : The action that the user needs to take in order to complete the step. \nHousemaster_Action : The action that the Housemaster (virtual assistant) takes after the user completes their action.\nWait_Time : The amount of time that the user must wait before proceeding to the next step. \nStatus : The current status of the step (e.g. pending, completed, skipped)."
+
+    },
+    {
+      "prompt": "Could you break down the meaning of each column in the Housemaster Flow table?",
+      "completion": "Step_Name : The name of the step in the Housemaster Flow.\nUser_Action : The action that the user needs to take in order to complete the step. \nHousemaster_Action : The action that the Housemaster (virtual assistant) takes after the user completes their action.\nWait_Time : The amount of time that the user must wait before proceeding to the next step. \nStatus : The current status of the step (e.g. pending, completed, skipped)."
+
+    }
+]

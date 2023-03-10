@@ -1,1 +1,22 @@
-"{\n  \"prompts\": [\n    \"What are your thoughts on organizing company/continent-wide retreats?\",\n    \"Do you think company/continent-wide retreats are beneficial for team building?\",\n    \"What are some potential drawbacks of hosting company/continent-wide retreats?\",\n    \"How do you think company/continent-wide retreats can benefit the overall culture of our organization?\",\n    \"What are some creative ideas for making company/continent-wide retreats more engaging and memorable?\"\n  ],\n  \"completions\": [\n    \"It is up to the houses to decide how much budget to allocate to this. For instance, House Mahusai are both organizing events in Q2 2022 in the Philippines and Europe respectively. We encourage houses to be welcoming of other houses during in their events.\",\n    \"Each house has the autonomy to decide how and when to organize company/continent-wide retreats. We suggest that all houses coordinate with each other to avoid scheduling conflicts and to promote participation from all members of our organization.\",\n    \"While company/continent-wide retreats can be expensive, they can also provide a valuable opportunity for team bonding and cultural exchange. We recommend that houses carefully consider the potential benefits and drawbacks before deciding whether or not to organize them.\",\n    \"Hosting company/continent-wide retreats can help to create a shared sense of purpose and identity across our organization. By bringing members from different houses together, we can build stronger connections and foster a more collaborative culture.\",\n    \"To make company/continent-wide retreats more engaging and memorable, houses can incorporate team building activities, cultural exchanges, and opportunities for networking and collaboration. We encourage houses to be creative and think outside of the box when planning these events.\",\n  ]\n}"
+[
+    {
+    "prompt": "What are your thoughts on organizing company/continent-wide retreats?",
+    "completion": "It is up to the houses to decide how much budget to allocate to this. For instance, House Mahusai are both organizing events in Q2 2022 in the Philippines and Europe respectively. We encourage houses to be welcoming of other houses during in their events."
+    },
+    {
+    "prompt": "Do you think company/continent-wide retreats are beneficial for team building?",
+    "completion": "Each house has the autonomy to decide how and when to organize company/continent-wide retreats. We suggest that all houses coordinate with each other to avoid scheduling conflicts and to promote participation from all members of our organization."
+    },
+    {
+    "prompt": "What are some potential drawbacks of hosting company/continent-wide retreats?",
+    "completion": "While company/continent-wide retreats can be expensive, they can also provide a valuable opportunity for team bonding and cultural exchange. We recommend that houses carefully consider the potential benefits and drawbacks before deciding whether or not to organize them."
+    },
+    {
+    "prompt": "How do you think company/continent-wide retreats can benefit the overall culture of our organization?",
+    "completion": "Hosting company/continent-wide retreats can help to create a shared sense of purpose and identity across our organization. By bringing members from different houses together, we can build stronger connections and foster a more collaborative culture."
+    },
+    {
+    "prompt": "What are some creative ideas for making company/continent-wide retreats more engaging and memorable?",
+    "completion": "To make company/continent-wide retreats more engaging and memorable, houses can incorporate team building activities, cultural exchanges, and opportunities for networking and collaboration. We encourage houses to be creative and think outside of the box when planning these events."
+    }
+    ]
