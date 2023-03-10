@@ -91,7 +91,10 @@
         "prompt": "Is there any advantage to using an expense card for house expenses?",
         "completion": "Yes, there is an advantage to using an expense card for house expenses. These are considered before-tax dollars, which means that they can help reduce the overall tax burden on the individual. Whether the housemaster is spending on a laptop for themselves or paying for a big team dinner for their house, it is the same Brex card that is used for all expenses."
     },
-    "content",
+    {
+        "prompt": "Can a house of one expand to 2/3 etc..?",
+        "completion": "Yes. Every house starts as a house of one."
+    },
     {
         "prompt": "Can you explain the process for submitting expenses with Brex?",
         "completion": "To submit expenses with Brex, simply use your Brex card and follow the steps in the Brex software. Currently, we don't have a specific process or policy in place, so please use your best judgement when expensing work-related items like office equipment, cell phones, laptops, flights, hotels, and team events."
@@ -351,27 +354,22 @@
     {
         "prompt": "What other goals do you have for your life by the time you're 90?",
         "completion": "Finish my PhD - Danny"
-        
     },
     {
         "prompt": "What other achievements would you like to work towards in your lifetime?",
         "completion": "Publish a novel - Danny"
-        
     },
     {
         "prompt": "What other accomplishments are on your bucket list?",
         "completion": "Learn to play an instrument - Danny"
-        
     },
     {
         "prompt": "What other dreams do you have for your future?",
         "completion": "Travel to every continent - Danny"
-        
     },
     {
         "prompt": "What else do you want to accomplish before you reach 90 years old?",
         "completion": "Run a marathon - Danny"
-        
     },
     {
         "prompt": "What is Danny doing in SG?",
