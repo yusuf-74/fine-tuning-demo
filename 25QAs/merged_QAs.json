@@ -1,0 +1,986 @@
+[
+  {
+    "prompt": "Where can I get my tax receipts?",
+    "completion": "Your T2202 (Tuition, Education & Textbook Amounts Certificate) is available for download on your MyServiceHub account usually during the third week in February (for the previous calendar year). To access your receipt, log into MyServiceHub  and click on the T2202 link on the left-hand side under the Student Fees section. There are two types of tax receipts available to students, the T2202 Tuition, Education & Textbook Amounts Certificate and the T4A Statement of Pension, Retirement, Annuity, and Other Income. T2202 is an official statement for income tax purposes of the tuition and fees paid for qualifying courses that are eligible for claim on the income tax return. T4A is an official statement for income tax purposes of scholarships, bursaries, awards or other income as defined by CRA that were provided by TMU to a student. If you were employed on campus, you will need to access your T4 through eHR, as it is not available through your MyServiceHub account. Questions should be directed toward Human Resources. More information is available on our Tax Receipts webpage. If you worked on campus, your T4 (Statement of Remuneration Paid) is available for download on the eHR website by the end of February.  To access, log into my.torontomu.ca and click on the eHR tab. Go to Self Service > Payroll and Compensation > View T4/T4A Slips. If you have problems with your tax information please contact the ServiceHub."
+  },
+  {
+    "prompt": "How do I access my T2202?",
+    "completion": "To access your T2202, log into your MyServiceHub account and click on the T2202 link on the left-hand side under the Student Fees section. This will allow you to download your T2202 for the previous calendar year."
+  },
+  {
+    "prompt": "What is a T4A?",
+    "completion": "A T4A is an official statement for income tax purposes of scholarships, bursaries, awards or other income as defined by CRA that were provided by Toronto Metropolitan University to a student."
+  },
+  {
+    "prompt": "Where can I find my T4?",
+    "completion": "If you were employed on campus, your T4 (Statement of Remuneration Paid) is available for download on the eHR website by the end of February. To access, log into my.torontomu.ca and click on the eHR tab. Go to Self Service > Payroll and Compensation > View T4/T4A Slips."
+  },
+  {
+    "prompt": "When will my T2202 be available?",
+    "completion": "Your T2202 (Tuition, Education & Textbook Amounts Certificate) is usually available for download on your MyServiceHub account during the third week in February (for the previous calendar year)."
+  },
+  {
+    "prompt": "What is the difference between a T2202 and a T4A?",
+    "completion": "T2202 is an official statement for income tax purposes of the tuition and fees paid for qualifying courses that are eligible for claim on the income tax return. T4A is an official statement for income tax purposes of scholarships, bursaries, awards or other income as defined by CRA that were provided by TMU to a student."
+  },
+  {
+    "prompt": "Where can I find more information about tax receipts?",
+    "completion": "More information is available on our Tax Receipts webpage. If you have problems with your tax information please contact the ServiceHub."
+  },
+  {
+    "prompt": "How do I access my T4?",
+    "completion": "If you were employed on campus, your T4 (Statement of Remuneration Paid) is available for download on the eHR website by the end of February. To access, log into my.torontomu.ca and click on the eHR tab. Go to Self Service > Payroll and Compensation > View T4/T4A Slips."
+  },
+  {
+    "prompt": "Who should I contact if I have problems with my tax information?",
+    "completion": "If you have problems with your tax information please contact the ServiceHub."
+  },
+  {
+    "prompt": "What type of tax receipts are available to students?",
+    "completion": "There are two types of tax receipts available to students, the T2202 Tuition, Education & Textbook Amounts Certificate and the T4A Statement of Pension, Retirement, Annuity, and Other Income."
+  },
+  {
+    "prompt": "What are the admission grade requirements?",
+    "completion": "Averages/grades required for admission selection to each undergraduate program is determined on the basis of competition each year. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program. If you are not on track to meet admission requirements, please contact Undergraduate Admissions and Recruitment to discuss your options, including alternative program options and upgrading."
+  },
+  {
+    "prompt": "What is the admission process for Toronto Metropolitan University?",
+    "completion": "The admission process for Toronto Metropolitan University is a competitive process. All applicants must meet the minimum admission requirements and submit a complete application package. The University will review all applications and select the best-qualified candidates for admission."
+  },
+  {
+    "prompt": "What is the minimum GPA requirement for admission to Toronto Metropolitan University?",
+    "completion": "The minimum GPA requirement for admission to Toronto Metropolitan University is a cumulative grade point average (GPA) of 2.0 or higher. However, the actual GPA required for admission may vary depending on the program and the competition for admission."
+  },
+  {
+    "prompt": "What documents are required for admission to Toronto Metropolitan University?",
+    "completion": "The documents required for admission to Toronto Metropolitan University include a completed application form, official transcripts, a personal statement, letters of recommendation, and any other documents required by the program. Please refer to the University's website for more information."
+  },
+  {
+    "prompt": "What are the tuition fees for Toronto Metropolitan University?",
+    "completion": "The tuition fees for Toronto Metropolitan University vary depending on the program and the number of credits taken. Please refer to the University's website for more information on tuition fees."
+  },
+  {
+    "prompt": "What is the application deadline for Toronto Metropolitan University?",
+    "completion": "The application deadline for Toronto Metropolitan University is typically in the spring for the following academic year. Please refer to the University's website for more information on the application deadline."
+  },
+  {
+    "prompt": "What is the deadline for submitting documents for admission to Toronto Metropolitan University?",
+    "completion": "The deadline for submitting documents for admission to Toronto Metropolitan University is typically in the spring for the following academic year. Please refer to the University's website for more information on the deadline for submitting documents."
+  },
+  {
+    "prompt": "What are the requirements for international students applying to Toronto Metropolitan University?",
+    "completion": "The requirements for international students applying to Toronto Metropolitan University include a completed application form, official transcripts, a personal statement, letters of recommendation, proof of English language proficiency, and any other documents required by the program. Please refer to the University's website for more information."
+  },
+  {
+    "prompt": "What is the minimum English language proficiency requirement for admission to Toronto Metropolitan University?",
+    "completion": "The minimum English language proficiency requirement for admission to Toronto Metropolitan University is a minimum score of 6.5 on the International English Language Testing System (IELTS). However, the actual score required for admission may vary depending on the program and the competition for admission."
+  },
+  {
+    "prompt": "What are the available financial aid options for students at Toronto Metropolitan University?",
+    "completion": "The available financial aid options for students at Toronto Metropolitan University include scholarships, bursaries, loans, and work-study programs. Please refer to the University's website for more information on the available financial aid options."
+  },
+  {
+    "prompt": "How do I apply?",
+    "completion": "Visit the Admissions page for the university to see an overview of the application process and procedures. Visit Applications and Related Forms to access the right application form for your academic history/status. Undergraduate applicants will apply to our university online via the Ontario Universities' Application Centre [OUAC] through the 101 application for high school students, or the 105 application for all other full time applicants."
+  },
+  {
+    "prompt": "What are the application deadlines?",
+    "completion": "The guaranteed consideration* date for all Undergraduate programs is February 1. * All complete applications and amendments received by the above date as noted will receive equal consideration for admission. Applications, amendments and supporting documents received after published deadline dates are reviewed subject to space availability."
+  },
+  {
+    "prompt": "What should I do after I've applied?",
+    "completion": "Visit After I've Applied to stay up to date and to ensure your application is complete."
+  },
+  {
+    "prompt": "What is the OUAC?",
+    "completion": "The Ontario Universities' Application Centre (OUAC) is an online application system used by undergraduate applicants to apply to universities in Ontario, Canada."
+  },
+  {
+    "prompt": "What is the 101 application?",
+    "completion": "The 101 application is an online application form used by high school students to apply to universities in Ontario, Canada through the Ontario Universities' Application Centre (OUAC)."
+  },
+  {
+    "prompt": "What is the 105 application?",
+    "completion": "The 105 application is an online application form used by all other full time applicants to apply to universities in Ontario, Canada through the Ontario Universities' Application Centre (OUAC)."
+  },
+  {
+    "prompt": "Who should use the internal TMU Application?",
+    "completion": "The following groups use the internal TMU Application: Current students at the university, including Chang School students wanting to apply to an undergraduate program; Previous students at the university (since fall 1984), including Chang School students; Applicants interested in a part-time Program only at the university; You are applying to be a Special Student."
+  },
+  {
+    "prompt": "What is the Chang School?",
+    "completion": "The Chang School of Continuing Education at Ryerson University is Canada's leading provider of university-based adult education. It offers a wide range of certificate, diploma, and degree programs, as well as professional development courses and workshops."
+  },
+  {
+    "prompt": "What is a Special Student?",
+    "completion": "A Special Student is a student who is not admitted to a degree or diploma program, but is taking courses for credit. Special Students may take courses for credit towards a degree or diploma program at a later date."
+  },
+  {
+    "prompt": "What is the internal TMU Application?",
+    "completion": "The internal TMU Application is an online application form used by current students at the university, including Chang School students wanting to apply to an undergraduate program, previous students at the university (since fall 1984), including Chang School students, applicants interested in a part-time Program only at the university, and those applying to be a Special Student."
+  },
+  {
+    "prompt": "Where can I find the university calendars?",
+    "completion": "The university calendars can be accessed online on the calendars homepage."
+  },
+  {
+    "prompt": "Where can I find the university's academic calendars?",
+    "completion": "The university publishes various academic calendars each year: Undergraduate, Graduate Studies and Continuing Education. Calendars are your official source for university programming and course information, academic information and policies and significant dates."
+  },
+  {
+    "prompt": "What is the official source for university programming and course information?",
+    "completion": "The university publishes various academic calendars each year: Undergraduate, Graduate Studies and Continuing Education. Calendars are your official source for university programming and course information, academic information and policies and significant dates."
+  },
+  {
+    "prompt": "Where can I find information about university events?",
+    "completion": "Upcoming university events are posted on the Official Events page."
+  },
+  {
+    "prompt": "Where can I find the university's graduate studies calendar?",
+    "completion": "The university publishes various academic calendars each year: Undergraduate, Graduate Studies and Continuing Education. Calendars are your official source for university programming and course information, academic information and policies and significant dates."
+  },
+  {
+    "prompt": "Where can I find the university's undergraduate calendar?",
+    "completion": "The university publishes various academic calendars each year: Undergraduate, Graduate Studies and Continuing Education. Calendars are your official source for university programming and course information, academic information and policies and significant dates."
+  },
+  {
+    "prompt": "Where can I find the university's continuing education calendar?",
+    "completion": "The university publishes various academic calendars each year: Undergraduate, Graduate Studies and Continuing Education. Calendars are your official source for university programming and course information, academic information and policies and significant dates."
+  },
+  {
+    "prompt": "What is the official source for university policies?",
+    "completion": "The university publishes various academic calendars each year: Undergraduate, Graduate Studies and Continuing Education. Calendars are your official source for university programming and course information, academic information and policies and significant dates."
+  },
+  {
+    "prompt": "Where can I find the university's academic information?",
+    "completion": "The university publishes various academic calendars each year: Undergraduate, Graduate Studies and Continuing Education. Calendars are your official source for university programming and course information, academic information and policies and significant dates."
+  },
+  {
+    "prompt": "Where can I find the university's significant dates?",
+    "completion": "The university publishes various academic calendars each year: Undergraduate, Graduate Studies and Continuing Education. Calendars are your official source for university programming and course information, academic information and policies and significant dates."
+  },
+  {
+    "prompt": "How do I confirm my enrolment status as full-time or part-time?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "How do I know if I am enrolled as a full-time or part-time student?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "What is the difference between full-time and part-time enrolment status?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "How can I check my enrolment status?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "How can I find out if I am a full-time or part-time student?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "How can I find out my full-time or part-time status?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "How can I check if I am a full-time or part-time student?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "How do I know if I am enrolled as a full-time or part-time student at Toronto Metropolitan University?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students at Toronto Metropolitan University is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "How can I check my full-time or part-time status at Toronto Metropolitan University?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students at Toronto Metropolitan University is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "How can I find out my enrolment status at Toronto Metropolitan University?",
+    "completion": "Full-time and part-time enrolment status for undergraduate students at Toronto Metropolitan University is calculated based on course enrolments and intentions, and the sum of the billing units by term. Part-time: 3 or fewer billing units Full-time: 4 or more billing units Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+  },
+  {
+    "prompt": "Which programs require interviews?",
+    "completion": "Several \"Grades-Plus\" programs at the university request interviews as part of the non-academic criteria required for admission consideration. Please review the program page for the program(s) of your choice for the most up to date non-academic requirements as they may change from year to year."
+  },
+  {
+    "prompt": "What are the non-academic requirements for admission consideration?",
+    "completion": "Non-academic requirements for admission consideration vary by program. Please review the program page for the program(s) of your choice for the most up to date non-academic requirements as they may change from year to year."
+  },
+  {
+    "prompt": "What is the Grades-Plus program?",
+    "completion": "The Grades-Plus program is a special admissions program at the Toronto Metropolitan University. It is designed to provide an opportunity for students who have faced significant challenges in their academic careers to demonstrate their potential for success in university. "
+  },
+  {
+    "prompt": "What are the eligibility requirements for the Grades-Plus program?",
+    "completion": "The eligibility requirements for the Grades-Plus program vary by program. Generally, applicants must have a minimum grade point average of 2.0 and have faced significant challenges in their academic careers. Please review the program page for the program(s) of your choice for the most up to date eligibility requirements as they may change from year to year."
+  },
+  {
+    "prompt": "What is the application process for the Grades-Plus program?",
+    "completion": "The application process for the Grades-Plus program varies by program. Generally, applicants must submit an online application, provide transcripts and other supporting documents, and may be required to participate in an interview. Please review the program page for the program(s) of your choice for the most up to date application process as it may change from year to year."
+  },
+  {
+    "prompt": "What is the admission rate for the Grades-Plus program?",
+    "completion": "The admission rate for the Grades-Plus program varies by program. Please review the program page for the program(s) of your choice for the most up to date admission rate as it may change from year to year."
+  },
+  {
+    "prompt": "What are the benefits of the Grades-Plus program?",
+    "completion": "The benefits of the Grades-Plus program vary by program. Generally, applicants may receive priority consideration for admission, access to special resources and support services, and may be eligible for scholarships and other financial aid. Please review the program page for the program(s) of your choice for the most up to date benefits as they may change from year to year."
+  },
+  {
+    "prompt": "What is the deadline for the Grades-Plus program?",
+    "completion": "The deadline for the Grades-Plus program varies by program. Please review the program page for the program(s) of your choice for the most up to date deadline as it may change from year to year."
+  },
+  {
+    "prompt": "What is the tuition for the Grades-Plus program?",
+    "completion": "The tuition for the Grades-Plus program varies by program. Please review the program page for the program(s) of your choice for the most up to date tuition as it may change from year to year."
+  },
+  {
+    "prompt": "What is the acceptance rate for the Grades-Plus program?",
+    "completion": "The acceptance rate for the Grades-Plus program varies by program. Please review the program page for the program(s) of your choice for the most up to date acceptance rate as it may change from year to year."
+  },
+  {
+    "prompt": "When do I need to apply to get early acceptance?",
+    "completion": "Students are advised to apply and submit required documents (if applicable) as soon as possible. The guaranteed consideration date for equal consideration is February 1st."
+  },
+  {
+    "prompt": "What is the deadline for early acceptance?",
+    "completion": "The deadline for early acceptance is February 1st."
+  },
+  {
+    "prompt": "What documents do I need to submit for early acceptance?",
+    "completion": "Students are required to submit all applicable documents for early acceptance."
+  },
+  {
+    "prompt": "What is the earliest date I can apply for early acceptance?",
+    "completion": "The earliest date to apply for early acceptance is as soon as possible."
+  },
+  {
+    "prompt": "What is the guaranteed consideration date for early acceptance?",
+    "completion": "The guaranteed consideration date for early acceptance is February 1st."
+  },
+  {
+    "prompt": "What is the last date to apply for early acceptance?",
+    "completion": "The last date to apply for early acceptance is February 1st."
+  },
+  {
+    "prompt": "When is the deadline for submitting documents for early acceptance?",
+    "completion": "The deadline for submitting documents for early acceptance is February 1st."
+  },
+  {
+    "prompt": "What is the cutoff date for early acceptance?",
+    "completion": "The cutoff date for early acceptance is February 1st."
+  },
+  {
+    "prompt": "What is the earliest I can apply for early acceptance at Toronto Metropolitan University?",
+    "completion": "The earliest you can apply for early acceptance at Toronto Metropolitan University is as soon as possible."
+  },
+  {
+    "prompt": "What is the last date to apply for early acceptance at Toronto Metropolitan University?",
+    "completion": "The last date to apply for early acceptance at Toronto Metropolitan University is February 1st."
+  },
+  {
+    "prompt": "When is the application deadline?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "What is the deadline for submitting applications?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "What is the last date to submit an application?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "What is the cutoff date for applications?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "When is the last date to apply?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "What is the deadline for undergraduate applications?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "When is the last day to apply for undergraduate programs?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "What is the deadline for submitting an application for undergraduate programs?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "What is the last date to submit an application for undergraduate programs?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "What is the cutoff date for submitting applications for undergraduate programs?",
+    "completion": "The guaranteed consideration date for Undergraduate programs for fall entry is February 1. All complete applications and amendments received by the above date as noted will receive equal consideration for admission. While the above deadlines guarantee equal consideration of all complete applications submitted prior to February 1, some programs may remain open past the deadline. You can see which programs are still accepting applications on the Programs Accepting Applications webpage. For additional details please review the Application Dates page."
+  },
+  {
+    "prompt": "How can I transfer to another TMU program?",
+    "completion": "Current and former TMU students can apply to transfer to another program using the online TMU Application. Before applying, check which programs are accepting applications, and be aware of the Application Dates and Guaranteed Dates for Consideration. Applications for the fall term must be received by February 1st for Grades-Plus programs and Grades-Only programs to be given equal consideration for admission. Students applying to a new program are required to meet the new program's admission requirements including the high school subject prerequisites and competitive averages and high academic standing in their current program. If you are concerned about not meeting the admission requirements, please contact the ServiceHub. If you are a CURRENT student in a TMU undergraduate program requesting a plan change within your program (e.g. BA English to BA Sociology or HR to Law and Business) you are not required to submit a TMU Application. Please consult your program department for appropriate application procedures. Students who are Required To Withdraw (RTW) will not be considered for transfer until their term of suspension is completed, unless the program considers Fresh Start Transfers. Please refer to the Required to Withdraw website for further details. Upon accepting an offer of admission into a new TMU program, you should confirm which of your completed TMU courses apply toward your new program. Visit the Internal TMU Course Transfers webpage for more information."
+  },
+  {
+    "prompt": "What is the deadline for transferring to a TMU program?",
+    "completion": "Applications for the fall term must be received by February 1st for Grades-Plus programs and Grades-Only programs to be given equal consideration for admission."
+  },
+  {
+    "prompt": "What are the admission requirements for transferring to a TMU program?",
+    "completion": "Students applying to a new program are required to meet the new program's admission requirements including the high school subject prerequisites and competitive averages and high academic standing in their current program."
+  },
+  {
+    "prompt": "What should I do if I am concerned about not meeting the admission requirements for transferring to a TMU program?",
+    "completion": "If you are concerned about not meeting the admission requirements, please contact the ServiceHub."
+  },
+  {
+    "prompt": "Do I need to submit an application if I am a current student in a TMU undergraduate program requesting a plan change?",
+    "completion": "If you are a CURRENT student in a TMU undergraduate program requesting a plan change within your program (e.g. BA English to BA Sociology or HR to Law and Business) you are not required to submit a TMU Application. Please consult your program department for appropriate application procedures."
+  },
+  {
+    "prompt": "What happens if I am Required To Withdraw (RTW) from a TMU program?",
+    "completion": "Students who are Required To Withdraw (RTW) will not be considered for transfer until their term of suspension is completed, unless the program considers Fresh Start Transfers. Please refer to the Required to Withdraw website for further details."
+  },
+  {
+    "prompt": "What should I do after accepting an offer of admission into a new TMU program?",
+    "completion": "Upon accepting an offer of admission into a new TMU program, you should confirm which of your completed TMU courses apply toward your new program. Visit the Internal TMU Course Transfers webpage for more information."
+  },
+  {
+    "prompt": "What is the application process for transferring to a TMU program?",
+    "completion": "Current and former TMU students can apply to transfer to another program using the online TMU Application. Before applying, check which programs are accepting applications, and be aware of the Application Dates and Guaranteed Dates for Consideration."
+  },
+  {
+    "prompt": "What are the requirements for transferring to a TMU program?",
+    "completion": "Students applying to a new program are required to meet the new program's admission requirements including the high school subject prerequisites and competitive averages and high academic standing in their current program."
+  },
+  {
+    "prompt": "What should I do if I don't meet the admission requirements for transferring to a TMU program?",
+    "completion": "If you are concerned about not meeting the admission requirements, please contact the ServiceHub."
+  },
+  {
+    "prompt": "Where can I take Grade 12 U/M courses to upgrade after I graduated from high school?",
+    "completion": "You can take Grade 12 U/M courses at any high school that is inspected/accredited by the Ministry of Education in Ontario and offers credits toward the Ontario Secondary School Diploma (OSSD). Your local Board of Education may offer Grade 12 U/M courses. For opportunities in Toronto, visit the Toronto District School Board. Grade 12 U/M courses completed through the Independent Learning Centre will also be considered for admission."
+  },
+  {
+    "prompt": "What are the requirements for taking Grade 12 U/M courses?",
+    "completion": "In order to take Grade 12 U/M courses, you must be a high school graduate and have completed the required prerequisites for the courses you wish to take. You must also be inspected/accredited by the Ministry of Education in Ontario and offer credits toward the Ontario Secondary School Diploma (OSSD)."
+  },
+  {
+    "prompt": "Where can I find Grade 12 U/M courses in Toronto?",
+    "completion": "You can find Grade 12 U/M courses in Toronto through the Toronto District School Board. You can also take Grade 12 U/M courses through the Independent Learning Centre, which will also be considered for admission."
+  },
+  {
+    "prompt": "What is the Ontario Secondary School Diploma (OSSD)?",
+    "completion": "The Ontario Secondary School Diploma (OSSD) is a diploma awarded by the Ministry of Education in Ontario to students who have successfully completed a prescribed program of studies. It is the most widely recognized secondary school diploma in Canada."
+  },
+  {
+    "prompt": "What are the prerequisites for taking Grade 12 U/M courses?",
+    "completion": "The prerequisites for taking Grade 12 U/M courses vary depending on the course. Generally, you must have completed the required courses in the grade level prior to the course you wish to take. You must also meet the prerequisites set by the school or institution offering the course."
+  },
+  {
+    "prompt": "Does Toronto Metropolitan University offer Grade 12 U/M courses?",
+    "completion": "No, Toronto Metropolitan University does not offer Grade 12 U/M courses. However, you can take Grade 12 U/M courses at any high school that is inspected/accredited by the Ministry of Education in Ontario and offers credits toward the Ontario Secondary School Diploma (OSSD)."
+  },
+  {
+    "prompt": "What is the Independent Learning Centre?",
+    "completion": "The Independent Learning Centre (ILC) is an online learning centre that offers courses for students in grades 9 to 12. Grade 12 U/M courses completed through the Independent Learning Centre will be considered for admission."
+  },
+  {
+    "prompt": "What is the difference between Grade 12 U/M courses and regular Grade 12 courses?",
+    "completion": "Grade 12 U/M courses are more challenging than regular Grade 12 courses. They are designed to provide students with the knowledge and skills necessary to succeed in post-secondary education. Grade 12 U/M courses are also more likely to be accepted for admission to universities and colleges."
+  },
+  {
+    "prompt": "What is the Ministry of Education in Ontario?",
+    "completion": "The Ministry of Education in Ontario is the government agency responsible for developing and implementing education policies and programs in the province. The Ministry sets the curriculum and standards for all publicly funded schools in Ontario."
+  },
+  {
+    "prompt": "What is the Toronto District School Board?",
+    "completion": "The Toronto District School Board (TDSB) is the largest school board in Canada. It is responsible for providing educational services to over 246,000 students in 583 schools across the City of Toronto."
+  },
+  {
+    "prompt": "What are the admission requirements if I'm from outside of Ontario/Canada?",
+    "completion": "Equivalents for Applicants Educated Outside of Ontario/Canada Applicants educated outside of Ontario must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Students who have been educated in a Canadian province and/or territory outside of Ontario can check the admission requirements including the program subject prerequisites on the Canadian Secondary School Students page. Internationally educated students are also advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What is the minimum grade requirement for admission if I'm from outside of Ontario/Canada?",
+    "completion": "While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What documents do I need to submit for admission if I'm from outside of Ontario/Canada?",
+    "completion": "Applicants educated outside of Ontario must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Students who have been educated in a Canadian province and/or territory outside of Ontario can check the admission requirements including the program subject prerequisites on the Canadian Secondary School Students page. Internationally educated students are also advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply."
+  },
+  {
+    "prompt": "What is the admission process for international students at Toronto Metropolitan University?",
+    "completion": "International applicants must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Students who have been educated in a Canadian province and/or territory outside of Ontario can check the admission requirements including the program subject prerequisites on the Canadian Secondary School Students page. Internationally educated students are also advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What are the admission requirements for international students at Toronto Metropolitan University?",
+    "completion": "International applicants must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Students who have been educated in a Canadian province and/or territory outside of Ontario can check the admission requirements including the program subject prerequisites on the Canadian Secondary School Students page. Internationally educated students are also advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What are the admission requirements for international students from Canada at Toronto Metropolitan University?",
+    "completion": "Students who have been educated in a Canadian province and/or territory outside of Ontario can check the admission requirements including the program subject prerequisites on the Canadian Secondary School Students page. Internationally educated students are also advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What are the admission requirements for international students from outside of Canada at Toronto Metropolitan University?",
+    "completion": "Applicants educated outside of Ontario must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Internationally educated students are also advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What are the admission requirements for international students from Europe at Toronto Metropolitan University?",
+    "completion": "Internationally educated students are advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What are the admission requirements for international students from Asia at Toronto Metropolitan University?",
+    "completion": "Internationally educated students are advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What are the admission requirements for international students from Africa at Toronto Metropolitan University?",
+    "completion": "Internationally educated students are advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "What are the admission requirements for international students from the United States at Toronto Metropolitan University?",
+    "completion": "Internationally educated students are advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+  },
+  {
+    "prompt": "How can I get in contact with the Student Financial Assistance office?",
+    "completion": "Need to get in touch with Student Financial Assistance? You can contact us via the ServiceHub, TMU's one-stop for all things related to the Office of the Registrar, such as undergraduate admissions, fees and enrolment, and student financial assistance. If you have applied for OSAP, check your OSAP Portal for communications and status updates. For additional details on OSAP and financial assistance, please review the Student Financial Assistance website."
+  },
+  {
+    "prompt": "Where can I find information about student financial assistance?",
+    "completion": "For information about student financial assistance, please visit the Student Financial Assistance website. You can also contact us via the ServiceHub, TMU's one-stop for all things related to the Office of the Registrar, such as undergraduate admissions, fees and enrolment, and student financial assistance. If you have applied for OSAP, check your OSAP Portal for communications and status updates."
+  },
+  {
+    "prompt": "What is the ServiceHub?",
+    "completion": "The ServiceHub is TMU's one-stop for all things related to the Office of the Registrar, such as undergraduate admissions, fees and enrolment, and student financial assistance. You can use the ServiceHub to get in touch with Student Financial Assistance or to check your OSAP Portal for communications and status updates."
+  },
+  {
+    "prompt": "How do I apply for OSAP?",
+    "completion": "To apply for OSAP, you must first complete the online application form. Once you have completed the form, you will need to submit supporting documents to the Student Financial Assistance office. For more information, please visit the Student Financial Assistance website."
+  },
+  {
+    "prompt": "What documents do I need to submit for OSAP?",
+    "completion": "To apply for OSAP, you will need to submit proof of your identity, proof of your income, and proof of your enrolment in a post-secondary institution. For more information, please visit the Student Financial Assistance website."
+  },
+  {
+    "prompt": "What is the Office of the Registrar?",
+    "completion": "The Office of the Registrar is responsible for managing the academic records of students at TMU. The Office of the Registrar also provides services such as undergraduate admissions, fees and enrolment, and student financial assistance."
+  },
+  {
+    "prompt": "What services does the Office of the Registrar provide?",
+    "completion": "The Office of the Registrar provides services such as undergraduate admissions, fees and enrolment, and student financial assistance. You can contact us via the ServiceHub, TMU's one-stop for all things related to the Office of the Registrar."
+  },
+  {
+    "prompt": "What is the OSAP Portal?",
+    "completion": "The OSAP Portal is an online system that allows students to apply for and manage their OSAP applications. The OSAP Portal also provides communications and status updates for students who have applied for OSAP."
+  },
+  {
+    "prompt": "How can I check the status of my OSAP application?",
+    "completion": "To check the status of your OSAP application, you can log in to the OSAP Portal. The OSAP Portal also provides communications and status updates for students who have applied for OSAP."
+  },
+  {
+    "prompt": "What is the Student Financial Assistance website?",
+    "completion": "The Student Financial Assistance website is a resource for students to learn more about student financial assistance. The website provides information about OSAP, scholarships, bursaries, and other forms of financial aid."
+  },
+  {
+    "prompt": "How can I get in touch with Admissions?",
+    "completion": "Admissions can be reached in-person and via telephone, chat and email via the ServiceHub. Visit ServiceHub Contact for details. To connect with the ServiceHub via email, fill out our help form by clicking the \"Need more info?\" button below. Mailing Address: Toronto Metropolitan University ServiceHub (POD-150) 350 Victoria Street Toronto ON M5B 2K3"
+  },
+  {
+    "prompt": "What is the best way to contact Admissions?",
+    "completion": "The best way to contact Admissions is via the ServiceHub. You can reach them in-person, via telephone, chat, or email. Visit ServiceHub Contact for details. To connect with the ServiceHub via email, fill out our help form by clicking the \"Need more info?\" button below. Mailing Address: Toronto Metropolitan University ServiceHub (POD-150) 350 Victoria Street Toronto ON M5B 2K3"
+  },
+  {
+    "prompt": "Where can I find contact information for Admissions?",
+    "completion": "You can find contact information for Admissions on the ServiceHub Contact page. You can reach them in-person, via telephone, chat, or email. To connect with the ServiceHub via email, fill out our help form by clicking the \"Need more info?\" button below. Mailing Address: Toronto Metropolitan University ServiceHub (POD-150) 350 Victoria Street Toronto ON M5B 2K3"
+  },
+  {
+    "prompt": "What is the mailing address for Admissions?",
+    "completion": "The mailing address for Admissions is Toronto Metropolitan University ServiceHub (POD-150) 350 Victoria Street Toronto ON M5B 2K3"
+  },
+  {
+    "prompt": "What is the phone number for Admissions?",
+    "completion": "The phone number for Admissions can be found on the ServiceHub Contact page. You can also reach them via chat or email. To connect with the ServiceHub via email, fill out our help form by clicking the \"Need more info?\" button below."
+  },
+  {
+    "prompt": "How do I reach Admissions by email?",
+    "completion": "You can reach Admissions by email by filling out our help form on the ServiceHub Contact page. To connect with the ServiceHub via email, click the \"Need more info?\" button below."
+  },
+  {
+    "prompt": "What is the address of the ServiceHub?",
+    "completion": "The address of the ServiceHub is Toronto Metropolitan University ServiceHub (POD-150) 350 Victoria Street Toronto ON M5B 2K3"
+  },
+  {
+    "prompt": "Where can I find more information about Admissions?",
+    "completion": "You can find more information about Admissions on the ServiceHub Contact page. You can also reach them via telephone, chat, or email. To connect with the ServiceHub via email, fill out our help form by clicking the \"Need more info?\" button below."
+  },
+  {
+    "prompt": "What is the ServiceHub contact page?",
+    "completion": "The ServiceHub contact page is a page on the Toronto Metropolitan University website that provides contact information for Admissions. You can reach them in-person, via telephone, chat, or email. To connect with the ServiceHub via email, fill out our help form by clicking the \"Need more info?\" button below."
+  },
+  {
+    "prompt": "What is the ServiceHub help form?",
+    "completion": "The ServiceHub help form is a form on the Toronto Metropolitan University website that allows you to connect with Admissions via email. To access the form, click the \"Need more info?\" button on the ServiceHub Contact page."
+  },
+  {
+    "prompt": "What courses do you offer?",
+    "completion": "You can view the curriculum of each undergraduate degree program including required and elective courses, as well as a list of courses available at TMU in the Undergraduate Calendar. TMU also offers courses and certificate programs for non-degree students through the Chang School of Continuing Education.  For more information on course offerings, visit the Chang School of Continuing Education website."
+  },
+  {
+    "prompt": "What undergraduate degree programs do you offer?",
+    "completion": "TMU offers a variety of undergraduate degree programs in the areas of Arts and Sciences, Business, Engineering, and Health Sciences. You can view the curriculum of each program including required and elective courses in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "What certificate programs do you offer?",
+    "completion": "TMU offers a variety of certificate programs through the Chang School of Continuing Education. These programs are designed to provide students with the skills and knowledge needed to pursue a career in a specific field. For more information on certificate programs, visit the Chang School of Continuing Education website."
+  },
+  {
+    "prompt": "What is the Undergraduate Calendar?",
+    "completion": "The Undergraduate Calendar is a comprehensive guide to the academic programs offered at TMU. It includes information on degree requirements, course descriptions, and a list of courses available at TMU."
+  },
+  {
+    "prompt": "What is the Chang School of Continuing Education?",
+    "completion": "The Chang School of Continuing Education is a division of TMU that offers courses and certificate programs for non-degree students. For more information on course offerings, visit the Chang School of Continuing Education website."
+  },
+  {
+    "prompt": "What is the curriculum of the undergraduate degree programs?",
+    "completion": "The curriculum of the undergraduate degree programs includes required and elective courses. You can view the curriculum of each program in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "What skills and knowledge do the certificate programs provide?",
+    "completion": "The certificate programs offered through the Chang School of Continuing Education provide students with the skills and knowledge needed to pursue a career in a specific field."
+  },
+  {
+    "prompt": "Where can I find a list of courses available at TMU?",
+    "completion": "You can find a list of courses available at TMU in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "What kind of information is included in the Undergraduate Calendar?",
+    "completion": "The Undergraduate Calendar includes information on degree requirements, course descriptions, and a list of courses available at TMU."
+  },
+  {
+    "prompt": "What is the purpose of the Chang School of Continuing Education?",
+    "completion": "The Chang School of Continuing Education is a division of TMU that offers courses and certificate programs for non-degree students."
+  },
+  {
+    "prompt": "Can I talk to an admissions advisor?",
+    "completion": "Admissions advising is available at the ServiceHub. Admissions advising includes discussing application requirements, upgrading options, the application process, information about pathways to post-secondary education, transferring from other post-secondary institutions and undergraduate programs at the university. To book an admission advising appointment please view the admissions advising section of the ServiceHub contact page. Please note that this service may not be available certain times of year. Telephone: Visit the ServiceHub contact page to see our full hours of operation and contact information. Current Students should discuss any academic issues with their program advisor in their academic program office. Advisors and counsellors may also be available to current students through Student Affairs, Student Learning Support and the Centre for Student Development and Counselling."
+  },
+  {
+    "prompt": "Where can I find information about admissions advising?",
+    "completion": "Admissions advising is available at the ServiceHub. Admissions advising includes discussing application requirements, upgrading options, the application process, information about pathways to post-secondary education, transferring from other post-secondary institutions and undergraduate programs at the university. To book an admission advising appointment please view the admissions advising section of the ServiceHub contact page. Please note that this service may not be available certain times of year."
+  },
+  {
+    "prompt": "What services are available to current students?",
+    "completion": "Current Students should discuss any academic issues with their program advisor in their academic program office. Advisors and counsellors may also be available to current students through Student Affairs, Student Learning Support and the Centre for Student Development and Counselling."
+  },
+  {
+    "prompt": "What is the contact information for the ServiceHub?",
+    "completion": "Telephone: Visit the ServiceHub contact page to see our full hours of operation and contact information."
+  },
+  {
+    "prompt": "What is the process for booking an admission advising appointment?",
+    "completion": "To book an admission advising appointment please view the admissions advising section of the ServiceHub contact page. Please note that this service may not be available certain times of year."
+  },
+  {
+    "prompt": "What kind of information can I get from an admissions advisor?",
+    "completion": "Admissions advising includes discussing application requirements, upgrading options, the application process, information about pathways to post-secondary education, transferring from other post-secondary institutions and undergraduate programs at the university."
+  },
+  {
+    "prompt": "What is the best way to contact the ServiceHub?",
+    "completion": "Telephone: Visit the ServiceHub contact page to see our full hours of operation and contact information."
+  },
+  {
+    "prompt": "What kind of support is available to current students?",
+    "completion": "Current Students should discuss any academic issues with their program advisor in their academic program office. Advisors and counsellors may also be available to current students through Student Affairs, Student Learning Support and the Centre for Student Development and Counselling."
+  },
+  {
+    "prompt": "What kind of programs are offered at the Toronto Metropolitan University?",
+    "completion": "The Toronto Metropolitan University offers a wide range of undergraduate programs in a variety of disciplines, including business, engineering, science, humanities, and social sciences."
+  },
+  {
+    "prompt": "What is the ServiceHub contact page?",
+    "completion": "The ServiceHub contact page is a website that provides contact information and hours of operation for the ServiceHub."
+  },
+  {
+    "prompt": "What is the Centre for Student Development and Counselling?",
+    "completion": "The Centre for Student Development and Counselling is a department at the Toronto Metropolitan University that provides support and counselling services to current students."
+  },
+  {
+    "prompt": "How do I transfer from another university or college to TMU?",
+    "completion": "We're delighted that you are considering transferring to Toronto Metropolitan University (TMU)!  If you have completed post-secondary studies in Canada or abroad, we encourage you to apply. We offer various pathways for transfer students, as well as opportunities to receive transfer credit for completed studies.  Visit University and College Student Transfer Students to learn more about these options."
+  },
+  {
+    "prompt": "What are the requirements for transferring to TMU?",
+    "completion": "Before Applying, Review Undergraduate Programs to learn about program options and program specific admission requirements.  Note that transfer applicants are required to meet the academic subject requirements for the program by having completed the subject requirements or an equivalent course (e.g. ENG4U). Exception, applicants applying to Advanced Standing or Direct Entry options which list alternative admission requirements. If you have questions about the requirements, contact the ServiceHub or the Engineering Admissions Office for support. All programs accept applications for the fall term, and a limited number accept applications for the winter and spring terms.  Visit Programs Accepting Applications to confirm which programs are currently accepting applications.  If you are an international applicant, visit International Admissions to confirm."
+  },
+  {
+    "prompt": "How do I apply for transfer to TMU?",
+    "completion": "There are 3 different application forms used by transfer applicants: 1. OUAC 105 Application - Canadian or international applicants (currently not attending a full-time Ontario high school) applying to Ontario universities 2. TMU International Application - International students 3. TMU Application - Current or former TMU students. After you apply, you will receive access to the ChooseTMU applicant portal, where you will receive communications and status updates, and where you can upload your supporting documents, such as academic transcripts. Detailed information on required documents is confirmed on Document Submission."
+  },
+  {
+    "prompt": "How do I get transfer credits for TMU?",
+    "completion": "Once you have received an offer of admission, you can apply for transfer credits.  Note that we may require you to upload your detailed course syllabus for transfer credit evaluation; therefore we recommend that you gather these documents in advance to facilitate a faster review of your credits."
+  },
+  {
+    "prompt": "What programs are available for transfer students at TMU?",
+    "completion": "We offer various pathways for transfer students, as well as opportunities to receive transfer credit for completed studies.  Visit University and College Student Transfer Students to learn more about these options. Review Undergraduate Programs to learn about program options and program specific admission requirements."
+  },
+  {
+    "prompt": "What documents do I need to submit for transfer to TMU?",
+    "completion": "After you apply, you will receive access to the ChooseTMU applicant portal, where you will receive communications and status updates, and where you can upload your supporting documents, such as academic transcripts. Detailed information on required documents is confirmed on Document Submission."
+  },
+  {
+    "prompt": "What are the admission requirements for transferring to TMU?",
+    "completion": "Transfer applicants are required to meet the academic subject requirements for the program by having completed the subject requirements or an equivalent course (e.g. ENG4U). Exception, applicants applying to Advanced Standing or Direct Entry options which list alternative admission requirements. If you have questions about the requirements, contact the ServiceHub or the Engineering Admissions Office for support."
+  },
+  {
+    "prompt": "What terms are available for transfer students at TMU?",
+    "completion": "All programs accept applications for the fall term, and a limited number accept applications for the winter and spring terms.  Visit Programs Accepting Applications to confirm which programs are currently accepting applications.  If you are an international applicant, visit International Admissions to confirm."
+  },
+  {
+    "prompt": "What is the process for transferring to TMU?",
+    "completion": "We offer various pathways for transfer students, as well as opportunities to receive transfer credit for completed studies.  Visit University and College Student Transfer Students to learn more about these options. Review Undergraduate Programs to learn about program options and program specific admission requirements. There are 3 different application forms used by transfer applicants: 1. OUAC 105 Application - Canadian or international applicants (currently not attending a full-time Ontario high school) applying to Ontario universities 2. TMU International Application - International students 3. TMU Application - Current or former TMU students. After you apply, you will receive access to the ChooseTMU applicant portal, where you will receive communications and status updates, and where you can upload your supporting documents, such as academic transcripts. Detailed information on required documents is confirmed on Document Submission."
+  },
+  {
+    "prompt": "What documents do I need to provide for transfer credits to TMU?",
+    "completion": "Once you have received an offer of admission, you can apply for transfer credits.  Note that we may require you to upload your detailed course syllabus for transfer credit evaluation; therefore we recommend that you gather these documents in advance to facilitate a faster review of your credits."
+  },
+  {
+    "prompt": "What are the transfer requirements for TMU?",
+    "completion": "Transfer applicants are required to meet the academic subject requirements for the program by having completed the subject requirements or an equivalent course (e.g. ENG4U). Exception, applicants applying to Advanced Standing or Direct Entry options which list alternative admission requirements. If you have questions about the requirements, contact the ServiceHub or the Engineering Admissions Office for support."
+  },
+  {
+    "prompt": "What are the options for transferring to TMU?",
+    "completion": "We offer various pathways for transfer students, as well as opportunities to receive transfer credit for completed studies.  Visit University and College Student Transfer Students to learn more about these options."
+  },
+  {
+    "prompt": "What is the application process for transferring to TMU?",
+    "completion": "There are 3 different application forms used by transfer applicants: 1. OUAC 105 Application - Canadian or international applicants (currently not attending a full-time Ontario high school) applying to Ontario universities 2. TMU International Application - International students 3. TMU Application - Current or former TMU students. After you apply, you will receive access to the ChooseTMU applicant portal, where you will receive communications and status updates, and where you can upload your supporting documents, such as academic transcripts. Detailed information on required documents is confirmed on Document Submission."
+  },
+  {
+    "prompt": "What are the transfer credit requirements for TMU?",
+    "completion": "Once you have received an offer of admission, you can apply for transfer credits.  Note that we may require you to upload your detailed course syllabus for transfer credit evaluation; therefore we recommend that you gather these documents in advance to facilitate a faster review of your credits."
+  },
+  {
+    "prompt": "What are the admission requirements for transfer students at TMU?",
+    "completion": "Transfer applicants are required to meet the academic subject requirements for the program by having completed the subject requirements or an equivalent course (e.g. ENG4U). Exception, applicants applying to Advanced Standing or Direct Entry options which list alternative admission requirements. If you have questions about the requirements, contact the ServiceHub or the Engineering Admissions Office for support."
+  },
+  {
+    "prompt": "What documents do I need to provide to transfer to TMU?",
+    "completion": "After you apply, you will receive access to the ChooseTMU applicant portal, where you will receive communications and status updates, and where you can upload your supporting documents, such as academic transcripts. Detailed information on required documents is confirmed on Document Submission."
+  },
+  {
+    "prompt": "When will I receive an admission decision?",
+    "completion": "The majority of admission decisions for the Fall Term are made between February and the end of May. All admission decisions are posted to your ChooseTMU applicant portal. Applicants who applied by the guaranteed consideration date will receive a decision by late May."
+  },
+  {
+    "prompt": "What is the guaranteed consideration date?",
+    "completion": "The guaranteed consideration date is the date by which applicants must submit their application in order to receive a decision by late May."
+  },
+  {
+    "prompt": "When will I know if I have been accepted?",
+    "completion": "All admission decisions are posted to your ChooseTMU applicant portal. The majority of decisions for applicants who applied by the guaranteed consideration date are available for viewing between February and late June."
+  },
+  {
+    "prompt": "What is the deadline to apply for admission?",
+    "completion": "The deadline to apply for admission varies depending on the program you are applying to. Please refer to the program page for specific deadlines."
+  },
+  {
+    "prompt": "When will I receive my admission decision if I applied after the guaranteed consideration date?",
+    "completion": "Decisions are being posted to your ChooseTMU applicant portal accounts on an on-going basis; the majority of decisions for applicants who applied after the guaranteed consideration date are available for viewing between February and late June."
+  },
+  {
+    "prompt": "How can I find out when my admission decision will be released?",
+    "completion": "You can find out when your admission decision will be released by visiting the Admission Decision Release Dates page on the TMU website."
+  },
+  {
+    "prompt": "When will I know if I have been accepted to the Toronto Metropolitan University?",
+    "completion": "All admission decisions are posted to your ChooseTMU applicant portal. The majority of decisions for applicants who applied by the guaranteed consideration date are available for viewing between February and late June."
+  },
+  {
+    "prompt": "What is the best way to find out when my admission decision will be released?",
+    "completion": "The best way to find out when your admission decision will be released is to visit the Admission Decision Release Dates page on the TMU website."
+  },
+  {
+    "prompt": "When will I know if I have been accepted to the Toronto Metropolitan University if I applied after the guaranteed consideration date?",
+    "completion": "Decisions are being posted to your ChooseTMU applicant portal accounts on an on-going basis; the majority of decisions for applicants who applied after the guaranteed consideration date are available for viewing between February and late June."
+  },
+  {
+    "prompt": "What is the deadline to apply for admission to the Toronto Metropolitan University?",
+    "completion": "The deadline to apply for admission varies depending on the program you are applying to. Please refer to the program page for specific deadlines."
+  },
+  {
+    "prompt": "How do I order a transcript?",
+    "completion": "Official transcripts must be requested via MyServiceHub. Start by clicking on the Request Official Transcript link on the Student Center or the Academic Record section. See How to Request Official Transcripts for details."
+  },
+  {
+    "prompt": "What is the process for requesting a transcript?",
+    "completion": "Official transcripts must be requested via MyServiceHub. Start by clicking on the Request Official Transcript link on the Student Center or the Academic Record section. See How to Request Official Transcripts for details."
+  },
+  {
+    "prompt": "How long does it take to process a transcript request?",
+    "completion": "Processing time is normally less than one business day. If your transcript includes activities prior to September 1984, add two additional business days for processing."
+  },
+  {
+    "prompt": "How do I access my transcript once it is ready?",
+    "completion": "Transcripts are shared online through the MyCreds Learner Portal. After you submit your transcript order, it will be processed and transmitted to MyServiceHub. Once your transcript is ready to share, an email confirmation from MyCreds will be sent to your university email address if you have one, or to your personal email address on record with the university if you do not."
+  },
+  {
+    "prompt": "What if I don't remember my login credentials for MyServiceHub?",
+    "completion": "If you are a former student who has attended TMU (formerly Ryerson) since 1984, and you do not remember your login credentials for my.torontomu.ca (MyServiceHub), you must first get access to your account. Computing and Communications Services (CCS) is available to support you with this. If you completed your studies prior to 1984, contact Student Records at studentrecords@torontomu.ca for support requesting your transcript."
+  },
+  {
+    "prompt": "What if I completed my studies before 1984?",
+    "completion": "If you completed your studies prior to 1984, contact Student Records at studentrecords@torontomu.ca for support requesting your transcript."
+  },
+  {
+    "prompt": "How do I get access to my MyServiceHub account?",
+    "completion": "If you are a former student who has attended TMU (formerly Ryerson) since 1984, and you do not remember your login credentials for my.torontomu.ca (MyServiceHub), you must first get access to your account. Computing and Communications Services (CCS) is available to support you with this."
+  },
+  {
+    "prompt": "What is the MyCreds Learner Portal?",
+    "completion": "The MyCreds Learner Portal is an online platform where transcripts are shared. After you submit your transcript order, it will be processed and transmitted to MyServiceHub. Once your transcript is ready to share, an email confirmation from MyCreds will be sent to your university email address if you have one, or to your personal email address on record with the university if you do not."
+  },
+  {
+    "prompt": "How do I log in to the MyCreds Learner Portal?",
+    "completion": "You can access MyCreds without viewing the email notification using the 'Sign In With Your Education Provider' link, select Ryerson and then log in with your my.torontomu.ca username and password."
+  },
+  {
+    "prompt": "What is the link to the How to Request Official Transcripts page?",
+    "completion": "The link to the How to Request Official Transcripts page is https://www.torontomu.ca/current-students/academic-records/request-official-transcripts/"
+  },
+  {
+    "prompt": "Do you accept summer school courses?",
+    "completion": "Summer School, Night School, Correspondence Courses The university will consider courses completed via summer school, night school and correspondence. However, all courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions. Applicants who would like the university to consider extensions for summer school, night school or correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form. Requests for extensions beyond the end of June are considered based on overall academic performance and space availability."
+  },
+  {
+    "prompt": "What is the deadline for summer school courses?",
+    "completion": "All courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+  },
+  {
+    "prompt": "What is the process for requesting an extension for summer school courses?",
+    "completion": "Applicants who would like the university to consider extensions for summer school, night school or correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form."
+  },
+  {
+    "prompt": "What criteria is used to consider extensions for summer school courses?",
+    "completion": "Requests for extensions beyond the end of June are considered based on overall academic performance and space availability."
+  },
+  {
+    "prompt": "Does the university accept night school courses?",
+    "completion": "The university will consider courses completed via night school and correspondence. However, all courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+  },
+  {
+    "prompt": "Does the university accept correspondence courses?",
+    "completion": "The university will consider courses completed via correspondence. However, all courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+  },
+  {
+    "prompt": "What is the deadline for night school courses?",
+    "completion": "All courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+  },
+  {
+    "prompt": "What is the process for requesting an extension for night school courses?",
+    "completion": "Applicants who would like the university to consider extensions for night school or correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form."
+  },
+  {
+    "prompt": "What criteria is used to consider extensions for night school courses?",
+    "completion": "Requests for extensions beyond the end of June are considered based on overall academic performance and space availability."
+  },
+  {
+    "prompt": "Does the university accept courses completed via summer school?",
+    "completion": "The university will consider courses completed via summer school. However, all courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+  },
+  {
+    "prompt": "What is the process for requesting an extension for correspondence courses?",
+    "completion": "Applicants who would like the university to consider extensions for correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form."
+  },
+  {
+    "prompt": "What criteria is used to consider extensions for correspondence courses?",
+    "completion": "Requests for extensions beyond the end of June are considered based on overall academic performance and space availability."
+  },
+  {
+    "prompt": "What is the deadline for correspondence courses?",
+    "completion": "All courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+  },
+  {
+    "prompt": "Does the university accept courses completed via night school?",
+    "completion": "The university will consider courses completed via night school. However, all courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+  },
+  {
+    "prompt": "Does the university accept courses completed via correspondence?",
+    "completion": "The university will consider courses completed via correspondence. However, all courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+  },
+  {
+    "prompt": "What is the process for requesting an extension for summer school courses?",
+    "completion": "Applicants who would like the university to consider extensions for summer school, night school or correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form."
+  },
+  {
+    "prompt": "What is the process for requesting an extension for night school courses?",
+    "completion": "Applicants who would like the university to consider extensions for night school or correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form."
+  },
+  {
+    "prompt": "What is the process for requesting an extension for correspondence courses?",
+    "completion": "Applicants who would like the university to consider extensions for correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form."
+  },
+  {
+    "prompt": "Where do I send my transcripts?",
+    "completion": "Unofficial Transcripts Unofficial transcripts, and other admission documents required for the undergraduate application process can be uploaded via your ChooseTMU Applicant Portal. Unofficial transcripts can be used for the review and consideration of your application for admission.  If you are offered admission to a TMU program, it will be contingent upon the receipt and verification of your official documents. Official Transcripts In order for transcripts to be considered official, they must be in a sealed envelope and bear an original seal/stamp and/or official signature from an appropriate signatory.  Official transcripts can be submitted as indicated below: - Sent via the Ontario Universities' Application Centre (OUAC), if eligible. - Mailed/couriered to Toronto Metropolitan University, SeviceHub, 350 Victoria Street, Toronto, ON Canada M5B 2K3 - Delivered in person to the ServiceHub, located at 380 Victoria Street, Podium Building (POD) Room 150. Please visit the Document Submission webpage for more detailed information on transcript requirements and instructions on submitting your transcripts."
+  },
+  {
+    "prompt": "How do I submit my transcripts?",
+    "completion": "Unofficial transcripts, and other admission documents required for the undergraduate application process can be uploaded via your ChooseTMU Applicant Portal. Official transcripts can be submitted as indicated below: - Sent via the Ontario Universities' Application Centre (OUAC), if eligible. - Mailed/couriered to Toronto Metropolitan University, SeviceHub, 350 Victoria Street, Toronto, ON Canada M5B 2K3 - Delivered in person to the ServiceHub, located at 380 Victoria Street, Podium Building (POD) Room 150. Please visit the Document Submission webpage for more detailed information on transcript requirements and instructions on submitting your transcripts."
+  },
+  {
+    "prompt": "What documents do I need to submit for admission to TMU?",
+    "completion": "Admission documents required for the undergraduate application process include transcripts, letters of recommendation, and other supporting documents. Please visit the Document Submission webpage for more detailed information on document requirements and instructions on submitting your documents."
+  },
+  {
+    "prompt": "How do I submit my official transcripts?",
+    "completion": "In order for transcripts to be considered official, they must be in a sealed envelope and bear an original seal/stamp and/or official signature from an appropriate signatory. Official transcripts can be submitted as indicated below: - Sent via the Ontario Universities' Application Centre (OUAC), if eligible. - Mailed/couriered to Toronto Metropolitan University, SeviceHub, 350 Victoria Street, Toronto, ON Canada M5B 2K3 - Delivered in person to the ServiceHub, located at 380 Victoria Street, Podium Building (POD) Room 150. Please visit the Document Submission webpage for more detailed information on transcript requirements and instructions on submitting your transcripts."
+  },
+  {
+    "prompt": "Do I need to submit official transcripts for admission to TMU?",
+    "completion": "Yes, official transcripts are required for admission to Toronto Metropolitan University. In order for transcripts to be considered official, they must be in a sealed envelope and bear an original seal/stamp and/or official signature from an appropriate signatory. Official transcripts can be submitted as indicated below: - Sent via the Ontario Universities' Application Centre (OUAC), if eligible. - Mailed/couriered to Toronto Metropolitan University, SeviceHub, 350 Victoria Street, Toronto, ON Canada M5B 2K3 - Delivered in person to the ServiceHub, located at 380 Victoria Street, Podium Building (POD) Room 150. Please visit the Document Submission webpage for more detailed information on transcript requirements and instructions on submitting your transcripts."
+  },
+  {
+    "prompt": "What is the address for submitting transcripts to TMU?",
+    "completion": "Official transcripts can be submitted as indicated below: - Mailed/couriered to Toronto Metropolitan University, SeviceHub, 350 Victoria Street, Toronto, ON Canada M5B 2K3 - Delivered in person to the ServiceHub, located at 380 Victoria Street, Podium Building (POD) Room 150. Please visit the Document Submission webpage for more detailed information on transcript requirements and instructions on submitting your transcripts."
+  },
+  {
+    "prompt": "What is the deadline for submitting transcripts to TMU?",
+    "completion": "The deadline for submitting transcripts to Toronto Metropolitan University varies depending on the program you are applying to. Please visit the Document Submission webpage for more detailed information on transcript requirements and instructions on submitting your transcripts."
+  },
+  {
+    "prompt": "Do I need to submit letters of recommendation for admission to TMU?",
+    "completion": "Yes, letters of recommendation are required for admission to Toronto Metropolitan University. Please visit the Document Submission webpage for more detailed information on document requirements and instructions on submitting your documents."
+  },
+  {
+    "prompt": "What is the process for submitting documents to TMU?",
+    "completion": "The process for submitting documents to Toronto Metropolitan University varies depending on the type of document you are submitting. Unofficial transcripts, and other admission documents required for the undergraduate application process can be uploaded via your ChooseTMU Applicant Portal. Official transcripts can be submitted as indicated below: - Sent via the Ontario Universities' Application Centre (OUAC), if eligible. - Mailed/couriered to Toronto Metropolitan University, SeviceHub, 350 Victoria Street, Toronto, ON Canada M5B 2K3 - Delivered in person to the ServiceHub, located at 380 Victoria Street, Podium Building (POD) Room 150. Please visit the Document Submission webpage for more detailed information on document requirements and instructions on submitting your documents."
+  },
+  {
+    "prompt": "What is the address for submitting documents to TMU?",
+    "completion": "Official documents can be submitted as indicated below: - Mailed/couriered to Toronto Metropolitan University, SeviceHub, 350 Victoria Street, Toronto, ON Canada M5B 2K3 - Delivered in person to the ServiceHub, located at 380 Victoria Street, Podium Building (POD) Room 150. Please visit the Document Submission webpage for more detailed information on document requirements and instructions on submitting your documents."
+  },
+  {
+    "prompt": "What documents do I need to submit with my application?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents do I need to submit for admission to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents do I need to provide for admission to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents should I submit for admission to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents are required to apply to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents do I need to submit to apply to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents are required to be submitted with my application to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents do I need to provide when applying to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents must I submit with my application to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "What documents do I need to submit when applying to Toronto Metropolitan University?",
+    "completion": "Documents to Submit with an Application for Undergraduate Admission. Visit the Document Submission page for information on what documents you need to submit and for detailed submission instructions."
+  },
+  {
+    "prompt": "How do I enroll in my undergraduate courses?",
+    "completion": "Course Enrolment Full-time first-year students are automatically enroled into first semester Required courses, and are required to enrol in elective courses. Starting in August, you can view the courses you have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca . You can select the remaining elective courses, and enrol in or adjust your required course enrolments (if required) during your enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "What is the process for enrolling in undergraduate courses?",
+    "completion": "The process for enrolling in undergraduate courses involves Full-time first-year students being automatically enroled into first semester Required courses, and being required to enrol in elective courses. Starting in August, students can view the courses they have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca . They can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "What is the enrolment process for Toronto Metropolitan University?",
+    "completion": "The enrolment process for Toronto Metropolitan University involves Full-time first-year students being automatically enroled into first semester Required courses, and being required to enrol in elective courses. Starting in August, students can view the courses they have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca . They can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "How do I view my courses at Toronto Metropolitan University?",
+    "completion": "You can view your courses at Toronto Metropolitan University by logging into MyServiceHub, accessed via my.torontomu.ca . Full-time first-year students are automatically enroled into first semester Required courses, and can view the courses they have been automatically enroled in on MyServiceHub. They can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "What is the enrolment period for Toronto Metropolitan University?",
+    "completion": "The enrolment period for Toronto Metropolitan University is during the open enrolment period and during the student's enrolment appointment. Full-time first-year students are automatically enroled into first semester Required courses, and can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "What is the deadline for enrolling in courses at Toronto Metropolitan University?",
+    "completion": "The deadline for enrolling in courses at Toronto Metropolitan University is during the open enrolment period and during the student's enrolment appointment. Full-time first-year students are automatically enroled into first semester Required courses, and can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "What is the enrolment process for part-time students at Toronto Metropolitan University?",
+    "completion": "The enrolment process for part-time students at Toronto Metropolitan University is that they are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Full-time first-year students are automatically enroled into first semester Required courses, and can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+  },
+  {
+    "prompt": "Where can I find the curriculum for Toronto Metropolitan University?",
+    "completion": "The curriculum for Toronto Metropolitan University can be found in the Undergraduate Calendar. Full-time first-year students are automatically enroled into first semester Required courses, and can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period."
+  },
+  {
+    "prompt": "What is the enrolment process for elective courses at Toronto Metropolitan University?",
+    "completion": "The enrolment process for elective courses at Toronto Metropolitan University involves Full-time first-year students being automatically enroled into first semester Required courses, and being required to enrol in elective courses. Starting in August, students can view the courses they have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca . They can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period."
+  },
+  {
+    "prompt": "How do I adjust my required course enrolments at Toronto Metropolitan University?",
+    "completion": "You can adjust your required course enrolments at Toronto Metropolitan University by logging into MyServiceHub, accessed via my.torontomu.ca . Full-time first-year students are automatically enroled into first semester Required courses, and can select the remaining elective courses, and enrol in or adjust their required course enrolments (if required) during their enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period."
+  },
+  {
+    "prompt": "What are the admission grade requirements?",
+    "completion": "Admission Grade Requirements Averages/grades required for admission selection to each undergraduate program is determined on the basis of competition each year. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program. If you are not on track to meet admission requirements, please contact Undergraduate Admissions and Recruitment to discuss your options, including alternative program options and upgrading."
+  },
+  {
+    "prompt": "What is the minimum grade requirement for admission?",
+    "completion": "The minimum grade requirement for admission varies from year to year and is determined on the basis of competition. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  },
+  {
+    "prompt": "What are the admission requirements for Toronto Metropolitan University?",
+    "completion": "The admission requirements for Toronto Metropolitan University vary from program to program. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  },
+  {
+    "prompt": "What is the admission process for Toronto Metropolitan University?",
+    "completion": "The admission process for Toronto Metropolitan University includes submitting an application, providing transcripts and other documents, and meeting the admission requirements for the program. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  },
+  {
+    "prompt": "What is the average grade requirement for admission to Toronto Metropolitan University?",
+    "completion": "The average grade requirement for admission to Toronto Metropolitan University varies from year to year and is determined on the basis of competition. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  },
+  {
+    "prompt": "What are the admission requirements for international students at Toronto Metropolitan University?",
+    "completion": "The admission requirements for international students at Toronto Metropolitan University are the same as for domestic students. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  },
+  {
+    "prompt": "What is the minimum GPA requirement for admission to Toronto Metropolitan University?",
+    "completion": "The minimum GPA requirement for admission to Toronto Metropolitan University varies from year to year and is determined on the basis of competition. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  },
+  {
+    "prompt": "What are the admission requirements for transfer students at Toronto Metropolitan University?",
+    "completion": "The admission requirements for transfer students at Toronto Metropolitan University are the same as for domestic students. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  },
+  {
+    "prompt": "What are the admission requirements for mature students at Toronto Metropolitan University?",
+    "completion": "The admission requirements for mature students at Toronto Metropolitan University are the same as for domestic students. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  },
+  {
+    "prompt": "What are the admission requirements for part-time students at Toronto Metropolitan University?",
+    "completion": "The admission requirements for part-time students at Toronto Metropolitan University are the same as for domestic students. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+  }
+]
