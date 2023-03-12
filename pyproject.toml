@@ -10,6 +10,8 @@ packages = [{include = "fine_tuning_demo"}]
 python = "^3.10"
 openai = "^0.27.1"
 python-decouple = "^3.8"
+beautifulsoup4 = "^4.11.2"
+validators = "^0.20.0"
 
 
 [tool.poetry.group.dev.dependencies]

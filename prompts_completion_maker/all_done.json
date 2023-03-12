@@ -883,8 +883,6 @@
         "prompt": "What is the ETA for the Brex project?",
         "completion": "The expected time of arrival for the Brex project to be completed."
     },
-    "content",
-    "content",
     {
         "prompt": "How does being a solo house member affect my rate and compensation?",
         "completion": "As a house of one, you are the house master. Your rate and your compensation is at your discretion."
@@ -925,7 +923,6 @@
         "prompt": "How does the company handle salary payments after engine work?",
         "completion": "After engine work, salaries are typically paid one week after the start of the month following engine working. However, if the work logs are perfect, salaries could be paid on the 1st of the month. Our objective is to pay as soon as possible, but realistically it may take until the 10th of the month until flow.bld.ai is built and tested."
     },
-    "content",
     {
         "prompt": "What is the primary responsibility of a housemaster?",
         "completion": "The primary responsibility of a housemaster is to recruit, train, assign, pay, and ensure the wellbeing of house members."
@@ -1451,175 +1448,12 @@
         "completion": "This is where we keep data about the workers that bld.ai has as well as data about who were involved in the recruitment process for each worker. For each worker, we store the following information:\n- Worker\u2019s email address.\n- The hire date of the worker.\n- The house that recruited the worker.\n- Emails of the sourcers of the worker.\n- Emails of the interviewers of the worker.\n- Emails of the closers with the worker.\nThis is used later to calculate the commission of the recruiters."
     },
     {
-        "prompt": "give me an example of data bld.ai keeps about its workers",
-        "completion": {
-            "worker_email": "jane.doe@example.com",
-            "hire_date": "2021-06-01",
-            "recruiting_house": "New York",
-            "sourcer_emails": [
-                "john.smith@example.com",
-                "amy.jones@example.com"
-            ],
-            "interviewer_emails": [
-                "bob.johnson@example.com"
-            ],
-            "closer_emails": [
-                "kim.nguyen@example.com"
-            ]
-        }
-    },
-    {
-        "prompt": "give me an example of data bld.ai keeps about its workers",
-        "completion": {
-            "worker_email": "john.smith@example.com",
-            "hire_date": "2021-05-15",
-            "recruiting_house": "San Francisco",
-            "sourcer_emails": [
-                "jane.doe@example.com"
-            ],
-            "interviewer_emails": [
-                "amy.jones@example.com",
-                "bob.johnson@example.com"
-            ],
-            "closer_emails": [
-                "kim.nguyen@example.com",
-                "juan.perez@example.com"
-            ]
-        }
-    },
-    {
-        "prompt": "give me an example of data bld.ai keeps about its workers",
-        "completion": {
-            "worker_email": "amy.jones@example.com",
-            "hire_date": "2021-04-01",
-            "recruiting_house": "Chicago",
-            "sourcer_emails": [
-                "john.smith@example.com"
-            ],
-            "interviewer_emails": [
-                "bob.johnson@example.com"
-            ],
-            "closer_emails": [
-                "kim.nguyen@example.com",
-                "juan.perez@example.com",
-                "sophie.le@example.com"
-            ]
-        }
-    },
-    {
-        "prompt": "give me an example of data bld.ai keeps about its workers",
-        "completion": {
-            "worker_email": "bob.johnson@example.com",
-            "hire_date": "2021-03-15",
-            "recruiting_house": "Los Angeles",
-            "sourcer_emails": [
-                "jane.doe@example.com",
-                "john.smith@example.com"
-            ],
-            "interviewer_emails": [
-                "amy.jones@example.com"
-            ],
-            "closer_emails": [
-                "kim.nguyen@example.com"
-            ]
-        }
-    },
-    {
-        "prompt": "give me an example of data bld.ai keeps about its workers",
-        "completion": {
-            "worker_email": "juan.perez@example.com",
-            "hire_date": "2021-02-01",
-            "recruiting_house": "Seattle",
-            "sourcer_emails": [
-                "jane.doe@example.com",
-                "john.smith@example.com"
-            ],
-            "interviewer_emails": [
-                "amy.jones@example.com"
-            ],
-            "closer_emails": [
-                "kim.nguyen@example.com",
-                "sophie.le@example.com"
-            ]
-        }
-    },
-    {
         "prompt": "What is the seller flow?",
         "completion": "This is the process that bld.ai uses to close deals with clients. It involves multiple workers who contribute to different stages of the process. This flow is used to calculate the commission of the sellers."
     },
     {
         "prompt": "what data does bld.ai keep about its projects?",
         "completion": "For each project, we store the following information: Project name, Project's start date, Emails of project sourcers, Emails of project proposal writers, and Emails of project closers."
-    },
-    {
-        "prompt": "give me an example about data bld.ai keeps about its projects",
-        "completion": {
-            "project_name": "Project A",
-            "start_date": "2021-01-01",
-            "sourcer_emails": [
-                "jane@example.com",
-                "john@example.com"
-            ],
-            "proposal_writer_emails": [
-                "susan@example.com"
-            ],
-            "closer_emails": [
-                "bob@example.com",
-                "alice@example.com"
-            ]
-        }
-    },
-    {
-        "prompt": "give me an example about data bld.ai keeps about its projects",
-        "completion": {
-            "project_name": "Project B",
-            "start_date": "2021-02-15",
-            "sourcer_emails": [
-                "jim@example.com"
-            ],
-            "proposal_writer_emails": [
-                "kim@example.com",
-                "tina@example.com"
-            ],
-            "closer_emails": [
-                "jon@example.com"
-            ]
-        }
-    },
-    {
-        "prompt": "give me an example about data bld.ai keeps about its projects",
-        "completion": {
-            "project_name": "Project C",
-            "start_date": "2021-03-30",
-            "sourcer_emails": [
-                "anne@example.com"
-            ],
-            "proposal_writer_emails": [
-                "matt@example.com",
-                "melissa@example.com"
-            ],
-            "closer_emails": [
-                "sam@example.com",
-                "gabe@example.com"
-            ]
-        }
-    },
-    {
-        "prompt": "give me an example about data bld.ai keeps about its projects",
-        "completion": {
-            "project_name": "Project D",
-            "start_date": "2021-04-22",
-            "sourcer_emails": [
-                "dave@example.com",
-                "emily@example.com"
-            ],
-            "proposal_writer_emails": [
-                "daniel@example.com"
-            ],
-            "closer_emails": [
-                "sara@example.com"
-            ]
-        }
     },
     {
         "prompt": "What is meant by 'house in flow'?",
