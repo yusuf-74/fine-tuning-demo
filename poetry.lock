@@ -312,17 +312,6 @@ files = [
 ]
 
 [[package]]
-name = "decouple"
-version = "0.0.7"
-description = "Decoupling logic"
-category = "main"
-optional = false
-python-versions = ">=3.7"
-files = [
-    {file = "decouple-0.0.7.tar.gz", hash = "sha256:c253c1cc62b76e9720a066f334552548c6de1884bc3bdf456ddb62d61b867b09"},
-]
-
-[[package]]
 name = "frozenlist"
 version = "1.3.3"
 description = "A list-like structure which implements collections.abc.MutableSequence"
@@ -740,4 +729,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "c93644cfaec51b05d6109effd446af849c936fdee47b4ab7b17216f83024e48c"
+content-hash = "196780d21d57dc2a30450c67d49deb99734961e54833ed61c72b0f9adcd7046d"
