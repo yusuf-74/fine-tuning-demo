@@ -1,0 +1,22 @@
+[
+    {
+        "prompt": "What is the Academic Integrity Policy at Toronto Metropolitan University?",
+        "completion": "The Academic Integrity Policy at Toronto Metropolitan University is Policy 60: Academic Integrity."
+    },
+    {
+        "prompt": "What are the possible penalties for academic misconduct at Toronto Metropolitan University?",
+        "completion": "The possible penalties for academic misconduct at Toronto Metropolitan University include a grade reduction, up to and including a zero on the exam, an \u201cF\u201d in the course and/or suspension/withdrawal/expulsion from the University."
+    },
+    {
+        "prompt": "What is the Disciplinary Notation on my internal academic record?",
+        "completion": "The Disciplinary Notation on your internal academic record is a notation that is included in all findings of academic misconduct."
+    },
+    {
+        "prompt": "Where can I find more information about the Academic Integrity Policy at Toronto Metropolitan University?",
+        "completion": "You can find more information about the Academic Integrity Policy at Toronto Metropolitan University in the PDF file Academic Integrity Policy or on the Academic Integrity Office website."
+    },
+    {
+        "prompt": "Who should I contact if I am unsure how the Academic Integrity Policy applies to my exam?",
+        "completion": "If you are unsure how the Academic Integrity Policy applies to your exam, you should contact your Professor or the Academic Integrity Office (AIO) at aio@torontomu.ca as soon as possible."
+    }
+]

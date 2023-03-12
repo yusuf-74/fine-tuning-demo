@@ -4,15 +4,14 @@ version = "0.1.0"
 description = ""
 authors = ["yusuf-74 <yachour31@gmail.com>"]
 readme = "README.md"
-packages = [{include = "fine_tuning_demo"}]
+packages = []
 
 [tool.poetry.dependencies]
 python = "^3.10"
 openai = "^0.27.1"
-python-decouple = "^3.8"
 beautifulsoup4 = "^4.11.2"
 validators = "^0.20.0"
-decouple = "^0.0.7"
+python-decouple = "^3.8"
 
 
 [tool.poetry.group.dev.dependencies]

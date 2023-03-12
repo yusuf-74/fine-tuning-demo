@@ -1,0 +1,14 @@
+[
+    {
+        "prompt": "What is Toronto Metropolitan University not liable for?",
+        "completion": "Toronto Metropolitan University is not liable for any failure in, delay in, or any other issues related to academic progression arising out of any cause or causes beyond its reasonable control."
+    },
+    {
+        "prompt": "What are some examples of causes beyond Toronto Metropolitan University's reasonable control?",
+        "completion": "Examples of causes beyond Toronto Metropolitan University's reasonable control include but are not limited to fire, strike, lock-out, inability to procure materials or trades, war, mass-casualty event, flood, local, regional or global outbreak of disease or other public health emergency, social distancing or quarantine restriction, legislative or regulatory requirements, unusually severe weather, failure of public utility or common carrier, or attacks or other malicious act, including but not limited to attacks on or through the internet, or any internet service, telecommunications provider or hosting facility."
+    },
+    {
+        "prompt": "What kind of malicious acts can Toronto Metropolitan University not be liable for?",
+        "completion": "Toronto Metropolitan University is not liable for any attacks or other malicious act, including but not limited to attacks on or through the internet, or any internet service, telecommunications provider or hosting facility."
+    }
+]

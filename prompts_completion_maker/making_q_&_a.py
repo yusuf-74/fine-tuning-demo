@@ -1,7 +1,8 @@
 import openai
 import json
 from decouple import config
-from answers_formatter import format_it
+
+
 openai.api_key = config('OPENAI_API_KEY')
 
 

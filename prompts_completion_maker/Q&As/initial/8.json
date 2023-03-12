@@ -1,0 +1,26 @@
+[
+    {
+        "prompt": "What is the approximate retail value of each Prize?",
+        "completion": "$50 CAD"
+    },
+    {
+        "prompt": "Can the Prize be transferred, assignable or convertible to cash?",
+        "completion": "No, except as may be specifically permitted by Sponsor in its sole and absolute discretion"
+    },
+    {
+        "prompt": "Can the Prize be substituted?",
+        "completion": "Yes, at Sponsor\u2019s option with a prize or prize component(s) of equal or greater retail value, including, without limitation, but solely at the Sponsor\u2019s sole discretion, a cash award"
+    },
+    {
+        "prompt": "What is the location of delivery of the Prize?",
+        "completion": "A location in Canada reasonably close to the confirmed Prize winner's place of residence as determined by Sponsor, in its sole and absolute discretion"
+    },
+    {
+        "prompt": "What type of identification is required to take delivery of the Prize?",
+        "completion": "Adequate personal identification (in a form acceptable to the Sponsor \u2013 including, without limitation, government issued photo identification)"
+    },
+    {
+        "prompt": "Who is responsible for expenses not included in the Prize description?",
+        "completion": "The confirmed Prize winner is solely responsible for all expenses that are not included in the Prize description"
+    }
+]

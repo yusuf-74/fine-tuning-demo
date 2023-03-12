@@ -1,0 +1,26 @@
+[
+    {
+        "prompt": "What type of content is not allowed to be uploaded to Toronto Metropolitan University?",
+        "completion": "Content that infringes any patent, trademark, trade secret, copyright or other proprietary right of any party is not allowed to be uploaded to Toronto Metropolitan University."
+    },
+    {
+        "prompt": "What happens if someone violates the guidelines of Toronto Metropolitan University?",
+        "completion": "If someone violates the guidelines of Toronto Metropolitan University, Toronto Metropolitan University will not accept their content and may suspend or block their access to the Site."
+    },
+    {
+        "prompt": "What is required if a minor wants to upload content to the Site?",
+        "completion": "If a minor wants to upload content to the Site, they must have permission from their parent or guardian to do so."
+    },
+    {
+        "prompt": "What will Toronto Metropolitan University do if material is uploaded without permission?",
+        "completion": "If material is uploaded without permission, Toronto Metropolitan University will remove it immediately and without notice."
+    },
+    {
+        "prompt": "What should people never assume when participating through content generation or submission mechanisms?",
+        "completion": "People should never assume that people are who they say they are, know what they say they know, or are affiliated with whom they say they are affiliated when participating through content generation or submission mechanisms."
+    },
+    {
+        "prompt": "What is Toronto Metropolitan University not responsible for?",
+        "completion": "Toronto Metropolitan University is not responsible for the content or accuracy of any information and is not responsible for any reliance or decisions made by you or any other person based on such information."
+    }
+]

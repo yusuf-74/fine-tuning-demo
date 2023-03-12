@@ -1,0 +1,26 @@
+[
+    {
+        "prompt": "What information is required to register with the Toronto Metropolitan University website?",
+        "completion": "To register with the Toronto Metropolitan University website, you need to provide true, accurate, current and complete information about yourself as prompted by any registration form."
+    },
+    {
+        "prompt": "What happens if Toronto Metropolitan University suspects that the information provided is untrue, inaccurate, not current or incomplete?",
+        "completion": "If Toronto Metropolitan University suspects that the information provided is untrue, inaccurate, not current or incomplete, they reserve the right to suspend, block or terminate your access to and use of the Site."
+    },
+    {
+        "prompt": "What do you need to receive through the Site registration process?",
+        "completion": "You will need to receive a username and password through the Site registration process."
+    },
+    {
+        "prompt": "What is the user responsible for when it comes to their password and account?",
+        "completion": "The user is responsible for maintaining the confidentiality of the password and account, and is responsible for all activities that occur under their password or account."
+    },
+    {
+        "prompt": "What should the user do if there is an unauthorized use of their password or account?",
+        "completion": "The user should notify Toronto Metropolitan University immediately of any unauthorized use of their password or account or any other breach of security, and ensure that they exit from their account at the end of each session."
+    },
+    {
+        "prompt": "What is Toronto Metropolitan University not liable for?",
+        "completion": "Toronto Metropolitan University is not liable for any loss or damage arising from the user's failure to protect their password or account information."
+    }
+]
