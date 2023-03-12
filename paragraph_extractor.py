@@ -20,13 +20,17 @@ async def fetch_paragraphs(semaphore, session, url):
             return paragraphs
 
 async def main(urls):
-    semaphore = asyncio.Semaphore(10)  # limit to 30 concurrent requests
+    semaphore = asyncio.Semaphore(30)  # limit to 10 concurrent requests
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_paragraphs(semaphore, session, url) for url in urls]
         results = await asyncio.gather(*tasks)
         return results
 
 if __name__ == '__main__':
-    results = asyncio.run(main(urls[:500]))
-    with open('paragraphs.json','w') as f:
-        json.dump(results,f,indent=4)  
+    # results = asyncio.run(main(urls[:500]))
+    # with open('paragraphs.json','w') as f:
+    #     json.dump(results,f,indent=4)  
+    
+    rest_of_results = asyncio.run(main(urls[500:620]))
+    with open('paragraphs2.json','w') as f:
+        json.dump(rest_of_results,f,indent=4)

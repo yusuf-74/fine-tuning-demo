@@ -71,6 +71,7 @@ def get_important_links(url , depth):
     return
 
 get_important_links('https://www.torontomu.ca/',0)
+
 with open('urls.json','w') as f:
     urls = {
         'elected_urls': elected_urls,
