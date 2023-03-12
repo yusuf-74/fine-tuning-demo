@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "How do I confirm my enrolment status as full-time or part-time?",
+        "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term. Note that full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP.  Visit Student Financial Assistance for more information."
+    },
+    {
+        "prompt": "What is the difference between full-time and part-time enrolment status?",
+        "completion": "Full-time enrolment status is calculated based on 4 or more billing units, while part-time enrolment status is calculated based on 3 or fewer billing units. Generally, a one-term course is equal to one billing unit."
+    },
+    {
+        "prompt": "How can I check my billing units by term?",
+        "completion": "You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term."
+    },
+    {
+        "prompt": "How is full-time status calculated for OSAP?",
+        "completion": "Full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP. Visit Student Financial Assistance for more information."
+    },
+    {
+        "prompt": "How do I know if I am a full-time or part-time student?",
+        "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term."
+    },
+    {
+        "prompt": "What is the criteria for full-time and part-time enrolment status?",
+        "completion": "Full-time enrolment status is calculated based on 4 or more billing units, while part-time enrolment status is calculated based on 3 or fewer billing units. Generally, a one-term course is equal to one billing unit."
+    },
+    {
+        "prompt": "Where can I find information about my billing units?",
+        "completion": "You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term."
+    },
+    {
+        "prompt": "What is the difference between full-time and part-time OSAP?",
+        "completion": "Full-time status is calculated differently for determining eligibility for Full-time or Part-time OSAP. Visit Student Financial Assistance for more information."
+    },
+    {
+        "prompt": "How can I check my enrolment status?",
+        "completion": "Full-time and part-time enrolment status for undergraduate students is calculated based on course enrolments and intentions, and the sum of the billing units by term. Generally, a one-term course is equal to one billing unit. You can confirm your billing units by term, and determine your enrolment status on MyServiceHub. Go to your Student Center, select Account Summary, and then Academic Information. The Units column confirms your billing units by term."
+    },
+    {
+        "prompt": "What is the criteria for determining full-time or part-time status?",
+        "completion": "Full-time enrolment status is calculated based on 4 or more billing units, while part-time enrolment status is calculated based on 3 or fewer billing units. Generally, a one-term course is equal to one billing unit."
+    }
+]

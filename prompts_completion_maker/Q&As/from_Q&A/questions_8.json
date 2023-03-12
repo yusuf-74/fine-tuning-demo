@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "Where can I find the university calendars?",
+        "completion": "Calendars"
+    },
+    {
+        "prompt": "What is the official source for university programming and course information?",
+        "completion": "The university calendars"
+    },
+    {
+        "prompt": "Where can I access the university calendars?",
+        "completion": "The university calendars can be accessed online on the calendars homepage."
+    },
+    {
+        "prompt": "Where can I find upcoming university events?",
+        "completion": "Upcoming university events are posted on the Official Events page."
+    },
+    {
+        "prompt": "What type of calendars does the university publish?",
+        "completion": "The university publishes calendars for undergraduate, graduate, and continuing education programs and certificates."
+    },
+    {
+        "prompt": "What type of information can I find in the university calendars?",
+        "completion": "The university calendars contain program curricula and courses that have been approved by the academic governing body of the institution, as well as academic information and policies and significant dates."
+    },
+    {
+        "prompt": "What is the best way to stay up to date with university events?",
+        "completion": "The best way to stay up to date with university events is to check the Official Events page."
+    },
+    {
+        "prompt": "Where can I find information about university programming and courses?",
+        "completion": "The university calendars are the official source for university programming and course information."
+    },
+    {
+        "prompt": "What is the most reliable source for university programming and course information?",
+        "completion": "The university calendars are the most reliable source for university programming and course information."
+    },
+    {
+        "prompt": "Where can I find the university's academic policies?",
+        "completion": "The university's academic policies can be found in the university calendars."
+    }
+]

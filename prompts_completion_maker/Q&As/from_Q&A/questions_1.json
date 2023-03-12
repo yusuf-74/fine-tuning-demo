@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "When do I need to apply to get early acceptance?",
+        "completion": "Students are advised to apply and submit required documents (if applicable) as soon as possible. The guaranteed consideration date for equal consideration is February 1st."
+    },
+    {
+        "prompt": "What is the deadline for early acceptance?",
+        "completion": "The deadline for early acceptance is February 1st."
+    },
+    {
+        "prompt": "What documents do I need to submit for early acceptance?",
+        "completion": "Students are required to submit all applicable documents for early acceptance."
+    },
+    {
+        "prompt": "What is the earliest I can apply for early acceptance?",
+        "completion": "Students are advised to apply and submit required documents (if applicable) as soon as possible."
+    },
+    {
+        "prompt": "What is the latest I can apply for early acceptance?",
+        "completion": "The latest students can apply for early acceptance is February 1st."
+    },
+    {
+        "prompt": "What is the guaranteed consideration date for early acceptance?",
+        "completion": "The guaranteed consideration date for early acceptance is February 1st."
+    },
+    {
+        "prompt": "When is the earliest I can be accepted for early acceptance?",
+        "completion": "The earliest students can be accepted for early acceptance is February 1st."
+    },
+    {
+        "prompt": "What is the cutoff date for early acceptance?",
+        "completion": "The cutoff date for early acceptance is February 1st."
+    },
+    {
+        "prompt": "What is the last date to apply for early acceptance?",
+        "completion": "The last date to apply for early acceptance is February 1st."
+    },
+    {
+        "prompt": "What is the equal consideration date for early acceptance?",
+        "completion": "The guaranteed consideration date for equal consideration is February 1st."
+    }
+]

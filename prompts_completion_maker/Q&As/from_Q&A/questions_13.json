@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "How do I enroll in my undergraduate courses?",
+        "completion": "Course Enrolment Full-time first-year students are automatically enroled into first semester Required courses, and are required to enrol in elective courses. Starting in August, you can view the courses you have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca . You can select the remaining elective courses, and enrol in or adjust your required course enrolments (if required) during your enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+    },
+    {
+        "prompt": "What is the process for enrolling in undergraduate courses?",
+        "completion": "The process for enrolling in undergraduate courses is to first view the courses you have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca. You can then select the remaining elective courses, and enrol in or adjust your required course enrolments (if required) during your enrolment appointment or the open enrolment period. Part-time students, or students admitted late, are not automatically enroled into required courses, and must enrol in all of their courses for the first semester. Students can select and enrol in courses during their enrolment appointment or the open enrolment period. Program curriculum can be viewed in the Undergraduate Calendar."
+    },
+    {
+        "prompt": "How do I know which courses I have been automatically enrolled in?",
+        "completion": "You can view the courses you have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca. You can then select the remaining elective courses, and enrol in or adjust your required course enrolments (if required) during your enrolment appointment or the open enrolment period."
+    },
+    {
+        "prompt": "What is the open enrolment period for undergraduate courses?",
+        "completion": "The open enrolment period for undergraduate courses is the period of time during which students can select and enrol in courses. This period usually begins in August and ends in September."
+    },
+    {
+        "prompt": "How do I select my elective courses?",
+        "completion": "You can select your elective courses by viewing the courses you have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca. You can then select the remaining elective courses, and enrol in or adjust your required course enrolments (if required) during your enrolment appointment or the open enrolment period."
+    },
+    {
+        "prompt": "Where can I find the program curriculum for undergraduate courses?",
+        "completion": "The program curriculum for undergraduate courses can be found in the Undergraduate Calendar."
+    },
+    {
+        "prompt": "What is the enrolment appointment for undergraduate courses?",
+        "completion": "The enrolment appointment for undergraduate courses is the period of time during which students can select and enrol in courses. This period usually begins in August and ends in September."
+    },
+    {
+        "prompt": "How do I adjust my required course enrolments?",
+        "completion": "You can adjust your required course enrolments by viewing the courses you have been automatically enroled in on MyServiceHub, accessed via my.torontomu.ca. You can then select the remaining elective courses, and enrol in or adjust your required course enrolments (if required) during your enrolment appointment or the open enrolment period."
+    },
+    {
+        "prompt": "What is MyServiceHub?",
+        "completion": "MyServiceHub is a web-based portal that allows students to access their course enrolment information, view their grades, and pay their tuition fees. It can be accessed via my.torontomu.ca."
+    },
+    {
+        "prompt": "When does the enrolment period for undergraduate courses begin?",
+        "completion": "The enrolment period for undergraduate courses usually begins in August and ends in September."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "What courses do you offer?",
+        "completion": "You can view the curriculum of each undergraduate degree program including required and elective courses, as well as a list of courses available at TMU in the Undergraduate Calendar. TMU also offers courses and certificate programs for non-degree students through the Chang School of Continuing Education. For more information on course offerings, visit the Chang School of Continuing Education website."
+    },
+    {
+        "prompt": "What undergraduate degree programs do you offer?",
+        "completion": "TMU offers a variety of undergraduate degree programs in a range of disciplines. You can view the curriculum of each degree program including required and elective courses, as well as a list of courses available at TMU in the Undergraduate Calendar."
+    },
+    {
+        "prompt": "What certificate programs do you offer?",
+        "completion": "TMU offers a variety of certificate programs for non-degree students through the Chang School of Continuing Education. For more information on certificate programs, visit the Chang School of Continuing Education website."
+    },
+    {
+        "prompt": "Where can I find a list of courses available at TMU?",
+        "completion": "You can find a list of courses available at TMU in the Undergraduate Calendar. For more information on course offerings, visit the Chang School of Continuing Education website."
+    },
+    {
+        "prompt": "Do you offer any online courses?",
+        "completion": "Yes, TMU offers a variety of online courses and certificate programs for non-degree students through the Chang School of Continuing Education. For more information on online course offerings, visit the Chang School of Continuing Education website."
+    },
+    {
+        "prompt": "What disciplines do you offer undergraduate degree programs in?",
+        "completion": "TMU offers a variety of undergraduate degree programs in a range of disciplines. You can view the curriculum of each degree program including required and elective courses, as well as a list of courses available at TMU in the Undergraduate Calendar."
+    },
+    {
+        "prompt": "Do you offer any courses for non-degree students?",
+        "completion": "Yes, TMU offers courses and certificate programs for non-degree students through the Chang School of Continuing Education. For more information on course offerings, visit the Chang School of Continuing Education website."
+    },
+    {
+        "prompt": "What kind of courses are available at TMU?",
+        "completion": "TMU offers a variety of courses for undergraduate degree programs, as well as courses and certificate programs for non-degree students through the Chang School of Continuing Education. For more information on course offerings, visit the Chang School of Continuing Education website."
+    },
+    {
+        "prompt": "How can I find out more about the courses offered at TMU?",
+        "completion": "You can view the curriculum of each undergraduate degree program including required and elective courses, as well as a list of courses available at TMU in the Undergraduate Calendar. For more information on course offerings, visit the Chang School of Continuing Education website."
+    },
+    {
+        "prompt": "Do you offer any courses for international students?",
+        "completion": "Yes, TMU offers a variety of courses for international students, as well as courses and certificate programs for non-degree students through the Chang School of Continuing Education. For more information on course offerings, visit the Chang School of Continuing Education website."
+    }
+]

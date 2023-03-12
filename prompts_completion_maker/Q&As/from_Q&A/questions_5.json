@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "How do I transfer from another university or college to TMU?",
+        "completion": "We're delighted that you are considering transferring to Toronto Metropolitan University (TMU)! If you have completed post-secondary studies in Canada or abroad, we encourage you to apply. We offer various pathways for transfer students, as well as opportunities to receive transfer credit for completed studies. Visit University and College Student Transfer Students to learn more about these options."
+    },
+    {
+        "prompt": "What are the requirements for transferring to TMU?",
+        "completion": "Review Undergraduate Programs to learn about program options and program specific admission requirements. Note that transfer applicants are required to meet the academic subject requirements for the program by having completed the subject requirements or an equivalent course (e.g. ENG4U). Exception, applicants applying to Advanced Standing or Direct Entry options which list alternative admission requirements. If you have questions about the requirements, contact the ServiceHub or the Engineering Admissions Office for support."
+    },
+    {
+        "prompt": "What application forms do I need to fill out to transfer to TMU?",
+        "completion": "There are 3 different application forms used by transfer applicants: OUAC 105 Application - Canadian or international applicants (currently not attending a full-time Ontario high school) applying to Ontario universities; TMU International Application - International students; TMU Application - Current or former TMU students."
+    },
+    {
+        "prompt": "What happens after I apply to transfer to TMU?",
+        "completion": "After you apply, you will receive access to the ChooseTMU applicant portal, where you will receive communications and status updates, and where you can upload your supporting documents, such as academic transcripts. Detailed information on required documents is confirmed on Document Submission."
+    },
+    {
+        "prompt": "How do I apply for transfer credits to TMU?",
+        "completion": "Once you have received an offer of admission, you can apply for transfer credits. Note that we may require you to upload your detailed course syllabus for transfer credit evaluation; therefore we recommend that you gather these documents in advance to facilitate a faster review of your credits."
+    },
+    {
+        "prompt": "What programs are currently accepting applications for transfer to TMU?",
+        "completion": "All programs accept applications for the fall term, and a limited number accept applications for the winter and spring terms. Visit Programs Accepting Applications to confirm which programs are currently accepting applications. If you are an international applicant, visit International Admissions to confirm."
+    },
+    {
+        "prompt": "What documents do I need to submit when transferring to TMU?",
+        "completion": "After you apply, you will receive access to the ChooseTMU applicant portal, where you can upload your supporting documents, such as academic transcripts. Detailed information on required documents is confirmed on Document Submission."
+    },
+    {
+        "prompt": "What are the academic subject requirements for transferring to TMU?",
+        "completion": "Transfer applicants are required to meet the academic subject requirements for the program by having completed the subject requirements or an equivalent course (e.g. ENG4U). Exception, applicants applying to Advanced Standing or Direct Entry options which list alternative admission requirements. If you have questions about the requirements, contact the ServiceHub or the Engineering Admissions Office for support."
+    },
+    {
+        "prompt": "What is the application process for international students transferring to TMU?",
+        "completion": "International students should fill out the TMU International Application. After you apply, you will receive access to the ChooseTMU applicant portal, where you will receive communications and status updates, and where you can upload your supporting documents, such as academic transcripts. Detailed information on required documents is confirmed on Document Submission."
+    },
+    {
+        "prompt": "What are the options for transfer students at TMU?",
+        "completion": "We offer various pathways for transfer students, as well as opportunities to receive transfer credit for completed studies. Visit University and College Student Transfer Students to learn more about these options."
+    }
+]

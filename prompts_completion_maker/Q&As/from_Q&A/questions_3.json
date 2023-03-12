@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "Where can I get my tax receipts?",
+        "completion": "Your T2202 (Tuition, Education & Textbook Amounts Certificate) is available for download on your MyServiceHub account usually during the third week in February (for the previous calendar year). To access your receipt, log into MyServiceHub  and click on the T2202 link on the left-hand side under the Student Fees section. There are two types of tax receipts available to students, the T2202 Tuition, Education & Textbook Amounts Certificate and the T4A Statement of Pension, Retirement, Annuity, and Other Income. T2202 is an official statement for income tax purposes of the tuition and fees paid for qualifying courses that are eligible for claim on the income tax return. T4A is an official statement for income tax purposes of scholarships, bursaries, awards or other income as defined by CRA that were provided by TMU to a student. If you were employed on campus, you will need to access your T4 through eHR, as it is not available through your MyServiceHub account. Questions should be directed toward Human Resources. More information is available on our Tax Receipts webpage. If you worked on campus, your T4 (Statement of Remuneration Paid) is available for download on the eHR website by the end of February.  To access, log into my.torontomu.ca and click on the eHR tab. Go to Self Service > Payroll and Compensation > View T4/T4A Slips. If you have problems with your tax information please contact the ServiceHub."
+    },
+    {
+        "prompt": "How do I access my T2202?",
+        "completion": "To access your T2202, log into your MyServiceHub account and click on the T2202 link on the left-hand side under the Student Fees section. This will provide you with a downloadable version of your T2202."
+    },
+    {
+        "prompt": "When is the T2202 available?",
+        "completion": "Your T2202 is usually available for download on your MyServiceHub account during the third week in February (for the previous calendar year)."
+    },
+    {
+        "prompt": "What are the two types of tax receipts available to students?",
+        "completion": "The two types of tax receipts available to students are the T2202 Tuition, Education & Textbook Amounts Certificate and the T4A Statement of Pension, Retirement, Annuity, and Other Income."
+    },
+    {
+        "prompt": "What is the T2202 used for?",
+        "completion": "The T2202 is an official statement for income tax purposes of the tuition and fees paid for qualifying courses that are eligible for claim on the income tax return."
+    },
+    {
+        "prompt": "What is the T4A used for?",
+        "completion": "The T4A is an official statement for income tax purposes of scholarships, bursaries, awards or other income as defined by CRA that were provided by TMU to a student."
+    },
+    {
+        "prompt": "Where can I access my T4?",
+        "completion": "If you were employed on campus, you will need to access your T4 through eHR, as it is not available through your MyServiceHub account. To access, log into my.torontomu.ca and click on the eHR tab. Go to Self Service > Payroll and Compensation > View T4/T4A Slips."
+    },
+    {
+        "prompt": "When is the T4 available?",
+        "completion": "If you worked on campus, your T4 (Statement of Remuneration Paid) is available for download on the eHR website by the end of February."
+    },
+    {
+        "prompt": "Where can I find more information about tax receipts?",
+        "completion": "More information is available on our Tax Receipts webpage. If you have problems with your tax information please contact the ServiceHub."
+    },
+    {
+        "prompt": "What is the T2202 Tuition, Education & Textbook Amounts Certificate?",
+        "completion": "The T2202 Tuition, Education & Textbook Amounts Certificate is an official statement for income tax purposes of the tuition and fees paid for qualifying courses that are eligible for claim on the income tax return."
+    }
+]

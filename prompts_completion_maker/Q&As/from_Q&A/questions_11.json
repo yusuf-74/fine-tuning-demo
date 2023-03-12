@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "Can I talk to an admissions advisor?",
+        "completion": "Admissions advising is available at the ServiceHub. Admissions advising includes discussing application requirements, upgrading options, the application process, information about pathways to post-secondary education, transferring from other post-secondary institutions and undergraduate programs at the university. To book an admission advising appointment please view the admissions advising section of the ServiceHub contact page. Please note that this service may not be available certain times of year."
+    },
+    {
+        "prompt": "What kind of advising is available at the ServiceHub?",
+        "completion": "Admissions advising is available at the ServiceHub. This includes discussing application requirements, upgrading options, the application process, information about pathways to post-secondary education, transferring from other post-secondary institutions and undergraduate programs at the university."
+    },
+    {
+        "prompt": "How do I book an admission advising appointment?",
+        "completion": "To book an admission advising appointment please view the admissions advising section of the ServiceHub contact page. Please note that this service may not be available certain times of year."
+    },
+    {
+        "prompt": "What hours is the ServiceHub open?",
+        "completion": "Visit the ServiceHub contact page to see our full hours of operation and contact information."
+    },
+    {
+        "prompt": "Who should current students talk to about academic issues?",
+        "completion": "Current students should discuss any academic issues with their program advisor in their academic program office. Advisors and counsellors may also be available to current students through Student Affairs, Student Learning Support and the Centre for Student Development and Counselling."
+    },
+    {
+        "prompt": "What services are available for current students?",
+        "completion": "Current students may be able to access advisors and counsellors through Student Affairs, Student Learning Support and the Centre for Student Development and Counselling. Additionally, current students should discuss any academic issues with their program advisor in their academic program office."
+    },
+    {
+        "prompt": "What information is available at the ServiceHub?",
+        "completion": "The ServiceHub provides information about application requirements, upgrading options, the application process, information about pathways to post-secondary education, transferring from other post-secondary institutions and undergraduate programs at the university."
+    },
+    {
+        "prompt": "What is the contact information for the ServiceHub?",
+        "completion": "Visit the ServiceHub contact page to see our full hours of operation and contact information."
+    },
+    {
+        "prompt": "What kind of help is available for transferring from other post-secondary institutions?",
+        "completion": "Admissions advising at the ServiceHub includes discussing transferring from other post-secondary institutions. To book an admission advising appointment please view the admissions advising section of the ServiceHub contact page. Please note that this service may not be available certain times of year."
+    },
+    {
+        "prompt": "What kind of help is available for upgrading options?",
+        "completion": "Admissions advising at the ServiceHub includes discussing upgrading options. To book an admission advising appointment please view the admissions advising section of the ServiceHub contact page. Please note that this service may not be available certain times of year."
+    }
+]

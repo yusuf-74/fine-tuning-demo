@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "Which programs require interviews?",
+        "completion": "Several \"Grades-Plus\" programs at the university request interviews as part of the non-academic criteria required for admission consideration. Please review the program page for the program(s) of your choice for the most up to date non-academic requirements as they may change from year to year."
+    },
+    {
+        "prompt": "What are the non-academic criteria for admission?",
+        "completion": "The non-academic criteria for admission to Toronto Metropolitan University vary by program. Some programs may require interviews, while others may require a portfolio or other evidence of prior work. Please review the program page for the program(s) of your choice for the most up to date non-academic requirements as they may change from year to year."
+    },
+    {
+        "prompt": "Are there any programs that require a portfolio?",
+        "completion": "Yes, some programs at Toronto Metropolitan University may require a portfolio as part of the non-academic criteria for admission consideration. Please review the program page for the program(s) of your choice for the most up to date non-academic requirements as they may change from year to year."
+    },
+    {
+        "prompt": "What are the requirements for admission to Toronto Metropolitan University?",
+        "completion": "The requirements for admission to Toronto Metropolitan University vary by program. Academic criteria such as grades and test scores are usually required, as well as non-academic criteria such as interviews, portfolios, or other evidence of prior work. Please review the program page for the program(s) of your choice for the most up to date requirements as they may change from year to year."
+    },
+    {
+        "prompt": "What kind of evidence is required for admission?",
+        "completion": "The evidence required for admission to Toronto Metropolitan University varies by program. Some programs may require interviews, while others may require a portfolio or other evidence of prior work. Please review the program page for the program(s) of your choice for the most up to date requirements as they may change from year to year."
+    },
+    {
+        "prompt": "Are there any programs that require an interview?",
+        "completion": "Yes, several \"Grades-Plus\" programs at Toronto Metropolitan University request interviews as part of the non-academic criteria required for admission consideration. Please review the program page for the program(s) of your choice for the most up to date non-academic requirements as they may change from year to year."
+    },
+    {
+        "prompt": "What kind of non-academic criteria are required for admission?",
+        "completion": "The non-academic criteria for admission to Toronto Metropolitan University vary by program. Some programs may require interviews, while others may require a portfolio or other evidence of prior work. Please review the program page for the program(s) of your choice for the most up to date non-academic requirements as they may change from year to year."
+    },
+    {
+        "prompt": "Are there any programs that require evidence of prior work?",
+        "completion": "Yes, some programs at Toronto Metropolitan University may require evidence of prior work as part of the non-academic criteria for admission consideration. Please review the program page for the program(s) of your choice for the most up to date non-academic requirements as they may change from year to year."
+    },
+    {
+        "prompt": "What are the academic criteria for admission?",
+        "completion": "The academic criteria for admission to Toronto Metropolitan University vary by program. Generally, grades and test scores are required for admission consideration. Please review the program page for the program(s) of your choice for the most up to date academic requirements as they may change from year to year."
+    },
+    {
+        "prompt": "Are there any programs that require test scores?",
+        "completion": "Yes, most programs at Toronto Metropolitan University require test scores as part of the academic criteria for admission consideration. Please review the program page for the program(s) of your choice for the most up to date academic requirements as they may change from year to year."
+    }
+]

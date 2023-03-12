@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "How do I order a transcript?",
+        "completion": "Official transcripts must be requested via MyServiceHub. Start by clicking on the Request Official Transcript link on the Student Center or the Academic Record section. See How to Request Official Transcripts for details."
+    },
+    {
+        "prompt": "What is the process for requesting a transcript?",
+        "completion": "Official transcripts must be requested via MyServiceHub. Start by clicking on the Request Official Transcript link on the Student Center or the Academic Record section. See How to Request Official Transcripts for details."
+    },
+    {
+        "prompt": "How long does it take to process a transcript request?",
+        "completion": "Processing time is normally less than one business day. If your transcript includes activities prior to September 1984, add two additional business days for processing. If you request your transcript to be issued after term grades are available, it will be processed after your term grades and standings are official. If you request your transcript to be issued after convocation, it will be processed after your degree is officially conferred."
+    },
+    {
+        "prompt": "How do I access my transcript after it is ready?",
+        "completion": "Transcripts are shared online through the MyCreds Learner Portal. After you submit your transcript order, it will be processed and transmitted to MyServiceHub. Once your transcript is ready to share, an email confirmation from MyCreds will be sent to your university email address if you have one, or to your personal email address on record with the university if you do not. Note that you can access MyCreds without viewing the email notification using the 'Sign In With Your Education Provider' link, select Ryerson and then log in with your my.torontomu.ca username and password."
+    },
+    {
+        "prompt": "What if I don't remember my login credentials for my.torontomu.ca?",
+        "completion": "If you are a former student who has attended TMU (formerly Ryerson) since 1984, and you do not remember your login credentials for my.torontomu.ca (MyServiceHub), you must first get access to your account. Computing and Communications Services (CCS) is available to support you with this. If you completed your studies prior to 1984, contact Student Records at studentrecords@torontomu.ca for support requesting your transcript."
+    },
+    {
+        "prompt": "How do I get access to my.torontomu.ca if I don't remember my login credentials?",
+        "completion": "If you are a former student who has attended TMU (formerly Ryerson) since 1984, and you do not remember your login credentials for my.torontomu.ca (MyServiceHub), you must first get access to your account. Computing and Communications Services (CCS) is available to support you with this. If you completed your studies prior to 1984, contact Student Records at studentrecords@torontomu.ca for support requesting your transcript."
+    },
+    {
+        "prompt": "What if I completed my studies prior to 1984?",
+        "completion": "If you completed your studies prior to 1984, contact Student Records at studentrecords@torontomu.ca for support requesting your transcript."
+    },
+    {
+        "prompt": "Where can I find more information about requesting a transcript?",
+        "completion": "See How to Request Official Transcripts for details."
+    },
+    {
+        "prompt": "How do I access the MyCreds Learner Portal?",
+        "completion": "Once your transcript is ready to share, an email confirmation from MyCreds will be sent to your university email address if you have one, or to your personal email address on record with the university if you do not. Note that you can access MyCreds without viewing the email notification using the 'Sign In With Your Education Provider' link, select Ryerson and then log in with your my.torontomu.ca username and password."
+    },
+    {
+        "prompt": "What is the timeline for processing a transcript request?",
+        "completion": "Processing time is normally less than one business day. If your transcript includes activities prior to September 1984, add two additional business days for processing. If you request your transcript to be issued after term grades are available, it will be processed after your term grades and standings are official. If you request your transcript to be issued after convocation, it will be processed after your degree is officially conferred."
+    }
+]

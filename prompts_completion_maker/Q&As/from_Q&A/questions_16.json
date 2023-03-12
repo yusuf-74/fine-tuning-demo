@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "How do I apply?",
+        "completion": "Visit the Admissions page for the university to see an overview of the application process and procedures. Visit Applications and Related Forms to access the right application form for your academic history/status. Undergraduate applicants will apply to our university online via the Ontario Universities' Application Centre [OUAC] through the 101 application for high school students, or the 105 application for all other full time applicants."
+    },
+    {
+        "prompt": "What is the deadline to apply?",
+        "completion": "The guaranteed consideration* date for all Undergraduate programs is February 1. * All complete applications and amendments received by the above date as noted will receive equal consideration for admission. Applications, amendments and supporting documents received after published deadline dates are reviewed subject to space availability."
+    },
+    {
+        "prompt": "Who needs to use the internal TMU Application?",
+        "completion": "The following groups use the internal TMU Application: Current students at the university, including Chang School students wanting to apply to an undergraduate program, Previous students at the university (since fall 1984), including Chang School students, Applicants interested in a part-time Program only at the university, You are applying to be a Special Student."
+    },
+    {
+        "prompt": "What should I do after I've applied?",
+        "completion": "Visit After I've Applied to stay up to date and to ensure your application is complete."
+    },
+    {
+        "prompt": "What is the Ontario Universities' Application Centre?",
+        "completion": "The Ontario Universities' Application Centre (OUAC) is an online application system that allows students to apply to multiple universities in Ontario with one application. It is managed by the Council of Ontario Universities."
+    },
+    {
+        "prompt": "What is the 101 application?",
+        "completion": "The 101 application is the application for high school students applying to Ontario universities through the Ontario Universities' Application Centre (OUAC). It is used by students who are currently in high school or have graduated within the last two years."
+    },
+    {
+        "prompt": "What is the 105 application?",
+        "completion": "The 105 application is the application for all other full-time applicants to Ontario universities through the Ontario Universities' Application Centre (OUAC). It is used by students who are not currently in high school or have graduated more than two years ago."
+    },
+    {
+        "prompt": "What is the Chang School?",
+        "completion": "The Chang School of Continuing Education at Ryerson University is a leader in innovative, career-oriented education. It offers a wide range of certificate, diploma, and degree programs, as well as professional development courses, to help students reach their educational and career goals."
+    },
+    {
+        "prompt": "What is a Special Student?",
+        "completion": "A Special Student is a student who is not enrolled in a degree or diploma program, but is taking courses for credit. Special Students are not eligible for financial aid or student services, but may be eligible for certain courses or programs."
+    },
+    {
+        "prompt": "What is the Council of Ontario Universities?",
+        "completion": "The Council of Ontario Universities (COU) is a membership organization representing Ontario's 21 publicly funded universities. COU works to promote the value of education and research, and to advocate for the interests of universities and their students."
+    }
+]

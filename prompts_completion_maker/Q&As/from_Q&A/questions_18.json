@@ -1,0 +1,46 @@
+[
+    {
+        "prompt": "What are the admission requirements if I'm from outside of Ontario/Canada?",
+        "completion": "Equivalents for Applicants Educated Outside of Ontario/Canada Applicants educated outside of Ontario must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Students who have been educated in a Canadian province and/or territory outside of Ontario can check the admission requirements including the program subject prerequisites on the Canadian Secondary School Students page. Internationally educated students are also advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+    },
+    {
+        "prompt": "What documents do I need to submit if I'm from outside of Ontario/Canada?",
+        "completion": "Applicants educated outside of Ontario must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Students who have been educated in a Canadian province and/or territory outside of Ontario must submit the appropriate documents for admission requirements including the program subject prerequisites. Internationally educated students must submit the appropriate documents for International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. International applicants must also submit documents to demonstrate a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+    },
+    {
+        "prompt": "What is the minimum average/grade required for admission if I'm from outside of Ontario/Canada?",
+        "completion": "While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+    },
+    {
+        "prompt": "What is the admission process for international students?",
+        "completion": "International applicants must submit the appropriate documents for International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. International applicants must also submit documents to demonstrate a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing. Applicants must also meet the minimum average/grade requirements for admission, although due to competition, applicants may need to present averages/grades above the minimum."
+    },
+    {
+        "prompt": "What is the admission process for students from other Canadian provinces?",
+        "completion": "Students who have been educated in a Canadian province and/or territory outside of Ontario must submit the appropriate documents for admission requirements including the program subject prerequisites. Applicants must also meet the minimum average/grade requirements for admission, although due to competition, applicants may need to present averages/grades above the minimum."
+    },
+    {
+        "prompt": "What documents do I need to submit if I'm from another Canadian province?",
+        "completion": "Students who have been educated in a Canadian province and/or territory outside of Ontario must submit the appropriate documents for admission requirements including the program subject prerequisites. Applicants must also submit documents to demonstrate a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+    },
+    {
+        "prompt": "What is the minimum overall standing required for admission if I'm from outside of Ontario/Canada?",
+        "completion": "International applicants are required to achieve a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing. While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines."
+    },
+    {
+        "prompt": "What documents do I need to submit to demonstrate a high overall standing if I'm from outside of Ontario/Canada?",
+        "completion": "International applicants must submit documents to demonstrate a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing. These documents may include transcripts, diplomas, and/or certificates from previous educational institutions."
+    },
+    {
+        "prompt": "What is the admission process for students from outside of Ontario/Canada?",
+        "completion": "Applicants educated outside of Ontario must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Students who have been educated in a Canadian province and/or territory outside of Ontario can check the admission requirements including the program subject prerequisites on the Canadian Secondary School Students page. Internationally educated students are also advised to visit our website to view the International Admission Requirements by Country and the Prerequisite Subjects by Faculty/Program before they apply. International applicants must also submit documents to demonstrate a high overall standing in their studies and to include the appropriate program subject prerequisites with high standing."
+    },
+    {
+        "prompt": "What is the minimum average/grade required for admission if I'm from another Canadian province?",
+        "completion": "While minimum averages/grades are required, due to competition, applicants may need to present averages/grades above the minimum. Minimum averages/grades should only be used as guidelines. Students who have been educated in a Canadian province and/or territory outside of Ontario must meet the minimum average/grade requirements for admission."
+    },
+    {
+        "prompt": "What is the admission process for students from Ontario?",
+        "completion": "Applicants educated in Ontario must submit evidence of education equivalent to the Ontario Secondary School Diploma (OSSD) with six Grade 12 U or M courses. Students must also check the admission requirements including the program subject prerequisites on the Canadian Secondary School Students page. Applicants must also meet the minimum average/grade requirements for admission, although due to competition, applicants may need to present averages/grades above the minimum."
+    }
+]

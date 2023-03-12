@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "What are the admission grade requirements?",
+        "completion": "Averages/grades required for admission selection to each undergraduate program is determined on the basis of competition each year. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program. If you are not on track to meet admission requirements, please contact Undergraduate Admissions and Recruitment to discuss your options, including alternative program options and upgrading."
+    },
+    {
+        "prompt": "What is the admission selection process?",
+        "completion": "The admission selection process for undergraduate programs at Toronto Metropolitan University is based on competition each year. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program. Applicants must meet the admission requirements to be considered for admission."
+    },
+    {
+        "prompt": "What are the cut-off averages for admission?",
+        "completion": "The cut-off averages for admission to each undergraduate program at Toronto Metropolitan University are determined on the basis of competition each year. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+    },
+    {
+        "prompt": "Where can I find the cut-off averages for admission?",
+        "completion": "The cut-off averages for admission to each undergraduate program at Toronto Metropolitan University can be found on the Undergraduate Admissions and Recruitment website for each program."
+    },
+    {
+        "prompt": "What should I do if I don't meet the admission requirements?",
+        "completion": "If you are not on track to meet admission requirements, please contact Undergraduate Admissions and Recruitment to discuss your options, including alternative program options and upgrading."
+    },
+    {
+        "prompt": "What are the alternative program options?",
+        "completion": "Alternative program options may include different majors or minors, or taking additional courses to upgrade your grades. Please contact Undergraduate Admissions and Recruitment to discuss your options."
+    },
+    {
+        "prompt": "What is the minimum grade requirement for admission?",
+        "completion": "The minimum grade requirement for admission to each undergraduate program at Toronto Metropolitan University is determined on the basis of competition each year. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program."
+    },
+    {
+        "prompt": "What is the admission process for international students?",
+        "completion": "International students must meet the same admission requirements as domestic students. Cut-off averages from the previous year can be found on the Undergraduate Admissions and Recruitment website for each program. Additional requirements may apply for international students, such as language proficiency tests."
+    },
+    {
+        "prompt": "What are the language proficiency requirements for international students?",
+        "completion": "International students must demonstrate language proficiency in English or French in order to be considered for admission. Language proficiency tests such as IELTS or TOEFL may be required. Please contact Undergraduate Admissions and Recruitment for more information."
+    },
+    {
+        "prompt": "What is the deadline for admission applications?",
+        "completion": "The deadline for admission applications to Toronto Metropolitan University is determined on the basis of competition each year. Please visit the Undergraduate Admissions and Recruitment website for more information on deadlines and application requirements."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "Do you accept summer school courses?",
+        "completion": "Summer School, Night School, Correspondence Courses"
+    },
+    {
+        "prompt": "Does the university accept courses completed via summer school?",
+        "completion": "Yes, the university will consider courses completed via summer school, night school and correspondence."
+    },
+    {
+        "prompt": "Do I need to complete all courses by the end of June?",
+        "completion": "Yes, all courses required for admission (including completion of the OSSD or equivalent) must be completed by the end of June unless otherwise approved in writing by the Office of Undergraduate Admissions."
+    },
+    {
+        "prompt": "Can I request an extension for summer school courses?",
+        "completion": "Yes, applicants who would like the university to consider extensions for summer school, night school or correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form."
+    },
+    {
+        "prompt": "Are requests for extensions beyond the end of June considered?",
+        "completion": "Yes, requests for extensions beyond the end of June are considered based on overall academic performance and space availability."
+    },
+    {
+        "prompt": "Does the university accept night school courses?",
+        "completion": "Yes, the university will consider courses completed via summer school, night school and correspondence."
+    },
+    {
+        "prompt": "Does the university accept correspondence courses?",
+        "completion": "Yes, the university will consider courses completed via summer school, night school and correspondence."
+    },
+    {
+        "prompt": "Do I need to submit a form for summer school extensions?",
+        "completion": "Yes, applicants who would like the university to consider extensions for summer school, night school or correspondence course(s) completed after the end of June must complete and submit a Summer School Extension Request Form."
+    },
+    {
+        "prompt": "What are the criteria for summer school extensions?",
+        "completion": "Requests for extensions beyond the end of June are considered based on overall academic performance and space availability."
+    },
+    {
+        "prompt": "What courses are accepted by the university?",
+        "completion": "The university will consider courses completed via summer school, night school and correspondence."
+    }
+]
